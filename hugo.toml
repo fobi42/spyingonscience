@@ -1,0 +1,4 @@
+baseURL = 'spyingonscience.com'
+languageCode = 'en-us'
+title = 'Spying on science'
+theme = 'newsroom'
