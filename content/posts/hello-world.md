@@ -7,4 +7,3 @@ image: "leyla-kiko.jpeg"
 
 Hello world.. this is my new website
 
-![test](pedro.jpg)
