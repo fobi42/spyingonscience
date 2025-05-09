@@ -1,6 +1,6 @@
 ---
-title: "Aquatische Ökologie & Limnologie"
-date: 2025-05-0820:52:58+02:00
+title: "Gewässerforschung & Limnologie"
+date: 2025-05-08T20:52:58+02:00
 draft: false
 ---
 ___
@@ -10,7 +10,7 @@ ___
 
 ## Diese Dienstleistungen biete ich derzeit an
 Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung. Ich bilde mich auch nach meinem Studienabschluss fort und freue mich sehr über neue Chancen. Meine Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung für freie Limnologen [(Leistungsverzeichnis für Limnologie, 2012)](https://limnologen.com/honorarermittlung/).
-* 🚗 Assistenz in der Feldarbeit vor Ort (von München (BY) ausgehend z. Zt. deutschlandweit) 
+  * 🚗 Assistenz in der Feldarbeit vor Ort (von München (BY) ausgehend z. Zt. deutschlandweit) 
     * Protokollführung
     * Hydrophysiologische Messungen nach Einweisung in die Gerätschaften
     * Unterstützung der Probenahme und Probenfixierung/-herbarisierung (Phytobenthos ohne Diatomeen und Makrophyten, Makrozoobenthos) entsprechend Einweisung in den individuellen Workflow und entspechender Handlungsanweisung des Auftrags
