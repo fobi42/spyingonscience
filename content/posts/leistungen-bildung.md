@@ -2,6 +2,7 @@
 title: "WissKomm & außerschulische Bildung"
 date: 2025-05-08T22:52:58+02:00
 draft: false
+image: "scicomm.png"
 ---
 ___
 > 🤝 Naturwissenschaftliche Inhalte direkt an den Mensch zu bringen und dadurch **nachhaltig Umweltkompetenz zu vermitteln, zu fördern und zu stärken** ist mir ein besonderes Anliegen. In die Tat setzte ich dies durch mein Mitwirken bei verschiedenen Events um.  
