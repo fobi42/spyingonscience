@@ -3,7 +3,7 @@
 title: "Aktuelles & Veranstaltungen"
 date: 2025-05-08T22:52:58+02:00
 draft: false
-image: "Spying on Science Logo.png"
+image: "kalender.png"
 ---
 ___
 > 🤝 Wo kann man mich persönlich kennen lernen? Bei welchen Veranstaltungen wirke ich mit?  
