@@ -2,6 +2,7 @@
 title: "Gewässerforschung & Limnologie"
 date: 2025-05-08T20:52:58+02:00
 draft: false
+image: "diatoms.png"
 ---
 ___
 > Im Rahmen meiner wissenschaftlichen Arbeit als freiberufliche Biologin biete ich u. A. Tätigkeiten zu den Stichworten Limnologie, Feldarbeit, Mikroskopie und Diatomeen an. Informieren Sie sich gerne auf dieser Seite, ob eine Zusammenarbeit mit mir Sie überzeugt.  
