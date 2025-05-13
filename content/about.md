@@ -2,6 +2,7 @@
 title: "It's me: Über meine Person, Passion und Mission"
 date: 2025-05-08T20:30:29+02:00
 draft: false
+image: "Spying on Science Logo.png"
 ---
 
 ___
