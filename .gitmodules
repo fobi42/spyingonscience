@@ -4,3 +4,6 @@
 [submodule "themes/hugo-cards"]
 	path = themes/hugo-cards
 	url = https://github.com/bul-ikana/hugo-cards.git
+[submodule "themes/lightbi"]
+	path = themes/lightbi
+	url = https://github.com/binokochumolvarghese/lightbi-hugo.git
