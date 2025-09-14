@@ -1,5 +1,5 @@
 ---
-title: " 2016 bis 2024: Studium der Biologie (B.Sc.  &  M.Sc.)"
+#title: " 2016 bis 2024: Studium der Biologie (B.Sc.  &  M.Sc.)"
 date: 2025-05-08T20:30:29+02:00
 draft: false
 ---

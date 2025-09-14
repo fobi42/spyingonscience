@@ -1,5 +1,5 @@
 ---
-title: "Impressum & Kontakt"
+#title: "Impressum & Kontakt"
 date: 2025-05-13T16:30:29+02:00
 draft: false
 ---

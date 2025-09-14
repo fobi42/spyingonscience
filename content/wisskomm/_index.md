@@ -1,5 +1,5 @@
 ---
-title: "WissKomm & außerschulische Bildung"
+#title: "WissKomm & außerschulische Bildung"
 date: 2025-05-08T22:52:58+02:00
 draft: false
 image: "scicomm.png"

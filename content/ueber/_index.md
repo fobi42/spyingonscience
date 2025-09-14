@@ -1,6 +1,6 @@
 
 ---
-title: " Über meine Person, Passion & Mission"
+#title: " Über meine Person, Passion & Mission"
 date: 2025-05-08T20:30:29+02:00
 draft: false
 image: "images/logo.png"

@@ -1,5 +1,5 @@
 ---
-title: "Gewässerforschung"
+#title: "Gewässerforschung"
 date: 2025-05-08T20:52:58+02:00
 draft: false
 image: "diatoms.png"

@@ -1,6 +1,6 @@
 
 ---
-title: "seit 2024: Freiberufliche Arbeit als Biologin in der Gewässerforschung"
+#title: "seit 2024: Freiberufliche Arbeit als Biologin in der Gewässerforschung"
 date: 2025-05-08T20:30:29+02:00
 draft: false
 ---
