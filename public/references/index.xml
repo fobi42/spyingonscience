@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Referenzen on spying on science</title>
-    <link>spyingonscience.com/references/</link>
+    <link>//localhost:1313/references/</link>
     <description>Recent content in Referenzen on spying on science</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="spyingonscience.com/references/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/references/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
