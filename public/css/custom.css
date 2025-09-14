@@ -1,0 +1,24 @@
+main section:nth-child(odd) {
+    background-color: #f9f9f9; /* light gray */
+  }
+  
+  main section:nth-child(even) {
+    background-color: #e0f7fa; /* light blue */
+  }
+  
+  main section {
+    background: #ffffff;       /* white background */
+    border: 1px solid #ddd;    /* subtle border */
+    border-radius: 8px;        /* rounded corners */
+    padding: 2rem;             /* inner spacing */
+    margin: 2rem auto;         /* spacing between sections */
+    max-width: 800px;          /* keep content centered and not too wide */
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05); /* soft shadow */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  /* Hover effect for clickable feel */
+  main section:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+  }

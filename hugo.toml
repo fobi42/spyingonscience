@@ -1,4 +1,98 @@
 baseURL = 'spyingonscience.com'
-languageCode = 'en-us'
-title = 'Spying on science'
-theme = 'newsroom'
+title = 'spying on science'
+
+languageCode = "en"
+theme = "lightbi"
+summaryLength  = "30"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClassic = true
+pygmentOptions = "linenos=inline"
+#googleAnalytics = "XXX"
+enableRobotsTXT = true
+enableGitInfo = false
+ignoreLogs = ['warning-goldmark-raw-html']
+
+
+[Params]
+selfHosted = true
+mainSections = ["posts"]
+dateFormat = "02 January 2006"
+comments = false
+readingTime = false
+wordCount = false
+hideAuthor = false
+useHLJS = true
+socialShare = true
+delayDisqus = true
+showRelatedPosts = true 
+gcse = false
+Lastmod = false
+rss = true 
+pagination = "10"
+description="Your can add your website description here."
+lunrSearch = true
+previewCardImagePlacement = "bottom"
+hidePostImage = false
+tagSubtitle = "Here, you’ll discover the latest notes that explore new insights, and unique perspectives on the world."
+homepageLayout = "profile" #blog
+profileShortbio = "I’m passionate about the web platform and love creating for the web. Here, you'll find a mix of long essays, quick notes, and personal reflections on what I’ve learned throughout my journey."
+profilePhoto = "kiko.jpeg"
+
+[pagination]
+pagerSize = 9
+
+
+
+[Params.Author]
+  name = "Andrea Koplitz-Weißgerber"
+  website = "https://www.spyingonscience.com/"
+  authorInfo = "Give everything for your dreams."
+  authorPostImage = "/images/kiko.jpeg"
+  instagram = "spyingonscience"
+  linkedin = "andrea-koplitz-weissgerber"
+
+
+
+
+
+[[menu.main]]
+    name = "Termine"
+    url = "/events/"
+    weight = 2
+
+[[menu.main]]
+    name = "Referentin"
+    url = "/wisskomm/"
+    weight = 4
+
+
+[[menu.main]]
+    name = "Limnologie"
+    url = "/limnologie/"
+    weight = 3
+
+
+[[menu.main]]
+    name = "Über"
+    url = "/ueber/"
+    weight = 5
+
+[[menu.main]]
+    name = "Impressum"
+    url = "/contact/"
+    weight = 6
+
+#[[menu.main]]
+#    name = "Blog"
+#    url = "/posts/"
+#    weight = 7
+
+
+#[[menu.main]]
+#    name = "🔐Datenschutz"
+#    url = "/privacy/"
+#    weight = 8

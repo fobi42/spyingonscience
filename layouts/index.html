@@ -1,0 +1,80 @@
+{{ define "main" }}
+
+  <section style="padding:10%">
+    <div style="  display: flex; align-items: center; gap: 2rem;flex-wrap: wrap; "> 
+        <div style="flex: 1;">Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #spyingonscience <br> <br> 
+          Mein Name ist Andrea, ich bin spezialisierte Biologin & begeisterste Wissensvermittlerin.  <br> <br> 
+          Herzlich willkommen auf meiner Webseite. </div>     
+        <div ><img style="  max-width: 250px; border-radius: 8px; height: auto;" src="/images/logo.png" alt="Profile Picture" style="max-width:200px; border-radius:8px;">
+        </div>
+    </div>
+  </section>
+
+  <section style="background-color: white;  background: #ffffff;       /* white background */
+  border: 1px solid #ddd;    /* subtle border */
+  border-radius: 8px;        /* rounded corners */
+  padding: 2rem;             /* inner spacing */
+  margin: 2rem auto;         /* spacing between sections */
+  max-width: 800px;          /* keep content centered and not too wide */
+  width:70%;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05); /* soft shadow */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;">
+    <a href="{{ (site.GetPage "events").RelPermalink }}" class="section-link">
+        <h2>Aktuelles & Termine.</h2>
+        <div ><img style="  max-width: 250px; border-radius: 8px; height: auto;" src="/images/kalender.png" alt="Profile Picture" style="max-width:200px; border-radius:8px;">
+    </a>
+  </section>
+
+
+  <section style="background-color: #f9f9f9;  background: #ffffff;       /* white background */
+  border: 1px solid #ddd;    /* subtle border */
+  border-radius: 8px;        /* rounded corners */
+  padding: 2rem;             /* inner spacing */
+  margin: 2rem auto;         /* spacing between sections */
+  max-width: 800px;          /* keep content centered and not too wide */
+  width:70%;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05); /* soft shadow */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;">
+    <a href="{{ (site.GetPage "limnologie").RelPermalink }}" class="section-link">
+        <h2>Gewässerforschung. </h2>
+        <div ><img style="  max-width: 250px; border-radius: 8px; height: auto;" src="/images/diatoms.png" alt="Profile Picture" style="max-width:200px; border-radius:8px;">
+    </a>
+  </section>
+
+
+  <section style="background-color: white;  background: #ffffff;       /* white background */
+  border: 1px solid #ddd;    /* subtle border */
+  border-radius: 8px;        /* rounded corners */
+  padding: 2rem;             /* inner spacing */
+  margin: 2rem auto;         /* spacing between sections */
+  max-width: 800px;          /* keep content centered and not too wide */
+  width:70%;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05); /* soft shadow */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;">
+    <a href="{{ (site.GetPage "wisskomm").RelPermalink }}" class="section-link">
+        <h2>Referentin für Naturwissenschaften.</h2>
+        <div ><img style="  max-width: 250px; border-radius: 8px; height: auto;" src="/images/scicomm.png" alt="Profile Picture" style="max-width:200px; border-radius:8px;">
+    </a>
+  </section>
+
+
+
+  <section style="background-color: white;  background: #ffffff;       /* white background */
+  border: 1px solid #ddd;    /* subtle border */
+  border-radius: 8px;        /* rounded corners */
+  padding: 2rem;             /* inner spacing */
+  margin: 2rem auto;         /* spacing between sections */
+  max-width: 800px;          /* keep content centered and not too wide */
+  width:70%;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05); /* soft shadow */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;"
+   onMouseOut="this.style.color='#00F'">
+    <a href="{{ (site.GetPage "about").RelPermalink }}" class="section-link">
+        <h2>Über mich.</h2>
+        <div ><img style="  max-width: 250px; border-radius: 8px; height: auto; "  src="/images/logo.png" alt="Profile Picture" style="max-width:200px; border-radius:8px;">
+    </a>
+  </section>
+
+{{ end }}
+
+
