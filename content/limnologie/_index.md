@@ -5,7 +5,7 @@ draft: false
 image: "diatoms.png"
 ---
 
-![Scenario 1: Across columns](/images/diatoms.png)
+![Limnologie](/images/diatoms.png)
 
 # **Gewässerforscherin/Limnologin**.
 ___
