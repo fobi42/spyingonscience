@@ -31,4 +31,4 @@ ___
 
 ## Referenzen.
 
-Einenen Einblick in meine bisherigen Aufträge & Erfahrung finden Sie [hier](/references/).
+Einen Einblick in meine bisherigen Aufträge & Erfahrung finden Sie [hier](/references/).
