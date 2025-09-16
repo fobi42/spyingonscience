@@ -9,19 +9,19 @@ image: "diatoms.png"
 
 # **Gewässerforscherin/Limnologin**.
 ___
-* 🤝 Im Rahmen meiner wissenschaftlichen Arbeit als freiberufliche Biologin biete ich u. A. Tätigkeiten zu den Stichworten Limnologie, Feldarbeit, Mikroskopie & Diatomeen an. Informieren Sie sich gerne auf dieser Seite & überzeugen Sie sich von einer Zusammenarbeit mit mir.  
+* Im Rahmen meiner wissenschaftlichen Arbeit als freiberufliche Biologin biete ich u. A. Tätigkeiten zu den Stichworten Limnologie, Feldarbeit, Mikroskopie & Diatomeen an. Informieren Sie sich gerne auf dieser Seite & überzeugen Sie sich von einer Zusammenarbeit mit mir.  
 
-* 📩 **Kontaktieren Sie mich [gerne per E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) für allgemeine Fragen & konkrete Anfragen.** Ich bin gerne behilflich & nehme mir die Zeit für Sie. Bitte rechnen Sie mit einer Antwortdauer von bis zu 5 Werktagen (vor allem während der Geländesaison im Mai-Oktober).  
+* **Kontaktieren Sie mich [gerne per E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) für allgemeine Fragen & konkrete Anfragen.** Ich bin gerne behilflich & nehme mir die Zeit für Sie. .  
 
-* 🤩 Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung. Ich bilde mich auch nach meinem Studienabschluss fort & freue mich sehr über neue Chancen. 
+* Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung. Ich bilde mich auch nach meinem Studienabschluss fort & freue mich sehr über neue Chancen. 
 
 
-+ 😊 Ich arbeite mit guter Laune & habe gerne einen lösungsorientierten Vorschlag bei etwaigen Hürden parat.
+* Ich arbeite mit guter Laune & habe gerne einen lösungsorientierten Vorschlag bei etwaigen Hürden parat.
 ___ 
 
 ## Leistungsportfolio.
 
-Eine übersicht meiner Leistungen finden Sie [hier](/leistung/).
+Eine übersicht meiner Leistungen finden Sie [hier](/leistung/).  
 ___
 
 ## Preise.
@@ -31,4 +31,4 @@ ___
 
 ## Referenzen.
 
-Einen Einblick in meine bisherigen Aufträge & Erfahrung finden Sie [hier](/references/).
+Einen Einblick in meine bisherigen Aufträge & meine Erfahrung finden Sie [hier](/references/).

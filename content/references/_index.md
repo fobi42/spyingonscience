@@ -7,7 +7,7 @@ image: "scicomm.png"
 
 ## Referenzen
 
-Diese chronologische Auflistung abgeschlossener Projekte (kürzlich abgeschlossene Projekte zuerst) erhebt keinen Anspruch auf Vollständigkeit sondern dient Ihnen als Orientierung bzgl. meiner bisherigen Arbeitserfahrung. 
+Diese chronologische Auflistung **abgeschlossener Projekte** (kürzlich abgeschlossene Projekte zuerst) erhebt keinen Anspruch auf Vollständigkeit sondern dient Ihnen als Orientierung bzgl. meiner bisherigen Arbeitserfahrung. 
 ___
 
 #### 2025

@@ -8,18 +8,20 @@ image: "scicomm.png"
 ![Scenario 1: Across columns](/images/scicomm.png)
 # **Referentin für Naturwissenschaften**.
 ___
-* ❤️ Naturwissenschaftliche Inhalte direkt an den Menschen bringen & dadurch nachhaltig Umweltkompetenz zu vermitteln, zu fördern & zu stärken ist mir ein besonderes Anliegen. 
+* Naturwissenschaftliche Inhalte direkt an den Menschen bringen & dadurch nachhaltig Umweltkompetenz zu vermitteln, zu fördern & zu stärken ist mir ein besonderes Anliegen. 
 
-* ⚙️ Ich mache nicht "einfach nur ein bisschen Wissenschschaftskommunikation nebenher". Ich erarbeite Bildungskonzepte & biete personalisierte Bildungs- & Umwelt-Spaß-Veranstaltungen an.  
+* Ich mache nicht "einfach nur ein bisschen Wissenschschaftskommunikation nebenher". Ich erarbeite Bildungskonzepte & biete personalisierte Bildungs- & Umwelt-Spaß-Veranstaltungen an.  
 
-* 🚀 Ich bin sehr interessiert an neuen Ideen, Herausforderungen & Settings! [Schreiben Sie mir gerne gleich jetzt eine E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com). Bitte rechnen Sie mit einer Antwortdauer von bis zu 5 Werktagen (vor allem während der Geländesaison im Mai-Oktober). 
+* Ich bin sehr interessiert an neuen Ideen, Herausforderungen & Settings! [Schreiben Sie mir gerne gleich jetzt eine E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com).  
 ___
 
 ## Leistungsportfolio.  
 
+
 #### Individuelle Veranstaltungen gemeinsam mit Ihnen & mir.
 Gerne erarbeite & betreue ich für Sie eine spannende, mitreißende & kreative Veranstaltung mit viel Raum für Fragen & Diskussion. 
-Ob bei Ihnen zuhause, in der Firma oder draußen in der Natur! Sie haben nun direkt Fragen oder Interesse mit mir gemeinsam eine Veranstaltung zu planen? [Schreiben Sie mir gerne gleich jetzt eine E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com). Bitte rechnen Sie mit einer Antwortdauer von bis zu 5 Werktagen (vor allem während der Geländesaison im Mai-Oktober).   
+Ob bei Ihnen zuhause, in der Firma oder draußen in der Natur! Sie haben nun direkt Fragen oder Interesse mit mir gemeinsam eine Veranstaltung zu planen? [Schreiben Sie mir gerne gleich jetzt eine E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com).    
+
 
 #### Außerschulische Bildungseinrichtungen in München.
 Gemeinsam mit einem großartigen Team führe ich Workshops & Führungen rund um Mensch, Umwelt, Naturwissenschaft &  Nachhaltigkeit in Zusammenarbeit mit den Einrichtungen der SNSB ([Staatlich Naturwissenschaftliche Sammlungen Bayerns](https://snsb.de/)) in München durch.  

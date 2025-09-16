@@ -71,7 +71,7 @@ pagerSize = 9
 
 
 [[menu.main]]
-    name = "Limnologie"
+    name = "Limnologin"
     url = "/limnologie/"
     weight = 3
 
@@ -82,7 +82,7 @@ pagerSize = 9
     weight = 5
 
 [[menu.main]]
-    name = "Impressum"
+    name = "Impressum/Datenschutz"
     url = "/contact/"
     weight = 6
 

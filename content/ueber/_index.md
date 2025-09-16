@@ -9,10 +9,9 @@ image: "images/logo.png"
 
 # **Meine Person, Passion & Mission.**
 ___
-* 📖 Ein tiefergehender Umriss **meiner Vita & meiner Qualifikationen** kann auf meinem [LinkedIn-Profil](https://www.linkedin.com/in/andrea-koplitz-weissgerber/) abgerufen werden. 
+* Ein tiefergehender Umriss **meiner Vita & meiner Qualifikationen** kann auf meinem [LinkedIn-Profil](https://www.linkedin.com/in/andrea-koplitz-weissgerber/) abgerufen werden. 
 
-* 📩 **Sie wollen direkt mit mir Kontaktaufnehmen?** Nur zu! Ich freue mich über eine [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com). Bitte rechnen Sie mit einer Antwortdauer von bis zu 5 Werktagen (vor allem während der Geländesaison im Mai-Oktober).
-___
+* **Sie wollen direkt mit mir Kontaktaufnehmen?** Nur zu! Ich freue mich über eine [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com).
   
 ## [2016 bis 2024.](/about-studium/)
 Studium der Biologie (B.Sc.  &  M.Sc.).  

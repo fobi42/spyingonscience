@@ -7,6 +7,10 @@ image: "diatoms.png"
 ## Leistungsportfolio 
 ___
 
+
+Ein ausgeschmücktes Leistungsportfolio können Sie [hier ](/images/portfolio-limno.jpg/) als Grafik ansehen. 
+___
+
 #### Assistenz in der Feldarbeit vor Ort  
    (von München (BY) ausgehend deutschlandweit) 
 * Protokollführung
