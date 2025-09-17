@@ -5,7 +5,7 @@ date: 2025-05-08T20:30:29+02:00
 draft: false
 image: "images/logo.png"
 ---
-![Scenario 1: Across columns](/images/logo.png)
+![spyingonscience-logo](/images/me.png) 
 
 # **Meine Person, Passion & Mission.**
 ___

@@ -7,7 +7,7 @@ draft: false
 
 ## Veranstaltungsarchiv 
 
-Hier im Archiv sind vergangene Veranstaltungen der letzten Monate & Jahre für Interessierte zum stöbern chronologisch aufgelistet. Die  Liste erhebt keinen Anspruch auf Vollständigkeit, sondern soll einfach einen Einblick in meine bisherige Arbeit gewähren. 
+Hier im Archiv sind vergangene Veranstaltungen der letzten Monate & Jahre für Interessierte zum stöbern chronologisch aufgelistet. Die Liste erhebt keinen Anspruch auf Vollständigkeit, sondern soll einfach einen Einblick in meine bisherige Arbeit gewähren. 
 
 ___
 

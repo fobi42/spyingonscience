@@ -10,17 +10,17 @@ Andrea Koplitz-Weißgerber, Freiberufliche Biologin
 Telefon: +49 160 9627 2988  
 E-Mail: [spyingonscience@posteo.com](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com)
 
-Für ausfühliche Informationen zum Datenschutz besuchen Sie [diese Seite](/privacy/).  
+Für ausfühliche Informationen zum Datenschutz besuchen Sie [diese Seite](/privacy/) (https://spyingonscience.com/privacy/).  
 ___
 
 ## Berufsbezeichnung & berufsrechtliche Regelungen
-Berufsbezeichnung: Biologin, M. Sc. Biologie  
-Verliehen in: Deutschland  
-Es gelten folgende berufsrechtliche Regelungen: keine  
-Weiterführende Informationen: 
-* [Freiberuflichkeit als Biologe/Biologin (Verband Biologie, Biowissenschaften und Biomedizin in Deutschland e.V. - VBIO)](https://www.vbio.de/ausbildung-beruf/freiebiologen#c5369)
-* [Berufe in den Life Sciences (Verband Biologie, Biowissenschaften und Biomedizin in Deutschland e.V. - VBIO)](https://www.vbio.de/fileadmin/user_upload/Redaktion_Beruf/pdf/Klassifikation_der_Berufe_in_den_LifeSciences.pdf)  
-* [Arbeitskreis selbstständiger Limnologen](https://limnologen.com/)
+* Berufsbezeichnung: Biologin, M. Sc. Biologie  
+* Verliehen in: Deutschland  
+* Es gelten folgende berufsrechtliche Regelungen: keine  
+* Weiterführende Informationen:  
+    * [Freiberuflichkeit als Biologe/Biologin (Verband Biologie, Biowissenschaften und Biomedizin in Deutschland e.V. - VBIO)](https://www.vbio.de/ausbildung-beruf/freiebiologen#c5369)
+    * [Berufe in den Life Sciences (Verband Biologie, Biowissenschaften und Biomedizin in Deutschland e.V. - VBIO)](https://www.vbio.de/fileadmin/user_upload/Redaktion_Beruf/pdf/Klassifikation_der_Berufe_in_den_LifeSciences.pdf)  
+    * [Arbeitskreis selbstständiger Limnologen](https://limnologen.com/)
 
 ___
 
@@ -50,7 +50,7 @@ Verantwortlich für diese Website ist Andrea Koplitz-Weißgerber, Freiberufliche
 Die Datenschutzbeauftragte erreichen Sie per E-Mail unter [spyingonscience@posteo.com](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com)
 oder per Telefon: +49 160 9627 2988.
 
-Für ausfühliche Informationen zum Datenschutz besuchen Sie [diese Seite](/privacy/).  
+Für ausfühliche Informationen zum Datenschutz besuchen Sie [diese Seite](/privacy/) (https://spyingonscience.com/privacy/).  
 ___
 
 

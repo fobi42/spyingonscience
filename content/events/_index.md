@@ -11,14 +11,13 @@ image: "images/kalender.png"
 # **News & aktuelle Veranstaltungen.**
 ___
 
-* 🤝 Nutzen Sie die Gelegenheit mich persönlich kennenzulernen!
+* Nutzen Sie die Gelegenheit mich persönlich kennenzulernen!
   
-* **💸 Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem geringen Beitrag oder ganz kostenlos besucht werden!**  
+* **Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem geringen Beitrag oder ganz kostenlos besucht werden!**  
 
-* 🚨 In der Welt der Naturwissenschaft gibt's immer Neues zu entdecken oder Bekanntes besser zu verstehen. Alle möglichen News aus "meiner Bubble" & meinem Wirkungsradius teile ich nicht nur hier, sondern auch mehr oder weniger regelmäßig auf meinem [Social-Media Kanal](https://www.instagram.com/spyingonscience/). 
+* In der Welt der Naturwissenschaft gibt's immer Neues zu entdecken oder Bekanntes besser zu verstehen. Alle möglichen News aus "meiner Bubble" & meinem Wirkungsradius teile ich nicht nur hier, sondern auch mehr oder weniger regelmäßig auf meinem [Social-Media Kanal](https://www.instagram.com/spyingonscience/). 
 
-* 📩 Schreiben Sie mir aber auch gerne gleich jetzt eine [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) mit all Ihren Fragen.   
-Bitte rechnen Sie mit einer Antwortdauer von bis zu 5 Werktagen (vor allem während der Geländesaison im Mai-Oktober). 
+* Schreiben Sie mir aber auch gerne gleich jetzt eine [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) mit all Ihren Fragen.   
 ___
 
 **📣📣📣 Spoiler-Meldung // Ich war in einem Wissenschaftspodcast zu Gast & durfte über meine Lieblingswinzlinge sprechen! // Release-Date ist der 13.11.25 ... weitere Infos folgen dann *hier*.**
