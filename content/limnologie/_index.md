@@ -20,7 +20,7 @@ ___
 
 ## Leistungsportfolio.
 
-Eine übersicht meiner Leistungen finden Sie [hier](/leistung/).  
+Eine übersicht meiner Leistungen finden Sie [hier](/leistung-limno/).  
 ___
 
 ## Preise.

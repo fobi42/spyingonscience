@@ -5,10 +5,7 @@ draft: false
 image: "diatoms.png"
 ---
 ## Leistungsportfolio. 
-___
 
-
-Ein ausgeschmücktes Leistungsportfolio können Sie ![hier](Bild-URL)  als Grafik ansehen. 
 ___
 
 #### Assistenz in der Feldarbeit vor Ort.   
@@ -17,7 +14,7 @@ ___
 * Protokollführung
 * Hydrophysiologische Messungen  
     (ggf. nach Einweisung in die Gerätschaften)
-* Unterstützung der Probenahme & Probenfixierung/-herbarisierung entsprechend Einweisung in den individuellen Workflow & entspechender Handlungsanweisung des Auftrags für die Komponenten Phytobenthos ohne Diatomeen, Makrophyten & Makrozoobenthos. 
+* Unterstützung der Probenahme im Gewässer & sowie im Feldlabor bei der Probenfixierung/-herbarisierung entsprechend Einweisung in den individuellen Workflow & entspechender Handlungsanweisung des Auftrags für die Komponenten **Phytobenthos ohne Diatomeen (PoD)**, **Makrophyten** & **Makrozoobenthos**. 
 * Ausrüstung: Federstahlpinzetten, Gummistiefel, Lupe 10x, Wathose, usw. nach Absprache
 * Mobilität: Führerscheine B/BE und SBF-Binnen/-See, ggf. privater PKW für An-/Abreise oder Feldarbeit
 ___
@@ -34,5 +31,11 @@ ___
     * Software: ImageFocusAlpha (Euromex)
     * Aufbereitung der Taxalisten in Microsoft Excel entsprechend aktuellen Bundestaxalisten bzw. Zieleingabeprogrammen   
 
-* Auf Wunsch: Einarbeitung in gängige Analyseprogramme PERLA, PHYLIB, etc. 
+___
 
+Auf Wunsch: Einarbeitung in gängige Analyseprogramme PHYLIB, etc. 
+___
+
+Ein ausgeschmücktes Leistungsportfolio können Sie ![hier](/images/portfolio-limno.jpg) als Grafik ansehen. 
+
+![Limnologie](/images/portfolio-limno.jpg)
