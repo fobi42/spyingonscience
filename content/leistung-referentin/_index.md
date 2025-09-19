@@ -24,3 +24,8 @@ Ich nehme Aufträge für ein Publikum allen Alters an. Beispiele für Gruppen, d
 * uvm.
 
 Klicken Sie sich doch mal durch die Internetpräsenzen des [Museums Mensch und Natur](https://mmn-muenchen.snsb.de/fuehrungen-mehr/) im Nymphenburger Schloss & des [BIOTOPIA Labs](https://biotopialab.snsb.de/programme/) im Botanischen Garten. Ich freue mich, wenn Sie hier fündig werden! Vielleicht sieht man sich ja!  
+___
+
+Ein ausgeschmücktes Leistungsportfolio können Sie [hier](/images/portfolio-referentin.jpg) als Grafik ansehen. 
+
+![Limnologie](/images/portfolio-referentin.jpg)
