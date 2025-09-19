@@ -36,6 +36,4 @@ ___
 Auf Wunsch: Einarbeitung in gängige Analyseprogramme PHYLIB, etc. 
 ___
 
-Ein ausgeschmücktes Leistungsportfolio können Sie [hier](/images/portfolio-limno.jpg) als Grafik ansehen. 
-
-![Limnologie](/images/portfolio-limno.jpg)
+Ein ausgeschmücktes Leistungsportfolio können Sie gerne [hier](/images/portfolio-limno.jpg) als Grafik ansehen. 

@@ -21,7 +21,7 @@ ___
 
 #### 2024
 * **Diatomeentaxonomie** im Projekt „Bewertung von Fließgewässern Hessens (Los 4) anhand der Diatomeen nach Phylib Bewertungsverfahren“ (Auftraggeber: Dr. Marcus Werum).
-* Limnologische **Feldarbeit* (Assistenz im Gewässer, Feldlabor)** für Projekte der Bundesländer Rheinland-Pfalz & Badenwürttemberg (Auftraggeber: Dr. Manuel M. Striegel, Dipl. Biol. Matthias Beck).
+* Limnologische **Feldarbeit (Assistenz im Gewässer, Feldlabor)** für Projekte der Bundesländer Rheinland-Pfalz & Badenwürttemberg (Auftraggeber: Dr. Manuel M. Striegel, Dipl. Biol. Matthias Beck).
 * Masterarbeit im Rahmen des Projektes „Mikroklima im Klimawandel – Refugien und Hotspots in den Bayerischen Nationalparks (MiKRoNP 2022/25): Teilprojekt (3) Quellen“ inkl.**Feldarbeit, Diatomeentaxonomie, Projektplanung, Diatomeenaufschluss, Präparatherstellung** (Ansprechpartnerin: Dr. Uta Raeder, Alumna der Limnologischen Forschungsstation Iffeldorf).
 * Leitung des dreiwöchigen Intensivkurses „Bioindikation mit **Diatomeen** und Rasterelektronenmikroskopie“ für Studierende des Studiengangs M.Sc. Biologie (Ansprechpartnerin: Dr. Uta Raeder, Alumna der Limnologischen Forschungsstation Iffeldorf).
 ___
