@@ -23,6 +23,9 @@
     <loc>//localhost:1313/leistung-limno/</loc>
     <lastmod>2025-05-08T20:52:58+02:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/leistung-referentin/</loc>
+    <lastmod>2025-05-08T20:52:58+02:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/limnologie/</loc>
     <lastmod>2025-05-08T20:52:58+02:00</lastmod>
   </url><url>
@@ -40,8 +43,6 @@
   </url><url>
     <loc>//localhost:1313/privacy/</loc>
     <lastmod>2023-08-22T23:30:29+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/leistung-referentin/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>
