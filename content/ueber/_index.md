@@ -5,7 +5,7 @@ date: 2025-05-08T20:30:29+02:00
 draft: false
 image: "images/logo.png"
 ---
-![spyingonscience-logo](/images/me.png) 
+![spyingonscience-logo](/images/me-smile.png) 
 
 # **Meine Person, Passion & Mission.**
 ___
@@ -27,3 +27,4 @@ ___
 ## [seit 2024.  ](/about-since2024/)
 **Freiberufliche Arbeit als Biologin in der Gewässerforschung.**  
 Mehr informationen dazu finden Sie [hier](/about-since2024/). 
+
