@@ -1,6 +1,6 @@
 
 --- 
-#title: "Aktuelles & Termine"
+#title: "News & Termine"
 date: 2025-05-08T22:52:58+02:00
 draft: false
 image: "images/kalender.png"
@@ -8,7 +8,7 @@ image: "images/kalender.png"
 
 ![Scenario 1: Across columns](/images/kalender.png)
 
-# **News & aktuelle Veranstaltungen.**
+# **News & Termine.**
 ___
 
 * Nutzen Sie die Gelegenheit mich persönlich kennenzulernen!
@@ -20,12 +20,16 @@ ___
 * Schreiben Sie mir aber auch gerne gleich jetzt eine [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) mit all Ihren Fragen.   
 ___
 
-**📣📣📣 Spoiler-Meldung // Ich war in einem Wissenschaftspodcast zu Gast & durfte über meine Lieblingswinzlinge sprechen! // Release-Date ist der 13.11.25 ... weitere Infos folgen dann *hier*.**
+## News.
+* 📣 📣 📣 **Spoiler-Meldung // Ich war in einem Wissenschaftspodcast zu Gast & durfte über meine Lieblingswinzlinge sprechen! // Release-Date ist der 13.11.25 ... weitere Infos folgen dann *hier*.**  
+
+* Da die Internetpräsenz der LMU überholt wurde, biete ich gerne über meine Webseite das Unterrichtskonzept "Heimische Fledermaus" (Lehrerbildung @LMU; Biologie macht Schule, 2020) an. [Hier](/images/Unterrichtskonzept_Lehrkraft_Beispiel.pdf) befindet sich ein Ausschnitt als Inspiration. Mehr Infos zu Fledermäusen, die im Rahmen des Projekts entstanden sind befinden sich [hier](/images/fledermauswissen.pdf)  
+
 ___
 
 ## Öffentliche Veranstaltungen.
 
-Oktober 2025
+#### Oktober 2025.
 * Sa., 4.10.25 um ca. 11-15:00 Uhr (München, BY)  
 [Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/)  
 * So., 5.10.25 um ca. 11-15:00 Uhr (München, BY)  
@@ -37,11 +41,11 @@ Oktober 2025
 * Fr., 31.10.25 um 15-16:00 Uhr (München, BY)  
 [Familienführung im Museum Mensch und Natur | "Die erstaunliche Welt der Fledermäuse"](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
 
-November 2025
+#### November 2025.
 * Fr., 28.11.25 um 15-16:00 Uhr (München, BY)  
 [Familienführung im Museum Mensch und Natur | "Erdbebensimulator" (Klimawoche)](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
 
-Januar 2026
+#### Januar 2026.
 * Fr., 9.1.26 um 15-16:00 Uhr (München, BY)  
 [Familienführung im Museum Mensch und Natur | "Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
 ___
@@ -49,7 +53,7 @@ ___
 
 
 ## Events mit Voranmeldung.
-Januar 2026
+#### Januar 2026.
 * Sa., 25.4.2026 um 14-16:30 Uhr (München, BY)  
 [Familienpass-Workshop: Weltverbessern to go - Nachhaltigkeit zum anfassen im Museum Mensch und Natur
 ](https://veranstaltungen.muenchen.de/ferienangebote-familienpass/familienpassangebote)

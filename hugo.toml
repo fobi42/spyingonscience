@@ -33,14 +33,14 @@ gcse = false
 Lastmod = false
 rss = true 
 pagination = "10"
-description="Your can add your website description here."
+description="Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #spyingonscience."
 lunrSearch = true
 previewCardImagePlacement = "bottom"
 hidePostImage = false
 tagSubtitle = "Here, you’ll discover the latest notes that explore new insights, and unique perspectives on the world."
 homepageLayout = "profile" #blog
-profileShortbio = "I’m passionate about the web platform and love creating for the web. Here, you'll find a mix of long essays, quick notes, and personal reflections on what I’ve learned throughout my journey."
-profilePhoto = "kiko.jpeg"
+profileShortbio = "Mein Name ist Andrea, ich bin passionierte Biologin & begeisterte Wissensvermittlerin."
+profilePhoto = "me.png"
 
 [pagination]
 pagerSize = 9
@@ -51,7 +51,7 @@ pagerSize = 9
   name = "Andrea Koplitz-Weißgerber"
   website = "https://www.spyingonscience.com/"
   authorInfo = "Give everything for your dreams."
-  authorPostImage = "/images/kiko.jpeg"
+  authorPostImage = "/images/me.png"
   instagram = "spyingonscience"
   linkedin = "andrea-koplitz-weissgerber"
 
@@ -60,29 +60,29 @@ pagerSize = 9
 
 
 [[menu.main]]
-    name = "Termine"
+    name = "  Aktuelles & Termine  "
     url = "/events/"
     weight = 2
 
 [[menu.main]]
-    name = "Referentin"
+    name = "  Referentin  "
     url = "/wisskomm/"
     weight = 4
 
 
 [[menu.main]]
-    name = "Limnologin"
+    name = "  Limnologin  "
     url = "/limnologie/"
     weight = 3
 
 
 [[menu.main]]
-    name = "Über"
+    name = "  Über  "
     url = "/ueber/"
     weight = 5
 
 [[menu.main]]
-    name = "Impressum/Datenschutz"
+    name = "  Impressum/Datenschutz  "
     url = "/contact/"
     weight = 6
 
@@ -93,6 +93,6 @@ pagerSize = 9
 
 
 #[[menu.main]]
-#    name = "🔐Datenschutz"
+#    name = "Datenschutz"
 #    url = "/privacy/"
 #    weight = 8

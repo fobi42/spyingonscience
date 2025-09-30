@@ -8,7 +8,8 @@ draft: false
 ___
   
 Vor zweihundert Jahren stellte ein Mensch fest: „Gott sei Dank, dass die Menschen noch nicht fliegen können & den Himmel ebenso verschmutzen wie die Erde.“ (Henry David Thoreau, US-amerikanischer Schriftsteller, 1817 – 1862).  
-Tja, jetzt ist es 200 Jahre später & wir Menschen können fliegen - [die ganze Welt bereisen, im Durchschnitt in über 100000 Flügen pro Tag](https://www.oag.com/airline-frequency-and-capacity-statistics#:~:text=SCHEDULED%20FLIGHT%20COUNTER&text=With%2014%2C098%2C739%20flights%20in%20total,flights%20per%20day%20is%20100%2C705.). Diese wunderbare Errungenschaft bringt viele Vorteile, aber auch eine immense Verantwortung mit sich - gesellschaftliche & ökologische Verantwortung sind hier nur zwei Stichworte aus vielen.  Aber was heißt das genau? Und hier ist der Knackpunkt:  
+Tja, jetzt ist es 200 Jahre später & wir Menschen können fliegen - [die ganze Welt bereisen, im Durchschnitt in über 100000 Flügen pro Tag](https://www.oag.com/airline-frequency-and-capacity-statistics#:~:text=SCHEDULED%20FLIGHT%20COUNTER&text=With%2014%2C098%2C739%20flights%20in%20total,flights%20per%20day%20is%20100%2C705.). Diese wunderbare Errungenschaft bringt viele Vorteile, aber auch eine immense Verantwortung mit sich - gesellschaftliche & ökologische Verantwortung sind hier nur zwei Stichworte aus vielen.   
+Aber was heißt das genau? Und hier ist der Knackpunkt:  
 **[Bildung ist der Schlüssel zu informiertem, zukunftsorientierten Handeln aller Menschen im Sinne unseres Planeten & unserer Gesellschaft](https://www.bmbf.de/DE/Bildung/AusserschulischeBildung/BildungFuerNachhaltigeEntwicklung/bildungfuernachhaltigeentwicklung_node.html)**.  
 
 ___
@@ -26,4 +27,7 @@ ___
 
 ___
 
-Informieren Sie sich gerne hier über meine Angebote [in der Gewässerforschung](/limnologie/) oder der [außerschulischen Bildung ](/wisskomm/) & kontaktieren Sie mich gerne per [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com). Bitte rechnen Sie mit einer Antwortdauer von bis zu 5 Werktagen (vor allem während der Geländesaison im Mai-Oktober).  
+Informieren Sie sich gerne hier über meine Angebote in der [Gewässerforschung](/limnologie/) oder der [außerschulischen Bildung ](/wisskomm/) & kontaktieren Sie mich gerne per [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com).  
+___
+  
+Weitere Infos auch auf [researchgate] (https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD] (https://orcid.org/my-orcid?orcid=0000-0001-8429-5448), [LinkedIn] (https://www.linkedin.com/in/andrea-koplitz-weissgerber/) und gerne auch per [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com). 
