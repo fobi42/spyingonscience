@@ -5,7 +5,7 @@ draft: false
 image: "diatoms.png"
 ---
 ## Leistungsportfolio im Fachbereich "Wissensvermittlung".  
-Ein ausgeschmücktes Leistungsportfolio können Sie gern [hier](/images/portfolio-referentin.jpg) als Grafik ansehen. 
+Ein ausgeschmücktes Leistungsportfolio können Sie gern [hier](/images/portfolio-referentin.pdf) ansehen. 
 ___  
 
 #### Individuelle Veranstaltungen gemeinsam mit Ihnen & mir.

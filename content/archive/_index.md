@@ -7,7 +7,7 @@ draft: false
 
 ## Veranstaltungsarchiv 
 
-Hier im Archiv sind vergangene Veranstaltungen der letzten Monate & Jahre für Interessierte zum stöbern chronologisch aufgelistet. Die Liste erhebt keinen Anspruch auf Vollständigkeit, sondern soll einfach einen Einblick in meine bisherige Arbeit gewähren. 
+Hier im Archiv sind vergangene Veranstaltungen der letzten Monate & Jahre für Interessierte zum stöbern chronologisch aufgelistet (neueste zuerst). Die Liste erhebt keinen Anspruch auf Vollständigkeit, sondern soll einfach einen Einblick in meine bisherige Arbeit gewähren. 
 
 ___
 
@@ -33,7 +33,8 @@ Lehrerfortbildung Grundschule 2025 – Wasserthemen spannend vermitteln
 * 17.01.25 | 15:00-16:00 | Führung | ["Erdbebensimulator" Familienführung im Museum Mensch und Natur](https://mmn-muenchen.snsb.de/familienfuehrungen/)
 
 * 03.01.25 | 15:00-16:00 | Führung | ["Tiere im Wald" Familienführung im Museum Mensch und Natur](https://mmn-muenchen.snsb.de/familienfuehrungen/)
-  
+___
+
 #### 2024.  
 * 29.11.2024 | 15:00-16:00 | Führung | [„Eine Reise durch die Geschichte des Lebens " Familienführung im Museum Mensch und Natur](https://mmn-muenchen.snsb.de/familienfuehrungen/)
 
@@ -57,12 +58,16 @@ Lehrerfortbildung Grundschule 2025 – Wasserthemen spannend vermitteln
 
 *  05.01.2024 | 15:00-16:00 | Führung | ["Wasser: Ein besonderer Stoff" Familienführung im Museum Mensch und Natur](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
 
+___
+
 #### 2023.  
 * 09.06.2023 | 15:00-16:00 | Führung | ["Wasser: Ein besonderer Stoff" Familienführung im Museum Mensch und Natur](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
 
 * 02.06.2023 | 15:00-16:00 | Führung | ["Fledermäuse einmal anders" Familienführung im Museum Mensch und Natur](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
 
 * 22.04.2023 | 13:30-16:00 Uhr | Führung + Workshop | ["Fledermäuse einmal anders" (ab 8 Jahre)](https://veranstaltungen.muenchen.de/ferienangebote-familienpass/veranstaltungen/fledermaeuse-einmal-anders-ab-8-jahre/) 
+
+___
 
 #### 2022/2021.  
 * 10.04.2022 | 10:00-16:30 | Workshops | [Water worlds: open drop-in activity](https://biotopia.net/en/biotopia-lab/dropins#program)

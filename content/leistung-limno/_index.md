@@ -5,7 +5,7 @@ draft: false
 image: "diatoms.png"
 ---
 ## Leistungsportfolio im Fachbereich "Limnologie".  
-Ein ausgeschmücktes Leistungsportfolio können Sie gerne [hier](/images/portfolio-limno.jpg) als Grafik ansehen. 
+Ein ausgeschmücktes Leistungsportfolio können Sie gerne [hier](/images/portfolio-limno.pdf) ansehen. 
 ___
 
 #### Assistenz in der Feldarbeit vor Ort.   

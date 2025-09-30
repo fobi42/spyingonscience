@@ -31,4 +31,4 @@ Informieren Sie sich gerne hier über meine Angebote [in der Gewässerforschung]
 
 ___
   
-Weitere Infos auch auf [researchgate] (https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD] (https://orcid.org/my-orcid?orcid=0000-0001-8429-5448), [LinkedIn] (https://www.linkedin.com/in/andrea-koplitz-weissgerber/) und gerne auch per [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com).
+Weitere Infos auch auf [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448), [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/) und gerne auch per [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com). 

@@ -33,14 +33,14 @@ gcse = false
 Lastmod = false
 rss = true 
 pagination = "10"
-description="Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #spyingonscience."
+description="Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #spyingonscience. Mein Name ist Andrea, ich bin passionierte Biologin & begeisterte Wissensvermittlerin."
 lunrSearch = true
 previewCardImagePlacement = "bottom"
 hidePostImage = false
 tagSubtitle = "Here, you’ll discover the latest notes that explore new insights, and unique perspectives on the world."
 homepageLayout = "profile" #blog
-profileShortbio = "Mein Name ist Andrea, ich bin passionierte Biologin & begeisterte Wissensvermittlerin."
-profilePhoto = "me.png"
+profileShortbio = "Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #spyingonscience. Mein Name ist Andrea, ich bin passionierte Biologin & begeisterte Wissensvermittlerin."
+profilePhoto = "logo.png"
 
 [pagination]
 pagerSize = 9
@@ -50,7 +50,7 @@ pagerSize = 9
 [Params.Author]
   name = "Andrea Koplitz-Weißgerber"
   website = "https://www.spyingonscience.com/"
-  authorInfo = "Give everything for your dreams."
+  authorInfo = "Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #spyingonscience."
   authorPostImage = "/images/me.png"
   instagram = "spyingonscience"
   linkedin = "andrea-koplitz-weissgerber"

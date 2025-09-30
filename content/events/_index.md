@@ -23,7 +23,7 @@ ___
 ## News.
 * 📣 📣 📣 **Spoiler-Meldung // Ich war in einem Wissenschaftspodcast zu Gast & durfte über meine Lieblingswinzlinge sprechen! // Release-Date ist der 13.11.25 ... weitere Infos folgen dann *hier*.**  
 
-* Da die Internetpräsenz der LMU überholt wurde, biete ich gerne über meine Webseite das Unterrichtskonzept "Heimische Fledermaus" (Lehrerbildung @LMU; Biologie macht Schule, 2020) an. [Hier](/images/Unterrichtskonzept_Lehrkraft_Beispiel.pdf) befindet sich ein Ausschnitt als Inspiration. Mehr Infos zu Fledermäusen, die im Rahmen des Projekts entstanden sind befinden sich [hier](/images/fledermauswissen.pdf)  
+* Da die Internetpräsenz der LMU überholt wurde, biete ich gerne über meine Webseite das Unterrichtskonzept "Heimische Fledermaus" (Lehrerbildung @LMU; Biologie macht Schule, 2020) an. [Hier](/images/Unterrichtskonzept_Lehrkraft_Beispiel.pdf) befindet sich ein Ausschnitt als Inspiration. Mehr Infos zu Fledermäusen, die im Rahmen des Projekts entstanden sind befinden sich [hier](/images/fledermauswissen.pdf).  
 
 ___
 

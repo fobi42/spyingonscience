@@ -22,7 +22,7 @@ Diese Auswahl aus der "Spitze des Eisbergs" zeigt auf wie wichtig es ist, das Wa
 
 ___
 
-Unabdingbar sind Wasserschutz-Richtlinien & engmaschige Beobachtungs- ("Monitoring-") Netzwerke zur Ermittlung von direkten Maßnahmen & Vorhersagen. Bestrebungen in Europa haben ([Stand 2024](https://www.bund.net/service/presse/pressemitteilungen/detail/news/gewaesser-in-der-eu-und-in-deutschland-in-schlechtem-zustand/)) gezeigt, dass wir hier nur mehr 40% gesunde Oberflächengewässerhaben & max. 89% der Grundwasserkörper in gutem Zustand haben - beide werden jedoch weiterhin kontinuierlich belastet.  
+Unabdingbar sind Wasserschutz-Richtlinien & engmaschige Beobachtungs- ("Monitoring-") Netzwerke zur Ermittlung von direkten Maßnahmen & Vorhersagen. Bestrebungen in Europa haben ([Stand 2024](https://www.bund.net/service/presse/pressemitteilungen/detail/news/gewaesser-in-der-eu-und-in-deutschland-in-schlechtem-zustand/)) gezeigt, dass wir hier nur mehr 40% gesunde Oberflächengewässer haben & max. 89% der Grundwasserkörper in gutem Zustand haben - beide werden jedoch weiterhin kontinuierlich belastet.  
 Die Durchsetzung von Gewässerschutz-Richtlinien & das stete Monitoring unserer Gewässer lassen auf eine positive Zukunft hoffen & erste Ergebnisse bestätigen die Wirkung der Maßnahmen: Die Gewässer werden sauberer, die Wasserqualität verbessert sich ([EEA 2018/23](https://www.eea.europa.eu/de/highlights/die-europaeischen-gewaesser-werden-sauberer)). 
 
 
@@ -32,7 +32,7 @@ Die Durchsetzung von Gewässerschutz-Richtlinien & das stete Monitoring unserer 
 
 ___
 
-[Indikatororganismen](https://www.spektrum.de/lexikon/biologie/indikatororganismen/33945#:~:text=Indikatororganismen%2C%20Indikatorarten%2C%20Zeigerarten%2C%20Organismen,von%20Umweltfaktoren(%2DKombinationen)%20erm%C3%B6glichen.) helfen uns Menschen dabei, den Ist-Zustand eines Lebensraumes (z.B. eines Gewässers) zu erfassen, zu beurteilen & durch Langzeiteobachtungen zu verfolgen & zu überwachen. In der Gewässerbeurteilung indizieren verschiedene "Komponenten"/"Module" den Gewässerzustand Zu diesen gehörn u. A. Diatomeen (Kieselalgen), Makrophyten (Wasserpflanzen) und Phytobenthische Algen (ohne Diaotmeen). 
+[Indikatororganismen](https://www.spektrum.de/lexikon/biologie/indikatororganismen/33945#:~:text=Indikatororganismen%2C%20Indikatorarten%2C%20Zeigerarten%2C%20Organismen,von%20Umweltfaktoren(%2DKombinationen)%20erm%C3%B6glichen.) helfen uns Menschen dabei, den Ist-Zustand eines Lebensraumes (z.B. eines Gewässers) zu erfassen, zu beurteilen & durch Langzeiteobachtungen zu verfolgen & zu überwachen. In der Gewässerbeurteilung indizieren verschiedene "Komponenten"/"Module" den Gewässerzustand Zu diesen gehören u. A. Diatomeen (Kieselalgen), Makrophyten (Wasserpflanzen) und Phytobenthische Algen (ohne Diaotmeen). 
 
 ___
 
@@ -43,4 +43,4 @@ Informieren Sie sich gerne hier über meine Angebote [in der Gewässerforschung]
 
 ___
   
-Weitere Infos auch auf [researchgate] (https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD] (https://orcid.org/my-orcid?orcid=0000-0001-8429-5448), [LinkedIn] (https://www.linkedin.com/in/andrea-koplitz-weissgerber/) und gerne auch per [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com). 
+Weitere Infos auch auf [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448), [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/) und gerne auch per [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com). 
