@@ -41,8 +41,6 @@ tagSubtitle = "Here, you’ll discover the latest notes that explore new insight
 homepageLayout = "profile" #blog
 profileShortbio = "Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #spyingonscience. Mein Name ist Andrea, ich bin passionierte Biologin & begeisterte Wissensvermittlerin."
 profilePhoto = "logo.png"
-favicon = true 
-favicon = favicon.ico
 
 [pagination]
 pagerSize = 9

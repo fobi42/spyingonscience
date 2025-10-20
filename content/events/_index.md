@@ -30,18 +30,18 @@ ___
 ## Öffentliche Veranstaltungen.
 
 #### Oktober 2025.
-* Sa., 4.10.25 um ca. 11-15:00 Uhr (München, BY)  
-[Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/)  
-* So., 5.10.25 um ca. 11-15:00 Uhr (München, BY)  
-[Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/) 
+
 * Sa., 25.10.25 um ca. 11-15:00 Uhr (München, BY)  
-[Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/)  
+[Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/bruecken-schlagen#2025-10-25T11:00:00+02:00)  
 * So., 26.10.25 um ca. 11-15:00 Uhr (München, BY)  
-[Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/)
+[Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/glimmende-grusel-gruesse#2025-10-26T11:00:00+01:00)
 * Fr., 31.10.25 um 15-16:00 Uhr (München, BY)  
 [Familienführung im Museum Mensch und Natur | "Die erstaunliche Welt der Fledermäuse"](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
 
 #### November 2025.
+
+* So., 02.11. bis So., 09.11. um 10-15:00 Uhr ["Minis machen mit" im Deutschen Museum (Kinder von 1,5-3 Jahre)](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit); ich bin da am 03., 05., 07. & 09.11.
+
 * Fr., 28.11.25 um 15-16:00 Uhr (München, BY)  
 [Familienführung im Museum Mensch und Natur | "Erdbebensimulator" (Klimawoche)](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
 

@@ -12,6 +12,10 @@ Hier im Archiv sind vergangene öffentliche Veranstaltungen der letzten Monate &
 ___
 
 #### 2025.  
+* Sa., 4.10.25 um ca. 11-15:00 Uhr (München, BY)  
+[Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/)  
+* So., 5.10.25 um ca. 11-15:00 Uhr (München, BY)  
+[Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/) 
 * 19.07.2025 | 15:00-18:00 | Serenade im Park | [Kinder- & Mitmachprogramm](https://stadt.muenchen.de/infos/serenade-im-park.html)
 
 * ⚠️ | 08.07.25 | [Kostenfreie Führung für Blinde und Sehbehinderte mit Begleitperson | "Echt nützlich!"](https://www.eventbrite.de/e/echt-nutzlich-tickets-1389095826009?aff=oddtdtcreator) (Kooperation: BIOTOPIA Lab & Botanischer Garten) 

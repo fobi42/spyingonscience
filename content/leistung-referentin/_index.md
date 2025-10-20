@@ -25,5 +25,6 @@ Ich nehme Aufträge für ein Publikum allen Alters an. Beispiele für Gruppen, d
 * Universitäten
 * Kitas, Kindergärten
 * Privatgruppen, Freiziteinrichtungen, Seniorengruppen 
-* Betriebsausflüge
+* Betriebsausflüge, Kindergeburtstage
+* Blinde und sehbehinderte Menschen
 * uvm.  
