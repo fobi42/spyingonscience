@@ -5,7 +5,7 @@ draft: false
 image: "images/kalender.png"
 ---
 
-# **Meine nächste Einsätze im Deutschen Museum in München.**  
+# **Meine nächsten Einsätze im Deutschen Museum in München.**  
 
 * Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel).
   * 25.10.25: Thema "[Brücken schlagen](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/bruecken-schlagen#2025-10-25T11:00:00+02:00)". 
