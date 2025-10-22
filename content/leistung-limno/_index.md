@@ -5,32 +5,33 @@ draft: false
 image: "diatoms.png"
 ---
 ## Leistungsportfolio im Fachbereich "Limnologie".  
-Ein ausgeschmücktes Leistungsportfolio können Sie gerne [hier](/images/portfolio-limno.pdf) ansehen. 
+
+___
+* Ein ausgeschmücktes Leistungsportfolio können Sie gerne [hier](/images/portfolio-limno.pdf) ansehen. 
 ___
 
 #### Assistenz in der Feldarbeit vor Ort.   
-   
-* von München (BY) ausgehend deutschlandweit  
-* Protokollführung
-* Hydrophysiologische Messungen (ggf. nach Einweisung in die Gerätschaften)
-* Unterstützung der Probenahme im Gewässer & sowie im Feldlabor bei der Probenfixierung/-herbarisierung entsprechend Einweisung in den individuellen Workflow & entspechender Handlungsanweisung des Auftrags für die Komponenten **Phytobenthos ohne Diatomeen (PoD)**, **Makrophyten** & **Makrozoobenthos**. 
-* Ausrüstung: Federstahlpinzetten, Gummistiefel, Lupe 10x, Wathose, usw. nach Absprache
-* Mobilität: Führerscheine B/BE und SBF-Binnen/-See, ggf. privater PKW für An-/Abreise oder Feldarbeit
+Professionelle Unterstützung bei Gewässer- & Umweltuntersuchungen – engagiert, flexibel & deutschlandweit ab München, BY.  
+* Protokollführung & hydrophysiologische Messungen (nach Einweisung)
+* Unterstützung bei Probenahme im Gelände & Probenbearbeitung im Feldlabor
+* Komponenten: Diatomeen, Phytobenthos ohne Diatomeen (PoD), Makrophyten, Makrozoobenthos
+* Eigenes Equipment (z. B. Federstahlpinzetten, Wathose, Lupe 10x) – weiteres nach Absprache
+* Mobilität: Führerscheine B/BE & SBF-Binnen/-See, optional eigener PKW 
 ___
 
-#### Spezialisierung: Diatomeen/Kieselalgen.  
-
-* Probenahme & Ethanolfixierung 
-   * Ausrüstung: Probengefäße, Verbrauchsmaterial, Wathose, usw. nach Absprache
-   * Mobilität: Führerscheine B/BE und SBF-Binnen/-See, ggf. privater PKW für An-/Abreise oder Feldarbeit  
-   * von München (BY) ausgehend deutschlandweit  
-
-*  Diatomeentaxonomie: Analyse der Diatomeenzusammensetzung eines fixierten Diatomeenpräparats
-   * Mikroskop: Zeiss Axiolab5 (aplan.-achrom. Kondensor, Objektiv EC Plan-Neofluar 100x/1,3 Oil Ph3 M27 mit Zeiss Immersol 518 N)
-    * Fotodokumentation: Euromex Ultra HD/ 4k Stand Alone Kamera (VC.3042)
-    * Software: ImageFocusAlpha (Euromex)
-    * Aufbereitung der Taxalisten in Microsoft Excel entsprechend aktuellen Bundestaxalisten bzw. Zieleingabeprogrammen   
+#### Diatomeentaxonomie.  
+Analyse der Diatomeenzusammensetzung eines fixierten Diatomeenpräparats. 
+* Mikroskop: Zeiss Axiolab5 (aplan.-achrom. Kondensor, Objektiv EC Plan-Neofluar 100x/1,3 Oil Ph3 M27 mit Zeiss Immersol 518 N)
+* Fotodokumentation: Euromex Ultra HD/ 4k Stand Alone Kamera (VC.3042)
+* Software: ImageFocusAlpha (Euromex)
+* Aufbereitung der Taxalisten in Microsoft Excel entsprechend aktuellen Bundestaxalisten bzw. Zieleingabeprogrammen   
 
 ___
 
-Auf Wunsch: Einarbeitung in gängige Analyseprogramme PHYLIB, etc. 
+Weitere Infos: 
+* Angebote in der [Gewässerforschung](/limnologie/) & der [außerschulischen Bildung ](/wisskomm/). 
+* Kontakt per [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988).  
+* [Social-Media (instagram)](https://www.instagram.com/spyingonscience/).
+* [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber).
+* [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448).
+* [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/).

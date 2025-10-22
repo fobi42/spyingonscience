@@ -7,7 +7,7 @@ image: "scicomm.png"
 
 ## Referenzen.
 
-Diese chronologische Auflistung **abgeschlossener Projekte & eine Auswahl an fachrelevanten Fortbildungen** (kürzlich abgeschlossene zuerst) erhebt keinen Anspruch auf Vollständigkeit sondern dient Ihnen als Orientierung bzgl. meiner bisherigen Arbeitserfahrung. 
+Diese chronologische Übersicht abgeschlossener Projekte und Fortbildungen (neueste zuerst) bietet einen Einblick in meine bisherige Arbeitserfahrung.  
 ___
 
 #### 2025.
@@ -27,7 +27,7 @@ ___
 ___
 
 #### 2023.
-* Auslandsstumdium an der Università degli Studi di Padova (Biologia marina, M. Sc.) in Chioggia (Pallazzo Grassi, Stazione Idrobiologica)
+* Auslandsstumdium an der Università degli Studi di Padova (Biologia marina, M. Sc.) in Chioggia (Pallazzo Grassi, Stazione Idrobiologica).
 ___
 
 #### 2022.

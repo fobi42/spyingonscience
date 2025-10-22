@@ -15,15 +15,13 @@ ___
   
 * **Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem geringen Beitrag oder ganz kostenlos besucht werden!**  
 
-* In der Welt der Naturwissenschaft gibt's immer Neues zu entdecken oder Bekanntes besser zu verstehen. Alle möglichen News aus "meiner Bubble" & meinem Wirkungsradius teile ich nicht nur hier, sondern auch mehr oder weniger regelmäßig auf meinem [Social-Media Kanal](https://www.instagram.com/spyingonscience/). 
+* In der Welt der Naturwissenschaft gibt's immer Neues zu entdecken oder Bekanntes besser zu verstehen. Aktuelles aus meinem Wirkungsradius teile ich auch auf [instagram](https://www.instagram.com/spyingonscience/). 
 
 * Schreiben Sie mir aber auch gerne gleich jetzt eine [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) mit all Ihren Fragen.   
 ___
 
 ## News.
 * 📣 📣 📣 **Spoiler-Meldung // Ich war in einem Wissenschaftspodcast zu Gast & durfte über meine Lieblingswinzlinge sprechen! // Release-Date ist der 13.11.25 ... weitere Infos folgen dann *hier*.**  
-
-* Da die Internetpräsenz der LMU überholt wurde, biete ich gerne über meine Webseite das Unterrichtskonzept "Heimische Fledermaus" (Lehrerbildung @LMU; Biologie macht Schule, 2020) an. [Hier](/images/Unterrichtskonzept_Lehrkraft_Beispiel.pdf) befindet sich ein Ausschnitt als Inspiration. Mehr Infos zu Fledermäusen, die im Rahmen des Projekts entstanden sind befinden sich [hier](/images/fledermauswissen.pdf).  
 
 ___
 
@@ -58,11 +56,18 @@ ___
 [Familienpass-Workshop: Weltverbessern to go - Nachhaltigkeit zum anfassen im Museum Mensch und Natur
 ](https://veranstaltungen.muenchen.de/ferienangebote-familienpass/familienpassangebote)
 
-
-
 ___
 
 ## Veranstaltungsarchiv.
 
 Zum Archiv gelangen Sie [hier](/archive/).
 
+___
+Weitere Infos: 
+* Angebote in der [Gewässerforschung](/limnologie/) & der [außerschulischen Bildung ](/wisskomm/). 
+* Kontakt per [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988).  
+* [Social-Media (instagram)](https://www.instagram.com/spyingonscience/).
+* [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber).
+* [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448).
+* [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/).
+* Da die Internetpräsenz der LMU überholt wurde, biete ich gerne über meine Webseite das Unterrichtskonzept "Heimische Fledermaus" (Lehrerbildung @LMU; Biologie macht Schule, 2020) an. [Hier](/images/Unterrichtskonzept_Lehrkraft_Beispiel.pdf) befindet sich ein Ausschnitt als Inspiration. Mehr Infos zu Fledermäusen, die im Rahmen des Projekts entstanden sind befinden sich [hier](/images/fledermauswissen.pdf).  

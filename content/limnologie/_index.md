@@ -9,9 +9,6 @@ image: "diatoms.png"
 
 # **Limnologin in der angewandten Gewässerforschung.**
 ___
-* Im Rahmen meiner wissenschaftlichen Arbeit als freiberufliche Biologin biete ich u. A. Tätigkeiten zu den Stichworten **Limnologie, Gewässergutachten, Mikroskopie & Diatomeen** an. Überzeugen Sie sich auf dieser Seite von einer Zusammenarbeit mit mir.  
-
-* Kontaktieren Sie mich [gerne per E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) für allgemeine Fragen & konkrete Anfragen. Ich bin gerne behilflich & nehme mir die Zeit für Sie.  
 
 * Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung. Ich bilde mich auch nach meinem Studienabschluss fort & freue mich sehr über neue Chancen. 
 

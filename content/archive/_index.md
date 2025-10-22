@@ -7,8 +7,7 @@ draft: false
 
 ## Veranstaltungsarchiv 
 
-Hier im Archiv sind vergangene öffentliche Veranstaltungen der letzten Monate & Jahre für Interessierte zum stöbern chronologisch aufgelistet (neueste zuerst). Die Liste erhebt keinen Anspruch auf Vollständigkeit, sondern soll einfach einen Einblick in meine bisherige Arbeit gewähren. 
-
+Hier finden Sie eine chronologische Übersicht vergangener öffentlicher Veranstaltungen (neueste zuerst) – als Einblick in meine bisherige Arbeit. 
 ___
 
 #### 2025.  
