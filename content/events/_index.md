@@ -27,25 +27,55 @@ ___
 
 ## Öffentliche Veranstaltungen.
 
-#### Oktober 2025.
+#### Aktuelle Formate.
+* Familienführungen im Museum Mensch und Natur
+* Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)
+* ["Minis machen mit" im Deutschen Museum (Kinder von 1,5-3 Jahre)](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)
 
-* Sa., 25.10.25 um ca. 11-15:00 Uhr (München, BY)  
-[Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/bruecken-schlagen#2025-10-25T11:00:00+02:00)  
-* So., 26.10.25 um ca. 11-15:00 Uhr (München, BY)  
-[Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/glimmende-grusel-gruesse#2025-10-26T11:00:00+01:00)
-* Fr., 31.10.25 um 15-16:00 Uhr (München, BY)  
-[Familienführung im Museum Mensch und Natur | "Die erstaunliche Welt der Fledermäuse"](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
+#### Oktober 2025.  
 
-#### November 2025.
+|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|		|		|	1	|	2	|	3	|	4	|	5	|
+|	6	|	7	|	8	|	9	|	10	|	11	|	12	|
+|	13	|	14	|	15	|	16	|	17	|	18	|	19	|
+|	20	|	21	|	22	|	23	|	24	|	[**25**] (https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/bruecken-schlagen#2025-10-25T11:00:00+02:00)  	|	[**26**] (https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/glimmende-grusel-gruesse#2025-10-26T11:00:00+01:00)	|
+|	27	|	28	|	29	|	30	|	[**31**] (/events-familienfuehrungen/)	|		|		|
 
-* So., 02.11. bis So., 09.11. um 10-15:00 Uhr ["Minis machen mit" im Deutschen Museum (Kinder von 1,5-3 Jahre)](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit); ich bin da am 03., 05., 07. & 09.11.
 
-* Fr., 28.11.25 um 15-16:00 Uhr (München, BY)  
-[Familienführung im Museum Mensch und Natur | "Erdbebensimulator" (Klimawoche)](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
 
-#### Januar 2026.
-* Fr., 9.1.26 um 15-16:00 Uhr (München, BY)  
-[Familienführung im Museum Mensch und Natur | "Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
+#### November 2025.  
+
+|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|		|		|		|		|		|	1	|	2	|
+|	[**3**] (https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|	4	|	[**5**] (https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|	6	|	[7](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|	8	|	[**9**] (https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|
+|	10	|	11	|	12	|	13	|	14	|	15	|	16	|
+|	17	|	18	|	19	|	20	|	21	|	22	|	23	|
+|	24	|	25	|	26	|	27	|	28	|	29	|	30	|
+ 
+#### Dezember 2025.   
+
+
+|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|	1	|	2	|	3	|	4	|	5	|	6	|	7	|
+|	8	|	9	|	10	|	11	|	12	|	13	|	14	|
+|	15	|	16	|	17	|	18	|	19	|	20	|	21	|
+|	22	|	23	|	24	|	25	|	26	|	27	|	28	|
+|	29	|	30	|	31	|		|		|		|		|
+
+
+
+#### Januar 2026.  
+
+|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|		|		|		|	1	|	2	|	3	|	4	|
+|	5	|	6	|	7	|	8	|	[**9**] (/events-familienfuehrungen/)	|	10	|	11	|
+|	12	|	13	|	14	|	15	|	16	|	17	|	18	|
+|	19	|	20	|	21	|	22	|	23	|	24	|	25	|
+|	26	|	27	|	28	|	29	|	30	|	31	|		|
 ___
 
 
