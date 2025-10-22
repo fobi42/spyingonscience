@@ -34,6 +34,8 @@ ___
 
  <br> <br> 
 
+-  
+
 #### Oktober 2025.  
  <br> <br> 
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
@@ -41,8 +43,10 @@ ___
 |		|		|	1	|	2	|	3	|	4	|	5	|
 |	6	|	7	|	8	|	9	|	10	|	11	|	12	|
 |	13	|	14	|	15	|	16	|	17	|	18	|	19	|
-|	20	|	21	|	22	|	23	|	24	|	[**25**](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/bruecken-schlagen#2025-10-25T11:00:00+02:00)  	|	[**26**](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/glimmende-grusel-gruesse#2025-10-26T11:00:00+01:00)	|
-|	27	|	28	|	29	|	30	|	[**31**](/events-familienfuehrungen/)	|		|		|  
+|	20	|	21	|	22	|	23	|	24	|	[**25**](/events-dm/)  	|	[**26**](/events-dm/)|
+|	27	|	28	|	29	|	30	|	[**31**](/events-familienfuehrungen/)	|		|		|   
+
+-  
 
  <br> <br> 
 
@@ -51,12 +55,14 @@ ___
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|		|		|		|		|	1	|	2	|
-|	[**3**](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|	4	|	[**5**](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|	6	|	[7](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|	8	|	[**9**](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|
+|	[**3**](/events-dm/)|	4	|	[**5**](/events-dm/)	|	6	|	[**7**](/events-dm/)	|	8	|	[**9**](/events-dm/)	|
 |	10	|	11	|	12	|	13	|	14	|	15	|	16	|
 |	17	|	18	|	19	|	20	|	21	|	22	|	23	|
 |	24	|	25	|	26	|	27	|	28	|	29	|	30	|  
 
   <br> <br> 
+
+-  
 
 #### Dezember 2025.   
  <br> <br> 
@@ -69,6 +75,7 @@ ___
 |	22	|	23	|	24	|	25	|	26	|	27	|	28	|
 |	29	|	30	|	31	|		|		|		|		|
 
+-  
 
  <br> <br> 
  
