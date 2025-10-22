@@ -23,7 +23,7 @@ Den fachlichen Austausch mit Kolleg:innen & Interessierten schätze ich ebenso w
 
 ___
 
-#### Weitere Infomationen. 
+#### Weitere Informationen. 
 * Angebote in der [Gewässerforschung](/limnologie/) & der [außerschulischen Bildung](/wisskomm/). 
 * Kontakt per [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988).  
 * Social-Media: [instagram](https://www.instagram.com/spyingonscience/).

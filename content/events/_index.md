@@ -11,13 +11,12 @@ image: "images/kalender.png"
 # **News & Termine.**
 ___
 
-* Nutzen Sie die Gelegenheit mich persönlich kennenzulernen!
-  
-* **Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem geringen Beitrag oder ganz kostenlos besucht werden!**   
+Nutzen Sie die Gelegenheit mich persönlich kennenzulernen!  
+Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem **geringen Beitrag oder ganz kostenlos** besucht werden!    
 ___
 
 ## News.
-* 📣 📣 📣 **Spoiler-Meldung // Ich war in einem Wissenschaftspodcast zu Gast & durfte über meine Lieblingswinzlinge sprechen! // Release-Date ist der 13.11.25 ... weitere Infos folgen dann *hier*.**  
+* 📣 📣 📣 **Spoiler-Meldung** // Ich war in einem Wissenschaftspodcast zu Gast & durfte über meine Lieblingswinzlinge sprechen! // **Release-Date ist der 13.11.25** ... weitere Infos folgen dann *hier*.
 
 ___
 
@@ -27,7 +26,7 @@ ___
 * [Familienführungen im Museum Mensch und Natur](/events-familienfuehrungen/) (Kinder & Familien).
 * Gemeinsames ["Tinkering" im Deutschen Museum](/events-dm/) (Praterinsel; Kinder & Familien).
 * ["Minis machen mit" im Deutschen Museum](/events-dm/) (Kinder von 1,5-3 Jahre).
-* Einmalige Events, bei denen eine Voranmeldung nötig ist (Kinder & Familien; [(Infos hier)](/events-voranmeldung/)). 
+* Einmalige Events, bei denen eine Voranmeldung nötig ist (Kinder & Familien; [Infos hier](/events-voranmeldung/)). 
 
 <br> <br>  
 
@@ -106,7 +105,7 @@ Zum Archiv gelangen Sie [hier](/archive/).
 
 ___
 
-## Weitere Infomationen. 
+## Weitere Informationen. 
 * Angebote in der [Gewässerforschung](/limnologie/) & der [außerschulischen Bildung](/wisskomm/). 
 * Kontakt per [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988).  
 * Social-Media: [instagram](https://www.instagram.com/spyingonscience/).
