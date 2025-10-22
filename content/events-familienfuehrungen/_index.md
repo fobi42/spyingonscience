@@ -5,7 +5,9 @@ draft: false
 image: "images/kalender.png"
 ---
 
-# **Meine nächsten Familienführung im Museum Mensch und Natur in München.**  
+# **Meine nächste Familienführung im Museum Mensch und Natur in München.**  
+
+___
 
 Immer Freitags um 15:00-16:00 Uhr.   
 Der Preis ist im Museumseintritt enthalten.   

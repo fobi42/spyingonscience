@@ -7,19 +7,19 @@ draft: false
 ## Studium der Biologie (B.Sc.  &  M.Sc.).  
 ___
   
-Während meiner Ausbildung und Tätigkeit in ökologischen Fachbereichen habe ich mich intensiv mit den Schnittstellen zwischen menschlicher Aktivität und Umwelt beschäftigt. 
+Während meiner Ausbildung & Tätigkeit in ökologischen Fachbereichen habe ich mich intensiv mit den Schnittstellen zwischen menschlicher Aktivität & Umwelt beschäftigt. 
 Diese durfte ich dabei bereits aus verschiedenen Blickwinkeln betrachten:  
 Zum einen zoologisch während meiner Bachelorarbeit durch die [bioakustische Artanalyse der Aktivität heimischer Fledermäuse](https://nyctalus.com/wp-content/uploads/2021/06/Koplitz-Weissgerber_Zahn_2021_abstract.pdf), zum anderen botanisch während meiner Masterarbeit über Diatomeengesellschaften von streng geschützten & klimasensiblen Quellhabitaten in, vom Menschen noch ungestörten, Naturräumen.  Zudem erforschte ich während meines Masterstudiums die [Wirkung unterschiedlicher Symbiosen (Mykorrhiza) mit Bäumen auf Kohlenstoff-Pools in verschiedenen Bodenfraktionen](https://meetingorganizer.copernicus.org/EGU22/EGU22-10059.html).  
 
 ___
 
   
-**Mich fasziniert die interdisziplinäre Betrachtung ökologischer und menschlicher Systeme – sie verbindet wissenschaftliche Erkenntnis mit gesellschaftlicher Verantwortung.** 
+**Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme (auch im Hinblick auf menschliche Aktivitäten) – sie verbindet wissenschaftliche Erkenntnis mit gesellschaftlicher Verantwortung.** 
 
 ___
   
 
-Den fachlichen Austausch mit Kolleg:innen und Interessierten schätze ich ebenso wie die Zusammenarbeit in interdisziplinären Teams. Bereits während meines Studiums konnte ich als Tutorin und studentische Hilfskraft aktiv an der akademischen Lehre mitwirken.
+Den fachlichen Austausch mit Kolleg:innen & Interessierten schätze ich ebenso wie die Zusammenarbeit in interdisziplinären Teams. Bereits während meines Studiums konnte ich als Tutorin & studentische Hilfskraft aktiv an der akademischen Lehre mitwirken.
 
 ___
 

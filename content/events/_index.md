@@ -13,11 +13,7 @@ ___
 
 * Nutzen Sie die Gelegenheit mich persönlich kennenzulernen!
   
-* **Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem geringen Beitrag oder ganz kostenlos besucht werden!**  
-
-* In der Welt der Naturwissenschaft gibt's immer Neues zu entdecken oder Bekanntes besser zu verstehen. Aktuelles aus meinem Wirkungsradius teile ich auch auf [instagram](https://www.instagram.com/spyingonscience/). 
-
-* Schreiben Sie mir aber auch gerne gleich jetzt eine [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) mit all Ihren Fragen.   
+* **Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem geringen Beitrag oder ganz kostenlos besucht werden!**   
 ___
 
 ## News.
@@ -28,10 +24,10 @@ ___
 ## Öffentliche Veranstaltungen.
 
 #### Aktuelle Formate.
-* Familienführungen im Museum Mensch und Natur (Kinder & Familien; [Infos hier](/events-familienfuehrungen/)).
-* Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel; Kinder & Familien; [Infos hier](/events-dm/)).
-* "Minis machen mit" im Deutschen Museum (Kinder von 1,5-3 Jahre; [(Infos hier)](/events-dm/)).
-* Einmalige Events, bei denen eine Voranmeldung nötig ist (Kinder & Familien; [(Infos hier)](/events-voranmeldung/))
+* [Familienführungen im Museum Mensch und Natur](/events-familienfuehrungen/) (Kinder & Familien).
+* Gemeinsames ["Tinkering" im Deutschen Museum](/events-dm/) (Praterinsel; Kinder & Familien).
+* ["Minis machen mit" im Deutschen Museum](/events-dm/) (Kinder von 1,5-3 Jahre).
+* Einmalige Events, bei denen eine Voranmeldung nötig ist (Kinder & Familien; [(Infos hier)](/events-voranmeldung/)). 
 
 <br> <br>  
 
@@ -43,8 +39,8 @@ ___
 |		|		|	1	|	2	|	3	|	4	|	5	|
 |	6	|	7	|	8	|	9	|	10	|	11	|	12	|
 |	13	|	14	|	15	|	16	|	17	|	18	|	19	|
-|	20	|	21	|	22	|	23	|	24	|	[**25**](/events-dm/)  	|	[**26**](/events-dm/)|
-|	27	|	28	|	29	|	30	|	[**31**](/events-familienfuehrungen/)	|		|		|   
+|	20	|	21	|	22	|	23	|	24	|	**[25](/events-dm/)**  	|	**[26](/events-dm/)**|
+|	27	|	28	|	29	|	30	|	**[31](/events-familienfuehrungen/)**	|		|		|   
 
  
 
@@ -109,6 +105,7 @@ ___
 Zum Archiv gelangen Sie [hier](/archive/).
 
 ___
+
 ## Weitere Infomationen. 
 * Angebote in der [Gewässerforschung](/limnologie/) & der [außerschulischen Bildung](/wisskomm/). 
 * Kontakt per [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988).  

@@ -27,7 +27,7 @@ Ich nehme Aufträge für ein Publikum allen Alters & allen Hintergrunds an. Beis
 * Kitas, Kindergärten
 * Privatgruppen, Freiziteinrichtungen, Seniorengruppen 
 * Betriebsausflüge, Kindergeburtstage
-* Blinde und sehbehinderte Menschen
+* Blinde & sehbehinderte Menschen
 * uvm.  
 ___
 
