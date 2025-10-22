@@ -28,36 +28,37 @@ ___
 ## Öffentliche Veranstaltungen.
 
 #### Aktuelle Formate.
-* Familienführungen im Museum Mensch und Natur
+* Familienführungen im Museum Mensch und Natur ([Infos hier](/events-familienfuehrungen/))
 * Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)
 * ["Minis machen mit" im Deutschen Museum (Kinder von 1,5-3 Jahre)](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)
 
 #### Oktober 2025.  
 
-|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
+|	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|		|	1	|	2	|	3	|	4	|	5	|
 |	6	|	7	|	8	|	9	|	10	|	11	|	12	|
 |	13	|	14	|	15	|	16	|	17	|	18	|	19	|
-|	20	|	21	|	22	|	23	|	24	|	[**25**] (https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/bruecken-schlagen#2025-10-25T11:00:00+02:00)  	|	[**26**] (https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/glimmende-grusel-gruesse#2025-10-26T11:00:00+01:00)	|
-|	27	|	28	|	29	|	30	|	[**31**] (/events-familienfuehrungen/)	|		|		|
+|	20	|	21	|	22	|	23	|	24	|	[**25**](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/bruecken-schlagen#2025-10-25T11:00:00+02:00)  	|	[**26**](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/glimmende-grusel-gruesse#2025-10-26T11:00:00+01:00)	|
+|	27	|	28	|	29	|	30	|	[**31**](/events-familienfuehrungen/)	|		|		|  
 
 
 
 #### November 2025.  
 
-|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
+|	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|		|		|		|		|	1	|	2	|
-|	[**3**] (https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|	4	|	[**5**] (https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|	6	|	[7](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|	8	|	[**9**] (https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|
+|	[**3**](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|	4	|	[**5**](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|	6	|	[7](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|	8	|	[**9**](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)	|
 |	10	|	11	|	12	|	13	|	14	|	15	|	16	|
 |	17	|	18	|	19	|	20	|	21	|	22	|	23	|
-|	24	|	25	|	26	|	27	|	28	|	29	|	30	|
+|	24	|	25	|	26	|	27	|	28	|	29	|	30	|  
+
  
 #### Dezember 2025.   
 
 
-|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
+|	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |	1	|	2	|	3	|	4	|	5	|	6	|	7	|
 |	8	|	9	|	10	|	11	|	12	|	13	|	14	|
@@ -72,7 +73,7 @@ ___
 |	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|		|		|	1	|	2	|	3	|	4	|
-|	5	|	6	|	7	|	8	|	[**9**] (/events-familienfuehrungen/)	|	10	|	11	|
+|	5	|	6	|	7	|	8	|	[**9**](/events-familienfuehrungen/)	|	10	|	11	|
 |	12	|	13	|	14	|	15	|	16	|	17	|	18	|
 |	19	|	20	|	21	|	22	|	23	|	24	|	25	|
 |	26	|	27	|	28	|	29	|	30	|	31	|		|

@@ -5,13 +5,13 @@ draft: false
 image: "images/kalender.png"
 ---
 
-# **Meine nächste Familienführung im Museum Mensch und Natur.**  
+# **Meine nächste Familienführung im Museum Mensch und Natur in München.**  
 
-* Fr., 28.11.25 um 15-16:00 Uhr (München, BY)  
-["Erdbebensimulator" (Klimawoche)](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
+Immer Freitags um 15:00-16:00 Uhr. 
+Der Preis ist im Museumseintritt enthalten.  
 
-* Fr., 31.10.25 um 15-16:00 Uhr (München, BY)
-[“Die erstaunliche Welt der Fledermäuse”](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
+* 28.11.25: Thema ["Erdbebensimulator" (Klimawoche)](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
 
-* Fr., 9.1.26 um 15-16:00 Uhr (München, BY)  
-["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
+* 31.10.25: Thema [“Die erstaunliche Welt der Fledermäuse”](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
+
+* 9.1.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
