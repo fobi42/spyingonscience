@@ -8,21 +8,21 @@ image: "images/kalender.png"
 
 ![Scenario 1: Across columns](/images/kalender.png)
 
-# **News & Termine.**
+# **Events.**
 ___
 
 Nutzen Sie die Gelegenheit mich persönlich kennenzulernen!  
 Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem **geringen Beitrag oder ganz kostenlos** besucht werden!    
 ___
 
-## News.
-* 📣 📣 📣 **Spoiler-Meldung** // Ich war in einem Wissenschaftspodcast zu Gast & durfte über meine Lieblingswinzlinge sprechen! // **Release-Date ist der 13.11.25** ... weitere Infos folgen dann *hier*.
+## News.  
+> 📣 📣 📣 **Spoiler-Meldung**   
+>// Ich war in einem Wissenschaftspodcast zu Gast & durfte über meine Lieblingswinzlinge sprechen! 
+>// **Release-Date ist der 13.11.25** ... weitere Infos folgen.
 
 ___
 
-## Öffentliche Veranstaltungen.
-
-#### Aktuelle Formate.
+## Öffentliche Veranstaltungen - nach Format.  
 * [Familienführungen im Museum Mensch und Natur](/events-familienfuehrungen/) (Kinder & Familien).
 * Gemeinsames ["Tinkering" im Deutschen Museum](/events-dm/) (Praterinsel; Kinder & Familien).
 * ["Minis machen mit" im Deutschen Museum](/events-dm/) (Kinder von 1,5-3 Jahre).
@@ -30,8 +30,11 @@ ___
 
 <br> <br>  
 
+___
 
-#### Oktober 2025.  
+## Öffentliche Veranstaltungen - nach Termin.  
+  
+Oktober 2025.  
  <br> <br> 
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -44,8 +47,8 @@ ___
  
 
 <br> <br> 
-
-#### November 2025.  
+  
+November 2025.  
 <br> <br> 
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -53,13 +56,13 @@ ___
 |	[**3**](/events-dm/)|	4	|	[**5**](/events-dm/)	|	6	|	[**7**](/events-dm/)	|	8	|	[**9**](/events-dm/)	|
 |	10	|	11	|	12	|	13	|	14	|	15	|	16	|
 |	17	|	18	|	19	|	20	|	21	|	22	|	23	|
-|	24	|	25	|	26	|	27	|	28	|	29	|	30	|  
+|	24	|	25	|	26	|	27	|	[28](/events-familienfuehrungen/)**	|	29	|	30	|  
 
 <br> <br> 
 
    
-
-#### Dezember 2025.   
+  
+Dezember 2025.   
  <br> <br> 
 
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
@@ -73,8 +76,8 @@ ___
   
 
 <br> <br> 
- 
-#### Januar 2026.  
+   
+Januar 2026.  
  <br> <br> 
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -85,8 +88,8 @@ ___
 |	26	|	27	|	28	|	29	|	30	|	31	|		|  
 <br> <br> 
    
-
-#### April 2026.  
+  
+April 2026.  
 <br> <br> 
    
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|

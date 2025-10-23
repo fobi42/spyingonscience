@@ -9,7 +9,7 @@ image: "scicomm.png"
 
 ___
 
-Zu meinen Auftraggebenden & Kooperationen zählen u. A. Technische Universität München (TUM, Dr. Uta Raeder), [Gutachterbüro Bernd Humberg (Waterworld Consult)](https://www.waterworld-consult.de/gutachten/team/), [Ökologische Gutachten Matthias Beck](https://www.waterworld-consult.de/gutachten/team/), [[µHoch3] – Sachverständigenbüro für Mykologie, Ökologie und Kryptogamentaxonomie (Dr. Manuel M. Striegel)](https://www.linkedin.com/in/dr-manuel-m-striegel-00797b12a/?originalSubdomain=de), [AGLHH - Arbeitsgemeinschaft Limnologie und Hydrologie in Hessen (Dr. Marcus Werum)](https://www.aglhh.de), Landesamt für Natur, Umwelt und Klima NRW, u.v.a. 
+Zu meinen Auftraggebenden & Kooperationen zählen u. A. Technische Universität München (TUM, Dr. Uta Raeder), [Gutachterbüro Bernd Humberg (Waterworld-Consult)](https://www.waterworld-consult.de/gutachten/team/), [Ökologische Gutachten Matthias Beck (Waterworld-Consult)](https://www.waterworld-consult.de/gutachten/team/), [[µHoch3] – Sachverständigenbüro für Mykologie, Ökologie und Kryptogamentaxonomie (Dr. Manuel M. Striegel)](https://www.linkedin.com/in/dr-manuel-m-striegel-00797b12a/?originalSubdomain=de), [AGLHH - Arbeitsgemeinschaft Limnologie und Hydrologie in Hessen (Dr. Marcus Werum)](https://www.aglhh.de), Landesamt für Natur, Umwelt und Klima NRW, u.v.a. 
 ___
 
 Diese chronologische Übersicht abgeschlossener Projekte und Fortbildungen (neueste zuerst) bietet einen Einblick in meine bisherige Arbeitserfahrung.  

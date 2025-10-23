@@ -10,9 +10,8 @@ image: "diatoms.png"
 # **Limnologin in der angewandten Gewässerforschung.**
 ___
 
-* Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung. Ich bilde mich auch nach meinem Studienabschluss fort & freue mich sehr über neue Chancen. 
-
-* Ich arbeite mit guter Laune & habe gerne einen lösungsorientierten Vorschlag bei etwaigen Hürden parat.
+Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung. Ich bilde mich auch nach meinem Studienabschluss fort & freue mich sehr über neue Chancen.  
+Ich arbeite mit guter Laune & habe gerne einen lösungsorientierten Vorschlag bei etwaigen Hürden parat.
 ___ 
 
 ## Leistungsportfolio.
