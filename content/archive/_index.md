@@ -6,6 +6,10 @@ draft: false
 
 
 ## Veranstaltungsarchiv 
+___
+
+Zu meinen Arbeitgebenden, Auftraggebenden & Kooperationen zählen u. A. [SNSB – Staatliche Naturwissenschaftliche Sammlungen Bayerns](https://snsb.de/) mit dem [Museum Mensch und Natur](https://mmn-muenchen.snsb.de/) und dem [Biotopia Lab](https://biotopialab.snsb.de/), Stadtjugendamt München, Landeshauptstadt München, [Deutsches Museum (Museumsinsel)](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering), verschiedenste Schulen, Bildungs- & Sozialeinrichtungen in München & Europa, u.v.a. 
+___
 
 Hier finden Sie eine chronologische Übersicht vergangener öffentlicher Veranstaltungen (neueste zuerst) – als Einblick in meine bisherige Arbeit. 
 ___
@@ -76,3 +80,16 @@ ___
 * 10.04.2022 | 10:00-16:30 | Workshops | [Water worlds: open drop-in activity](https://biotopia.net/en/biotopia-lab/dropins#program)
 
 * Oktober 2021 | Lange Nacht der Münchner Museen [(Fledermäuse im Museum Mensch und Natur)](https://mmn-muenchen.snsb.de/lange-nacht-der-muenchner-museen/)
+
+
+___
+
+Unsere Welt hat so viele Wunder zu bieten.  
+Spionieren wir sie gemeinsam bis ins kleinste Detail aus!  
+#SpyingOnScience mit Andrea.  
+
+* Biologin auf [Mission](/ueber/) für Wasser & Wissen. 💚 
+* [Limnologie](/limnologie/) & [Bildungsarbeit](/wisskomm/) aus einer Hand. 🌍 
+* Projekte [in MUC](/archive/) & [bundesweit](/references/). 🔬  
+* [Lernen wir uns kennen](/events/), z.B. gerne auch via [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988). 🤝   
+* Weitere Einblicke: [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/), [instagram](https://www.instagram.com/spyingonscience/), [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448). 👀 

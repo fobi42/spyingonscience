@@ -7,6 +7,11 @@ image: "scicomm.png"
 
 ## Referenzen.
 
+___
+
+Zu meinen Auftraggebenden & Kooperationen zählen u. A. Technische Universität München (TUM, Dr. Uta Raeder), [Gutachterbüro Bernd Humberg (Waterworld Consult)](https://www.waterworld-consult.de/gutachten/team/), [Ökologische Gutachten Matthias Beck](https://www.waterworld-consult.de/gutachten/team/), [[µHoch3] – Sachverständigenbüro für Mykologie, Ökologie und Kryptogamentaxonomie (Dr. Manuel M. Striegel)](https://www.linkedin.com/in/dr-manuel-m-striegel-00797b12a/?originalSubdomain=de), [AGLHH - Arbeitsgemeinschaft Limnologie und Hydrologie in Hessen (Dr. Marcus Werum)](https://www.aglhh.de), Landesamt für Natur, Umwelt und Klima NRW, u.v.a. 
+___
+
 Diese chronologische Übersicht abgeschlossener Projekte und Fortbildungen (neueste zuerst) bietet einen Einblick in meine bisherige Arbeitserfahrung.  
 ___
 
@@ -33,3 +38,14 @@ ___
 #### 2022.
 * Projektarbeit für die „Limnologische Untersuchung der Teiche des Campeon; Mai 2022; Chemische und physikalische Parameter sowie Kieselalgen (**Diatomeen**)“ (Ansprechpartnerin: Dr. Uta Raeder, Alumna der Limnologischen Forschungsstation Iffeldorf).
 
+___
+
+Unsere Welt hat so viele Wunder zu bieten.  
+Spionieren wir sie gemeinsam bis ins kleinste Detail aus!  
+#SpyingOnScience mit Andrea.  
+
+* Biologin auf [Mission](/ueber/) für Wasser & Wissen. 💚 
+* [Limnologie](/limnologie/) & [Bildungsarbeit](/wisskomm/) aus einer Hand. 🌍 
+* Projekte [in MUC](/archive/) & [bundesweit](/references/). 🔬  
+* [Lernen wir uns kennen](/events/), z.B. gerne auch via [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988). 🤝   
+* Weitere Einblicke: [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/), [instagram](https://www.instagram.com/spyingonscience/), [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448). 👀 

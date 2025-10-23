@@ -6,7 +6,7 @@ image: "diatoms.png"
 ---
 ## Leistungsportfolio im Fachbereich "Wissensvermittlung".  
 ___  
-* Ein ausgeschmücktes Leistungsportfolio können Sie gern [hier](/images/portfolio-referentin.pdf) ansehen. 
+Ein ausgeschmücktes Leistungsportfolio können Sie gern [hier](/images/portfolio-referentin.pdf) ansehen. 
 ___  
 
 #### Individuelle Veranstaltungen – einzigartig, lebendig & kreativ. 
@@ -20,7 +20,7 @@ Gemeinsam mit einem großartigen Team führe ich Workshops & Führungen rund um 
 Klicken Sie sich doch mal durch die Internetpräsenzen des [Museums Mensch und Natur](https://mmn-muenchen.snsb.de/fuehrungen-mehr/) im Nymphenburger Schloss & des [BIOTOPIA Labs](https://biotopialab.snsb.de/programme/) im Botanischen Garten. Ich freue mich, wenn Sie hier fündig werden! Vielleicht sieht man sich ja!  
 
 ___
-
+#### Für wen? 
 Ich nehme Aufträge für ein Publikum allen Alters & allen Hintergrunds an. Beispiele für Gruppen, die ich bereits erfolgreich betreut habe sind: 
 * (Grund-/Berufs-/Real-/Hoch-/Mittel-) Schulen, Gymnasien
 * Universitäten
@@ -29,10 +29,15 @@ Ich nehme Aufträge für ein Publikum allen Alters & allen Hintergrunds an. Beis
 * Betriebsausflüge, Kindergeburtstage
 * Blinde & sehbehinderte Menschen
 * uvm.  
+
 ___
 
-#### Weitere Informationen. 
-* Angebote in der [Gewässerforschung](/limnologie/) & der [außerschulischen Bildung](/wisskomm/). 
-* Kontakt per [E-Mail](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988).  
-* Social-Media: [instagram](https://www.instagram.com/spyingonscience/).
-* Internetpräsenzen: [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448), [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/).
+Unsere Welt hat so viele Wunder zu bieten.  
+Spionieren wir sie gemeinsam bis ins kleinste Detail aus!  
+#SpyingOnScience mit Andrea.  
+
+* Biologin auf [Mission](/ueber/) für Wasser & Wissen. 💚 
+* [Limnologie](/limnologie/) & [Bildungsarbeit](/wisskomm/) aus einer Hand. 🌍 
+* Projekte [in MUC](/archive/) & [bundesweit](/references/). 🔬  
+* [Lernen wir uns kennen](/events/), z.B. gerne auch via [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988). 🤝   
+* Weitere Einblicke: [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/), [instagram](https://www.instagram.com/spyingonscience/), [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448). 👀 
