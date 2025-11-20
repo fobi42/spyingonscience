@@ -10,11 +10,11 @@ image: "images/kalender.png"
 ___
 
 * Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel).
-  * 25.10.25: Thema "[Brücken schlagen](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/bruecken-schlagen#2025-10-25T11:00:00+02:00)". 
-  * 26.10.25: Thema "[Glimmende Grusel-Grüße](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/glimmende-grusel-gruesse#2025-10-26T11:00:00+01:00)".  
+  * 22.11.25: Thema "[Kunst mit Kritzelmaschine](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/kunst-mit-kritzelmaschine#2025-11-22T10:00:00+01:00)". 
+  * 06.12.25: Thema "[Lichterkarten basteln](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/lichterkarten-basteln#2025-12-06T10:00:00+01:00)".  
+  * 07.12.25: Thema "[Brücken schlagen](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/bruecken-schlagen#2025-12-07T10:00:00+01:00)". 
 
-* "Minis machen mit" im Deutschen Museum (Kinder von 1,5-3 Jahre; [(Infos hier)](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)).
-  * Ich bin dabei am 3., 5., 7. & 9.11. um 10:00-15:00 Uhr.
+
 
 ___
 

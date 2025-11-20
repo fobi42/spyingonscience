@@ -18,7 +18,7 @@ ___
 ## News.  
 📣 📣 📣 **Spoiler-Meldung**   
 // Ich war in einem Wissenschaftspodcast zu Gast & durfte über meine Lieblingswinzlinge sprechen! 
-// **Release-Date ist der 13.11.25** ... weitere Infos folgen.
+// **Release-Date ist der 27.11.25** ... weitere Infos folgen.
 
 ___
 
@@ -32,22 +32,8 @@ ___
 
 ___
 
-## Öffentliche Veranstaltungen - nach Termin.  
-  
-Oktober 2025.  
- <br> <br> 
-|	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|		|		|	1	|	2	|	3	|	4	|	5	|
-|	6	|	7	|	8	|	9	|	10	|	11	|	12	|
-|	13	|	14	|	15	|	16	|	17	|	18	|	19	|
-|	20	|	21	|	22	|	23	|	24	|	**[25](/events-dm/)**  	|	**[26](/events-dm/)**|
-|	27	|	28	|	29	|	30	|	**[31](/events-familienfuehrungen/)**	|		|		|   
-
- 
-
+## Öffentliche Veranstaltungen - nach Termin.    
 <br> <br> 
-  
 November 2025.  
 <br> <br> 
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
@@ -55,23 +41,21 @@ November 2025.
 |		|		|		|		|		|	1	|	2	|
 |	[**3**](/events-dm/)|	4	|	[**5**](/events-dm/)	|	6	|	[**7**](/events-dm/)	|	8	|	[**9**](/events-dm/)	|
 |	10	|	11	|	12	|	13	|	14	|	15	|	16	|
-|	17	|	18	|	19	|	20	|	21	|	22	|	23	|
-|	24	|	25	|	26	|	27	|	[28](/events-familienfuehrungen/)**	|	29	|	30	|  
+|	17	|	18	|	19	|	20	|	21	|	[**22**](/events-dm/)	|	23	|
+|	24	|	25	|	26	|	27	|	[**28**](/events-familienfuehrungen/)	|	29	|	30	|  
 
 <br> <br> 
-
-   
-  
+ 
 Dezember 2025.   
  <br> <br> 
 
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|	1	|	2	|	3	|	4	|	5	|	6	|	7	|
+|	1	|	2	|	3	|	4	|	5	|	[**6**](/events-dm/)	|	[**7**](/events-dm/)	|
 |	8	|	9	|	10	|	11	|	12	|	13	|	14	|
 |	15	|	16	|	17	|	18	|	19	|	20	|	21	|
-|	22	|	23	|	24	|	25	|	26	|	27	|	28	|
-|	29	|	30	|	31	|		|		|		|		|
+|	[**22**](/events-dm/)	|	23	|	24	|	25	|	26	|	27	|	28	|
+|	[**29**](/events-dm/)	|	30	|	31	|		|		|		|		|
 
   
 
