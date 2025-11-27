@@ -24,10 +24,8 @@ Analyse der Diatomeenzusammensetzung eines fixierten Diatomeenpräparats.
 * Mikroskop: Zeiss Axiolab5 (aplan.-achrom. Kondensor, Objektiv EC Plan-Neofluar 100x/1,3 Oil Ph3 M27 mit Zeiss Immersol 518 N)
 * Fotodokumentation: Euromex Ultra HD/ 4k Stand Alone Kamera (VC.3042)
 * Software: ImageFocusAlpha (Euromex)
-* Aufbereitung der Taxalisten in Microsoft Excel entsprechend aktuellen Bundestaxalisten bzw. Zieleingabeprogrammen   
-
+* Aufbereitung der Taxalisten in Microsoft Excel, RStudio entsprechend aktuellen Bundestaxalisten bzw. Zieleingabeprogrammen   
 ___
-
 
 >Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
 

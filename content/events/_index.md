@@ -18,21 +18,33 @@ ___
 ## News.  
 📣 📣 📣 **Spoiler-Meldung**   
 // Ich war in einem Wissenschaftspodcast zu Gast & durfte über meine Lieblingswinzlinge sprechen! 
-// **Release-Date ist der 27.11.25** ... weitere Infos folgen.
+// **Release-Date ist der 13.11.25** ... weitere Infos folgen.
 
 ___
 
 ## Öffentliche Veranstaltungen - nach Format.  
 * [Familienführungen im Museum Mensch und Natur](/events-familienfuehrungen/) (Kinder & Familien).
 * Gemeinsames ["Tinkering" im Deutschen Museum](/events-dm/) (Praterinsel; Kinder & Familien).
-* ["Minis machen mit" im Deutschen Museum](/events-dm/) (Kinder von 1,5-3 Jahre).
 * Einmalige Events, bei denen eine Voranmeldung nötig ist (Kinder & Familien; [Infos hier](/events-voranmeldung/)). 
 
 <br> <br>  
 
 ___
 
-## Öffentliche Veranstaltungen - nach Termin.    
+## Öffentliche Veranstaltungen - nach Termin.  
+  
+Oktober 2025.  
+ <br> <br> 
+|	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|		|		|	1	|	2	|	3	|	4	|	5	|
+|	6	|	7	|	8	|	9	|	10	|	11	|	12	|
+|	13	|	14	|	15	|	16	|	17	|	18	|	19	|
+|	20	|	21	|	22	|	23	|	24	|	**[25](/events-dm/)**  	|	**[26](/events-dm/)**|
+|	27	|	28	|	29	|	30	|	**[31](/events-familienfuehrungen/)**	|		|		|   
+
+ 
+
 <br> <br> 
 November 2025.  
 <br> <br> 
@@ -41,8 +53,8 @@ November 2025.
 |		|		|		|		|		|	1	|	2	|
 |	[**3**](/events-dm/)|	4	|	[**5**](/events-dm/)	|	6	|	[**7**](/events-dm/)	|	8	|	[**9**](/events-dm/)	|
 |	10	|	11	|	12	|	13	|	14	|	15	|	16	|
-|	17	|	18	|	19	|	20	|	21	|	[**22**](/events-dm/)	|	23	|
-|	24	|	25	|	26	|	27	|	[**28**](/events-familienfuehrungen/)	|	29	|	30	|  
+|	17	|	18	|	19	|	20	|	21	|	22	|	23	|
+|	24	|	25	|	26	|	27	|	[28](/events-familienfuehrungen/)**	|	29	|	30	|  
 
 <br> <br> 
  
@@ -54,8 +66,8 @@ Dezember 2025.
 |	1	|	2	|	3	|	4	|	5	|	[**6**](/events-dm/)	|	[**7**](/events-dm/)	|
 |	8	|	9	|	10	|	11	|	12	|	13	|	14	|
 |	15	|	16	|	17	|	18	|	19	|	20	|	21	|
-|	[**22**](/events-dm/)	|	23	|	24	|	25	|	26	|	27	|	28	|
-|	[**29**](/events-dm/)	|	30	|	31	|		|		|		|		|
+|	22	|	23	|	24	|	25	|	26	|	27	|	28	|
+|	29	|	30	|	31	|		|		|		|		|
 
   
 
@@ -66,7 +78,7 @@ Januar 2026.
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|		|		|	1	|	2	|	3	|	4	|
-|	5	|	6	|	7	|	8	|	[**9**](/events-familienfuehrungen/)	|	10	|	11	|
+|	[**5**](/events-dm/)	|	[**6**](/events-dm/)	|	7	|	8	|	[**9**](/events-familienfuehrungen/)	|	10	|	11	|
 |	12	|	13	|	14	|	15	|	16	|	17	|	18	|
 |	19	|	20	|	21	|	22	|	23	|	24	|	25	|
 |	26	|	27	|	28	|	29	|	30	|	31	|		|  

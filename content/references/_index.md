@@ -16,9 +16,10 @@ Diese chronologische Übersicht abgeschlossener Projekte und Fortbildungen (neue
 ___
 
 #### 2025.
+* Teilnahme am Einführungskurs „**Geodatenverarbeitung mit QGIS**“ 97/25 m 19. - 21. November 2025 an der Bayerischen Akademie für Naturschutz und Landschaftspflege (ANL) mit José Canalejo (csgis). 
 * Teilnahme beim Bestimmungskurs „**Phytobenthos ohne Diatomeen** (PoD) – eine Einführung“ am 17. - 19. September 2025 am Institut für Experimentelle Phykologie und Sammlung von Algenkulturen (EPSAG) der Universität Göttingen (Dozentinnen Dr. Antje Gutowski, Dr. Lydia King, Sabine Schiffels).  
 * Co-Betreuung von drei Bachelor- und drei Masterarbeiten, die die Analyse von **Diatomeengesellschaften von Quellstandorten** zum Inhalt haben (Ansprechpartnerin: Dr. Uta Raeder, Alumna der Limnologischen Forschungsstation Iffeldorf).  
-* Praktikum Artenkenntnis: **Moose** - Basiskurs - 82/25 am 1.-2. April 2025 an der Bayerischen Akademie für Naturschutz und Landschaftspflege (ANL; Dozentin: Katrin Ketterer, HSWT). 
+* Praktikum Artenkenntnis: **Moose** - Basiskurs - 82/25 am 1. - 2. April 2025 an der Bayerischen Akademie für Naturschutz und Landschaftspflege (ANL; Dozentin: Katrin Ketterer, HSWT). 
 * Wissenschaftliche Mitarbeit zur Übergabe des Projektes „Mikroklima im Klimawandel – Refugien und Hotspots in den Bayerischen Nationalparks (MiKRoNP 2022/25): Teilprojekt (3) Quellen“ inkl. **Datenmanagement, Projektkoordination, Berichterstattung** (Ansprechpartnerin: Dr. Uta Raeder, Alumna der Limnologischen Forschungsstation Iffeldorf).
 * **Diatomeentaxonomie** für das Projekt der HBICON „Untersuchung und Auswertung von Diatomeenproben entsprechend EG-WRRL oberhalb und unterhalb von Einleitern aus Fließgewässern Nordrhein-Westfalens“ (Auftraggeber: Dr. Marcus Werum).
 * **Diatomeentaxonomie** für die folgenden Projekte der GefaÖ „Probenahme, Aufbereitung und Untersuchung von Kieselalgenproben am Marsbach nach EG-WRRL“, „Probenahme, Aufbereitung und Untersuchung von Kieselalgenproben am Hiffelbach nach EG-WRRL“ und „Probenahme, Aufbereitung und Untersuchung von Kieselalgenproben am Kehrgraben nach EG-WRRL" (Auftraggeber: Dr. Marcus Werum).  
@@ -40,12 +41,10 @@ ___
 
 ___
 
-Unsere Welt hat so viele Wunder zu bieten.  
-Spionieren wir sie gemeinsam bis ins kleinste Detail aus!  
-#SpyingOnScience mit Andrea.  
+>Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
 
-* Biologin auf [Mission](/ueber/) für Wasser & Wissen. 💚 
-* [Limnologie](/limnologie/) & [Bildungsarbeit](/wisskomm/) aus einer Hand. 🌍 
-* Projekte [in MUC](/archive/) & [bundesweit](/references/). 🔬  
-* [Lernen wir uns kennen](/events/), z.B. gerne auch via [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988). 🤝   
-* Weitere Einblicke: [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/), [instagram](https://www.instagram.com/spyingonscience/), [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448). 👀 
+>* Biologin auf [Mission](/ueber/) für Wasser & Wissen. 💚 
+>* [Limnologie](/limnologie/) & [Bildungsarbeit](/wisskomm/) aus einer Hand. 🌍 
+>* Projekte [in MUC](/archive/) & [bundesweit](/references/). 🔬  
+>* [Lernen wir uns kennen](/events/), z.B. gerne auch via [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988). 🤝   
+>* Weitere Einblicke: [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/), [instagram](https://www.instagram.com/spyingonscience/), [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448). 👀 
