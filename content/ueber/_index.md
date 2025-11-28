@@ -24,7 +24,7 @@ Mehr informationen dazu finden Sie [hier](/about-since2021/).
 ___
   
 ## [seit 2024.  ](/about-since2024/)
-**Freiberufliche Arbeit als Biologin in der Gewässerforschung.**  
+**Freiberufliche Arbeit als Biologin in der Gewässerökologie.**  
 Mehr informationen dazu finden Sie [hier](/about-since2024/). 
 
 

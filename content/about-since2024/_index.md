@@ -6,7 +6,7 @@ draft: false
 ---
 
 ## seit 2024. 
-## Freiberufliche Arbeit als Biologin in der Gewässerforschung.
+## Freiberufliche Arbeit als Biologin in der Gewässerökologie.
 ___
 
   
@@ -22,7 +22,12 @@ Diese Auswahl aus der "Spitze des Eisbergs" zeigt auf wie wichtig es ist, das Wa
 
 ___
 
-Wasserschutz & Monitoring sind daher entscheidend. In Europa ([Stand 2024](https://www.bund.net/service/presse/pressemitteilungen/detail/news/gewaesser-in-der-eu-und-in-deutschland-in-schlechtem-zustand/)) gelten derzeit nur etwa 40 % der Oberflächengewässer als gesund, doch strenge Richtlinien & regelmäßige Beobachtungen zeigen erste Erfolge – die Wasserqualität verbessert sich([EEA 2018/23](https://www.eea.europa.eu/de/highlights/die-europaeischen-gewaesser-werden-sauberer)).  
+**Als Biologin setze ich mich für das Verständnis & die Verbesserung des Zusammenspiels von Mensch mit Umwelt ein:**  
+Vom regionalen Gewässerschutz bis hin zum globalen Erhalt unserer Süßwasserressourcen für eine  gesündere, gerechtere & freiere Welt.
+
+___
+
+Wasserschutz & Monitoring sind daher entscheidend. In Europa ([Stand 2024](https://www.bund.net/service/presse/pressemitteilungen/detail/news/gewaesser-in-der-eu-und-in-deutschland-in-schlechtem-zustand/)) gelten derzeit nur etwa 40 % der Oberflächengewässer als gesund, doch strenge Richtlinien & regelmäßige Beobachtungen zeigen erste Erfolge, denn die Wasserqualität verbessert sich([EEA 2018/23](https://www.eea.europa.eu/de/highlights/die-europaeischen-gewaesser-werden-sauberer)).  
 
 * Weitere Eindrücke rund um die globale Situation rund um Süßwasservorkommen: [hier](https://www.unicef.de/informieren/aktuelles/blog/-/weltwassertag-zehn-fakten-ueber-wasser/275338).  
 
@@ -31,10 +36,6 @@ Wasserschutz & Monitoring sind daher entscheidend. In Europa ([Stand 2024](https
 ___
 
 Zur Beurteilung des ökologischen Zustands dienen sogenannte [Indikatororganismen](https://www.spektrum.de/lexikon/biologie/indikatororganismen/33945#:~:text=Indikatororganismen%2C%20Indikatorarten%2C%20Zeigerarten%2C%20Organismen,von%20Umweltfaktoren(%2DKombinationen)%20erm%C3%B6glichen.) wie Diatomeen, Makrophyten & Phytobenthische Algen. Sie ermöglichen es, Veränderungen in Gewässern frühzeitig zu erkennen & gezielt Schutzmaßnahmen umzusetzen.
-
-___
-
-**Als Biologin setze ich mich für das Verständnis & die Verbesserung des Zusammenspiels von Mensch mit Umwelt ein – vom regionalen Gewässerschutz bis zum globalen Erhalt unserer Süßwasserressourcen einer  gesünderen, gerechtern & freieren Welt.**
 
 ___
 

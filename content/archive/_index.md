@@ -19,11 +19,10 @@ ___
   * 31.10.25: Thema [“Die erstaunliche Welt der Fledermäuse”](https://mmn-muenchen.snsb.de/familienfuehrungen/) 
 * Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel).
   * 22.11.25: Thema "[Kunst mit Kritzelmaschine](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/kunst-mit-kritzelmaschine#2025-11-22T10:00:00+01:00)".  
-  * 25.10.25: Thema "[Brücken schlagen](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/bruecken-schlagen#2025-10-25T11:00:00+02:00)". 
   * 26.10.25: Thema "[Glimmende Grusel-Grüße](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/glimmende-grusel-gruesse#2025-10-26T11:00:00+01:00)".  
-  * Sa., 4.10.25 um ca. 11-15:00 Uhr (München, BY) [Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/)  
-  * So., 5.10.25 um ca. 11-15:00 Uhr (München, BY)  
-[Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/)  
+  * 25.10.25: Thema "[Brücken schlagen](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/bruecken-schlagen#2025-10-25T11:00:00+02:00)". 
+  * 5.10.25 um ca. 11-15:00 Uhr (München, BY) [Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/)    
+  * 4.10.25 um ca. 11-15:00 Uhr (München, BY) [Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel)](https://www.deutsches-museum.de/)  
 * "Minis machen mit" im Deutschen Museum (Kinder von 1,5-3 Jahre; [(Infos hier)](https://www.deutsches-museum.de/museumsinsel/programm/programm-a-z/minis-machen-mit)).
 * 19.07.2025 | 15:00-18:00 | Serenade im Park | [Kinder- & Mitmachprogramm](https://stadt.muenchen.de/infos/serenade-im-park.html)
 

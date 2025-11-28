@@ -7,7 +7,7 @@ image: "diatoms.png"
 
 ![Limnologie](/images/diatoms.png)
 
-# **Limnologin in der angewandten Gewässerforschung.**
+# **Limnologin in der angewandten Gewässerökologie.**
 ___
 
 Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung. Ich bilde mich auch nach meinem Studienabschluss fort & freue mich sehr über neue Chancen.  

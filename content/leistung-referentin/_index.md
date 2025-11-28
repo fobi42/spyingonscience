@@ -9,9 +9,17 @@ ___
 Ein ausgeschmücktes Leistungsportfolio (Stand Sept. 2025) können Sie gern [hier](/images/portfolio-referentin.pdf) ansehen. 
 ___  
 
-#### Individuelle Veranstaltungen – einzigartig, lebendig & kreativ. 
-Gemeinsam mit Ihnen gestalte ich Veranstaltungen, die Wissen greifbar machen, Neugier wecken & Begeisterung entfachen. Ob in Ihrem Unternehmen, im Klassenzimmer, im Museum oder draußen in der Natur – jede Veranstaltung wird individuell auf Ihr Publikum, Ihre Ziele & Ihre Umgebung abgestimmt. Freuen Sie sich auf ein spannendes, interaktives Erlebnis mit Raum für Fragen, Diskussionen & Aha-Momente.  
-Lassen Sie uns gemeinsam etwas bewegen – ich freue mich auf Ihre Ideen & darauf, sie mit Leben zu füllen! [Jetzt Kontakt aufnehmen](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) & Ihre Veranstaltung planen. 
+#### Individuelle Veranstaltungen: einzigartig, lebendig & kreativ. 
+Gemeinsam mit Ihnen gestalte ich Veranstaltungen, die Wissen greifbar machen, Neugier wecken & Begeisterung entfachen. Ob in Ihrem Unternehmen, Ihrem Wohnzimmer, im Klassenzimmer, im Museum oder draußen in der Natur – jede Veranstaltung wird individuell auf Ihr Publikum, Ihre Ziele & Ihre Umgebung abgestimmt. Freuen Sie sich auf ein spannendes, interaktives Erlebnis mit Raum für Fragen, Diskussionen & Aha-Momente.  
+Lassen Sie uns gemeinsam etwas bewegen – ich freue mich auf Ihre Ideen & darauf, diese gemeinsam mit Ihnen zu beleben!  
+[Jetzt Kontakt aufnehmen](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) & Ihre Veranstaltung planen. 
+
+___
+
+#### Bildungskonzepte & Workshops: ideenreich, praxisnah & nachhaltig.
+Gemeinsam mit Ihnen oder auch in Ihrem Auftrag entwickle ich Bildungsformate zu spannenden Inhalten im Bereich der Umweltwissenschaften; von Grundkonzepten aus der Biologie über Klima bis hin zum Themenkomplex Nachhaltigkeit. Ob neue Workshops, interaktive Projekte oder ganze Veranstaltungsreihen: Ich unterstütze Sie bei der Konzeption, stehe beratend zur Seite & sorge dafür, dass Ihre Inhalte verständlich, greifbar & mitreißend vermittelt werden.  
+Freuen Sie sich auf Formate, die Neugier wecken, Begeisterung entfachen & langfristig in den Köpfen bleiben. Lassen Sie uns gemeinsam Bildungsprojekte gestalten, die inspirieren, bewegen & wirken!   
+[Jetzt Kontakt aufnehmen](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) & loslegen. 
 
 ___
 
@@ -27,7 +35,8 @@ Ich nehme Aufträge für ein Publikum allen Alters & allen Hintergrunds an. Beis
 * Kitas, Kindergärten
 * Privatgruppen, Freiziteinrichtungen, Seniorengruppen 
 * Betriebsausflüge, Kindergeburtstage
-* Blinde & sehbehinderte Menschen
+* Inklusionsgruppen, beispielsweise sehbehinderte oder rollstuhlfahrende Menschen 
+* Fremdsprachengruppen (präsentationssicheres Englisch; auf Französisch, Italienisch & Dänisch kann ich zusätzlich kommunizieren)
 * uvm.  
 
 ___

@@ -14,7 +14,7 @@ Zum einen zoologisch während meiner Bachelorarbeit durch die [bioakustische Art
 ___
 
   
-**Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme (auch im Hinblick auf menschliche Aktivitäten) – sie verbindet wissenschaftliche Erkenntnis mit gesellschaftlicher Verantwortung.** 
+**Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme (auch im Hinblick auf menschliche Aktivitäten) denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.** 
 
 ___
   
