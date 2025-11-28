@@ -20,8 +20,8 @@ ___
 Jetzt reinhören in den ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 
 * **Bildungsangebote mitentwickelt & mitgestaltet von mir: Ab sofort sind spannende Formate bei verschiedenen Kooperationspartnern buchbar.**
 Jetzt informieren, mitmachen und neue Perspektiven erobern. 
- * Das Thema ["Faszination Fledermäuse (3.-4. Klasse) im Museum Mensch und Natur](https://mmn-muenchen.snsb.de/angebote-fuer-die-1-bis-4-jahrgangsstufe/) ist als Führung oder Workshop buchbar. 
- * SOON: Thema "Saubere Sache – Herstellung einer Duftseife mit Pflanzen
+  * Das Thema ["Faszination Fledermäuse (3.-4. Klasse) im Museum Mensch und Natur](https://mmn-muenchen.snsb.de/angebote-fuer-die-1-bis-4-jahrgangsstufe/) ist als Führung oder Workshop buchbar. 
+  * SOON: Thema "Saubere Sache – Herstellung einer Duftseife mit Pflanzen
 aus dem Kräutergarten" (inklusvie Führung für Menschen mit Sehbehinderung ⚠️) im BIOTOPIA Lab. 
 </a>
 
