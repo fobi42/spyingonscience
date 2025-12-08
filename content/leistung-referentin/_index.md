@@ -6,13 +6,18 @@ image: "diatoms.png"
 ---
 ## Leistungsportfolio im Fachbereich "Wissensvermittlung".  
 ___  
-Ein ausgeschmücktes Leistungsportfolio (Stand Sept. 2025) können Sie gern [hier](/images/portfolio-referentin.pdf) ansehen. 
+Ein ausgeschmücktes Leistungsportfolio (Stand Sept. 2025) können Sie gern [hier](/images/portfolio-referentin.pdf) ansehen.  
+
+
+**BRANDNEUE vor-Ort-Veranstaltung in Ihrer Schule/Bildungseinrichtung oder als Privatveranstaltung.** 
+Mehr Infos erhalten Sie hier: [aktuelle Angebotspakete](/angebot/).  
+Heißer Hinweis: Ab 2026 werde ich die Preise leider um 19% erhöhen müssen. Also jetzt noch schnell einen Termin vereinbaren & von den "alten 2025-er" Preisen profitieren!   
 ___  
 
 #### Individuelle Veranstaltungen: einzigartig, lebendig & kreativ. 
 Gemeinsam mit Ihnen gestalte ich Veranstaltungen, die Wissen greifbar machen, Neugier wecken & Begeisterung entfachen. Ob in Ihrem Unternehmen, Ihrem Wohnzimmer, im Klassenzimmer, im Museum oder draußen in der Natur – jede Veranstaltung wird individuell auf Ihr Publikum, Ihre Ziele & Ihre Umgebung abgestimmt. Freuen Sie sich auf ein spannendes, interaktives Erlebnis mit Raum für Fragen, Diskussionen & Aha-Momente.  
 Lassen Sie uns gemeinsam etwas bewegen – ich freue mich auf Ihre Ideen & darauf, diese gemeinsam mit Ihnen zu beleben!  
-[Jetzt Kontakt aufnehmen](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) & Ihre Veranstaltung planen. 
+[Jetzt Kontakt aufnehmen](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) & Ihre Veranstaltung planen.  
 
 ___
 

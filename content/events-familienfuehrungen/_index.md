@@ -12,9 +12,9 @@ ___
 Immer Freitags um 15:00-16:00 Uhr.   
 Der Preis ist im Museumseintritt enthalten.   
 
-* 28.11.25: Thema ["Erdbebensimulator" (Klimawoche)](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
- 
 * 9.1.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/)   
+* 27.3.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/)   
+* 24.4.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/)   
 
 ___
 

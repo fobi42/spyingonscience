@@ -23,6 +23,9 @@ Jetzt informieren, mitmachen und neue Perspektiven erobern.
   * Das Thema ["Faszination Fledermäuse (3.-4. Klasse) im Museum Mensch und Natur](https://mmn-muenchen.snsb.de/angebote-fuer-die-1-bis-4-jahrgangsstufe/) ist als Führung oder Workshop buchbar. 
   * SOON: Thema "Saubere Sache – Herstellung einer Duftseife mit Pflanzen
 aus dem Kräutergarten" (inklusvie Führung für Menschen mit Sehbehinderung ⚠️) im BIOTOPIA Lab. 
+* **BRANDNEUE vor-Ort-Veranstaltung in Ihrer Schule/Bildungseinrichtung oder als Privatveranstaltung.** 
+Mehr Infos erhalten Sie hier: [aktuelle Angebotspakete](/angebot/).  
+Heißer Hinweis: Ab 2026 werde ich die Preise leider um 19% erhöhen müssen. Also jetzt noch schnell einen Termin vereinbaren & von den "alten 2025-er" Preisen profitieren!   
 </a>
 
 
@@ -38,17 +41,6 @@ ___
 ___
 
 ## Öffentliche Veranstaltungen - nach Termin.  
-  
-<br> <br> 
-November 2025.  
-<br> <br> 
-|	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|		|		|		|		|		|	1	|	2	|
-|	[**3**](/events-dm/)|	4	|	[**5**](/events-dm/)	|	6	|	[**7**](/events-dm/)	|	8	|	[**9**](/events-dm/)	|
-|	10	|	11	|	12	|	13	|	14	|	15	|	16	|
-|	17	|	18	|	19	|	20	|	21	|	22	|	23	|
-|	24	|	25	|	26	|	27	|	[**28**](/events-familienfuehrungen/)	|	29	|	30	|  
 
 <br> <br> 
  
@@ -76,7 +68,19 @@ Januar 2026.
 |	12	|	13	|	14	|	15	|	16	|	17	|	18	|
 |	19	|	20	|	21	|	22	|	23	|	24	|	25	|
 |	26	|	27	|	28	|	29	|	30	|	31	|		|  
+
 <br> <br> 
+   
+März 2026.  
+<br> <br> 
+|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|		|		|		|		|		|		|	1	|
+|	2	|	3	|	4	|	5	|	6	|	7	|	8	|
+|	9	|	10	|	11	|	12	|	13	|	14	|	15	|
+|	16	|	17	|	18	|	19	|	20	|	21	|	22	|
+|	23	|	24	|	25	|	26	|	[**27**](/events-familienfuehrungen/)	|	28	|	29	|
+|	30	|	31	|		|		|		|		|		|
    
 <br> <br>  
 April 2026.  
@@ -87,7 +91,7 @@ April 2026.
 |		|		|	1	|	2	|	3	|	4	|	5	|
 |	6	|	7	|	8	|	9	|	10	|	11	|	12	|
 |	13	|	14	|	15	|	16	|	17	|	18	|	19	|
-|	20	|	21	|	22	|	23	|	24	|	[**25**](/events-voranmeldung/)	|	26	|
+|	20	|	21	|	22	|	23	|	[**24**](/events-familienfuehrungen/)	|	[**25**](/events-voranmeldung/)	|	26	|
 |	27	|	28	|	29	|	30	|		|		|		|  
 <br> <br> 
 ___

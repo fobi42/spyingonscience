@@ -16,6 +16,7 @@ ___
 
 #### 2025.  
 * Familienführung im Museum Mensch und Natur
+  * 28.11.25: Thema ["Erdbebensimulator" (Klimawoche)](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
   * 31.10.25: Thema [“Die erstaunliche Welt der Fledermäuse”](https://mmn-muenchen.snsb.de/familienfuehrungen/) 
 * Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel).
   * 22.11.25: Thema "[Kunst mit Kritzelmaschine](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/kunst-mit-kritzelmaschine#2025-11-22T10:00:00+01:00)".  
