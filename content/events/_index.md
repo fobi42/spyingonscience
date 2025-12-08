@@ -23,7 +23,7 @@ Jetzt informieren, mitmachen und neue Perspektiven erobern.
   * Das Thema ["Faszination Fledermäuse (3.-4. Klasse) im Museum Mensch und Natur](https://mmn-muenchen.snsb.de/angebote-fuer-die-1-bis-4-jahrgangsstufe/) ist als Führung oder Workshop buchbar. 
   * SOON: Thema "Saubere Sache – Herstellung einer Duftseife mit Pflanzen
 aus dem Kräutergarten" (inklusvie Führung für Menschen mit Sehbehinderung ⚠️) im BIOTOPIA Lab. 
-* **BRANDNEUE vor-Ort-Veranstaltung in Ihrer Schule/Bildungseinrichtung oder als Privatveranstaltung.** 
+* **BRANDNEUE vor-Ort-Veranstaltung in Ihrer Schule/Bildungseinrichtung oder als Privatveranstaltung.**   
 Mehr Infos erhalten Sie hier: [aktuelle Angebotspakete](/angebot/).  
 Heißer Hinweis: Ab 2026 werde ich die Preise leider um 19% erhöhen müssen. Also jetzt noch schnell einen Termin vereinbaren & von den "alten 2025-er" Preisen profitieren!   
 </a>

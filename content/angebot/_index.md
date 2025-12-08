@@ -11,20 +11,24 @@ Eine übersicht weiterer Leistungen finden Sie [hier](/leistung-referentin/).
 ___  
 
 #### NEU: "Die Schätze unserer Erde verstehen & schützen"
-* Dieses Angebot ist für Kinder der 3.-4. Klasse Grundschule konzipiert kann aber nach Rücksprache für Jüngere/Ältere angepasst werden.
-* Ca. 75 min (1:15 Std.) + 15 min Puffer/Fragen --> Gesamtdauer des Programms ca. **1:30 Std**. 
-* Themenkern: Definition „Schatz/Wert“, Ressource „Süßwasser“ als Grundlage des Lebens auf der Erde, Umweltschutz & Nachhaltigkeitsziele. 
-* Praxiskern: Mikroskopieren, Empathie für die (belebte) Umwelt (Handhabung Wasserfloh, Ökosystemdienstleistungen). 
-* Kurzübersicht: In dieser spannenden Mitmach-Doppelstunde gehen wir gemeinsam auf Schatzsuche:
-Wir finden heraus, was unser „Blaues Gold“ ist, erforschen kleine und große Naturschätze (in max. 9 Gruppen) unter dem tragbaren Mit-mach-Mikroskop und treffen winzige Wasserflöhe, die uns verdeutlichen, wie wichtig sauberes Wasser ist. Mit einer kurzen Lesereise begleiten wir die „Flusspiraten“ bei ihren Aha-Momenten rund um’s Thema Wasser und entdecken dabei, wie wertvoll die Schätze unserer Erde für uns sind. 
-* **Aktuelles Paketangebot Bildungs-/Sozialeinrichtung** (inkl. 20 min Vorlauf zum Aufbau, Material & Anfahrt im Raum München): 
+* **Zielgruppe**: Dieses Angebot ist für Kinder der 3.-4. Klasse Grundschule konzipiert kann aber nach Rücksprache für Jüngere/Ältere angepasst werden.
+* **Dauer**: Ca. 75 min (1:15 Std.) + 15 min Puffer/Fragen --> Gesamtdauer des Programms ca. **1:30 Std**. 
+* **Inhalt**:
+  * Themenkern: Definition „Schatz/Wert“, Ressource „Süßwasser“ als Grundlage des Lebens auf der Erde, Umweltschutz & Nachhaltigkeitsziele. 
+  * Praxiskern: Mikroskopieren, Empathie für die (belebte) Umwelt (Handhabung Wasserfloh, Ökosystemdienstleistungen). 
+  * "In dieser spannenden Mitmach-Doppelstunde gehen wir gemeinsam auf Schatzsuche:
+Wir finden heraus, was unser „Blaues Gold“ ist, erforschen kleine und große Naturschätze (in max. 9 Gruppen) unter dem tragbaren Mit-mach-Mikroskop und treffen winzige Wasserflöhe, die uns verdeutlichen, wie wichtig sauberes Wasser ist. Mit einer kurzen Lesereise begleiten wir die „Flusspiraten“ bei ihren Aha-Momenten rund um’s Thema Wasser und entdecken dabei, wie wertvoll die Schätze unserer Erde für uns sind."  
+
+* **Aktuelles Paketangebot Bildungs-/Sozialeinrichtung** 
+  * inkl. 20 min Vorlauf zum Aufbau, Material & Anfahrt im Raum München.
   * 185€ (netto) zzgl. 19% USt. ab 2026: 220,15€. 
   * Prüfung auf "dem Schul- & Bildungszweck dienende Unterrichtsleistung steuerbefreit nach UStG § 4 Nr. 21" möglich.
-  * idealerweise für 1-2 Schulklassen (max. 9 Gruppen à 4 Kinder, ggf. Absprache möglich).
-* **Aktuelles Paketangebot Kindergeburtstag/Privatveranstaltung** (inkl. 20 min Vorlauf zum Aufbau, Material & Anfahrt im Raum München): 
+  * idealerweise für 1-2 Schulklassen (max. 9 Gruppen à 4 Kinder, ggf. Absprache möglich).  
+
+* **Aktuelles Paketangebot Kindergeburtstag/Privatveranstaltung**
+  * inkl. 20 min Vorlauf zum Aufbau, Material & Anfahrt im Raum München. 
   * 185€ (netto) zzgl. 19% USt. ab 2026: 220,15€. 
-  * idealerweise für 9 Kinder (ggf. Absprache möglich, z. B. 18 Kinder in 2-er Gruppen & Anpassen des Materials). 
-  * Je nach Absprache ist eine 15-30 minütige Pause zwischendurch ohne Aufpreis möglich. 
+  * idealerweise für 9 Kinder (ggf. Absprache möglich, z. B. 18 Kinder in 2-er Gruppen & Anpassen des Materials).  
 
 **HINWEIS: Die Aufsicht obliegt vor, während & nach der Veranstaltung der buchenden Person, der Lehrkraft oder dem Elternteil. Ich übernehme keine Aufsichtspflicht oder Verantwortung für die Kinder. Danke für das Verständnis.**
 

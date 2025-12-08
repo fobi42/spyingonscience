@@ -14,7 +14,7 @@ Der Preis ist im Museumseintritt enthalten.
 
 * 9.1.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/)   
 * 27.3.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/)   
-* 24.4.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/)   
+* 24.4.26: Thema ["Faszination Fledermäuse"](https://mmn-muenchen.snsb.de/familienfuehrungen/)   
 
 ___
 
