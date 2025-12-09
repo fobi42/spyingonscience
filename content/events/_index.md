@@ -35,6 +35,7 @@ ___
 * [Familienführungen im Museum Mensch und Natur](/events-familienfuehrungen/) (Kinder & Familien).
 * Gemeinsames ["Tinkering" im Deutschen Museum](/events-dm/) (Praterinsel; Kinder & Familien).
 * Einmalige Events, bei denen eine Voranmeldung nötig ist (Kinder & Familien; [Infos hier](/events-voranmeldung/)). 
+   * z. B. Anmeldung für den Münchner Familienpass (Fledermäuse am 25.4.26) am 27.-29.3.26
 
 <br> <br>  
 
