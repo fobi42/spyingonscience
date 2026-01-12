@@ -14,12 +14,22 @@ ___
 Hier finden Sie eine chronologische Übersicht vergangener öffentlicher Veranstaltungen (neueste zuerst) – als Einblick in meine bisherige Arbeit. 
 ___
 
+
+#### 2026.  
+* Familienführung im Museum Mensch und Natur
+  * 9.1.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/) 
+
+___
 #### 2025.  
 * Familienführung im Museum Mensch und Natur
   * 28.11.25: Thema ["Erdbebensimulator" (Klimawoche)](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
   * 31.10.25: Thema [“Die erstaunliche Welt der Fledermäuse”](https://mmn-muenchen.snsb.de/familienfuehrungen/) 
-* Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel).
-    * 07.12.25: Thema "[Brücken schlagen](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/bruecken-schlagen#2025-12-07T10:00:00+01:00)". 
+* Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel).  
+  * 30.12.25: Thema "[Feuerwerk to go](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/feuerwerk-to-go#2025-12-30T10:00:00+01:00)". 
+  * Farbfeuerwerk für Minis (ab 1,5 J.) am 29.12.2025, 5.1.2026 & 6.1.2026: [Weitere Infos hier](https://www.
+  deutsches-museum.de/museumsinsel/programm/veranstaltung/farbfeuerwerk-fuer-minis#2025-12-29T10:00:00+01:00). 
+  * 22.12.25: Thema "[Pinball-Feld ertüfteln](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/pinball-feld-ertuefteln#2025-12-22T10:00:00+01:00)". 
+  * 07.12.25: Thema "[Brücken schlagen](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/bruecken-schlagen#2025-12-07T10:00:00+01:00)". 
   * 06.12.25: Thema "[Lichterkarten basteln](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/lichterkarten-basteln#2025-12-06T10:00:00+01:00)".  
   * 22.11.25: Thema "[Kunst mit Kritzelmaschine](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/kunst-mit-kritzelmaschine#2025-11-22T10:00:00+01:00)".  
   * 26.10.25: Thema "[Glimmende Grusel-Grüße](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/glimmende-grusel-gruesse#2025-10-26T11:00:00+01:00)".  

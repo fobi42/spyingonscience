@@ -13,11 +13,13 @@ ___
 
 ## Leistungsportfolio.  
 
-Eine übersicht meiner Leistungen finden Sie [hier](/leistung-referentin/).  
+Eine Übersicht meiner Leistungen finden Sie [hier](/leistung-referentin/).  
+Aktuelles Angebot für die Grundschule (3./4. Klasse, 1,5 Std.) "[Die Schätze unserer Erde verstehen & schützen.](/angebot/)" 
 ___
 
 ## Preise.
 Meine Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung für freie Limnologen [(Leistungsverzeichnis für Limnologie, 2012)](https://limnologen.com/honorarermittlung/) zzgl. Material & Anfahrt. Weiterhin lehne ich meine Preise für Führungen & Workshops an den Preiskatalog meiner vermittelnden Kooperationspartner an.  
+
 ___
 
 ## Referenzen.

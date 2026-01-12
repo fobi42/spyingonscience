@@ -5,17 +5,19 @@ draft: false
 image: "images/kalender.png"
 ---
 
-# **Meine nächste Familienführung im Museum Mensch und Natur in München.**  
+# **Veranstaltungen im Museum Mensch und Natur und BIOTOPIA Lab in München.**  
 
 ___
-
+## Familienführungen
 Immer Freitags um 15:00-16:00 Uhr.   
 Der Preis ist im Museumseintritt enthalten.   
 
-* 9.1.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/)   
 * 27.3.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/)   
 * 24.4.26: Thema ["Faszination Fledermäuse"](https://mmn-muenchen.snsb.de/familienfuehrungen/)   
-
+___
+## Ferienprogramm im BIOTOPIA Lab
+Faschingsferien Bayern: Immer während der Öffnungszeiten - kostenfrei! 
+* 18.3.26: Thema ["Über den Tellerrand"](https://biotopialab.snsb.de/programmplan/). 
 ___
 
 < [zurück](/events/) zur Übersicht.

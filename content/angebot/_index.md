@@ -4,29 +4,34 @@ date: 2025-05-08T20:52:58+02:00
 draft: false
 image: "wisskomm.png"
 ---
+![angebot](/images/schaetze-der-erde.png)
+
 ## Aktuelle Angebote.  
 ___  
-Gerne passe ich das Angebot an Ihre Wünsche & Gruppengröße an. 
-Eine übersicht weiterer Leistungen finden Sie [hier](/leistung-referentin/).
+Gerne passe ich mein Angebot an Ihre Wünsche & Gruppengröße an. 
+Eine Übersicht weiterer Leistungen finden Sie [hier](/leistung-referentin/).
 ___  
 
-#### NEU: "Die Schätze unserer Erde verstehen & schützen."
+#### NEU. 📣📣 
+#### "Die Schätze unserer Erde verstehen & schützen."  
+##### Infomationen. 
 * **Zielgruppe**: Dieses Angebot ist für Kinder der 3.-4. Klasse Grundschule konzipiert kann aber nach Rücksprache für Jüngere/Ältere angepasst werden.
 * **Dauer**: Ca. 75 min (1:15 Std.) + 15 min Puffer/Fragen --> Gesamtdauer des Programms ca. **1:30 Std**. 
-* **Inhalt**: In dieser spannenden Mitmach-Doppelstunde gehen wir gemeinsam auf Schatzsuche. Wir finden heraus, was unser „Blaues Gold“ ist, erforschen kleine und große Naturschätze (in max. 9 Gruppen) unter dem tragbaren Mit-mach-Mikroskop und treffen winzige Wasserflöhe, die uns verdeutlichen, wie wichtig sauberes Wasser ist. Mit einer kurzen Lesereise begleiten wir die „Flusspiraten“ bei ihren Aha-Momenten rund um’s Thema Wasser und entdecken dabei, wie wertvoll die Schätze unserer Erde für uns sind. 
-  * Themenkern: Definition „Schatz/Wert“, Ressource „Süßwasser“ als Grundlage des Lebens auf der Erde, Umweltschutz & Nachhaltigkeitsziele. 
-  * Praxiskern: Mikroskopieren, Empathie für die (belebte) Umwelt (Handhabung Wasserfloh, Ökosystemdienstleistungen).  
+* **Inhalt**: In dieser spannenden Mitmach-Doppelstunde gehen wir gemeinsam auf Schatzsuche. Wir finden heraus, was unser „Blaues Gold“ ist, erforschen kleine & große Naturschätze (in max. 9 Gruppen) unter dem tragbaren Mitmach-Mikroskop & treffen winzige Wasserflöhe, die uns verdeutlichen, wie wichtig sauberes Wasser ist. Mit einer kurzen Lesereise begleiten wir die „Flusspiraten“ bei ihren Aha-Momenten rund um’s Thema Wasser & entdecken dabei, wie wertvoll die Schätze unserer Erde für uns sind. 
+  * **Themenkern**: Definition „Schatz/Wert“, Ressource „Süßwasser“ als Grundlage des Lebens auf der Erde, Umweltschutz & Nachhaltigkeitsziele. 
+  * **Praxiskern**: Mikroskopieren, Empathie für die (belebte) Umwelt (Handhabung Wasserfloh, Ökosystemdienstleistungen).  
 
-* **Aktuelles Paketangebot Bildungs-/Sozialeinrichtung.** 
-  * inkl. 20 min Vorlauf zum Aufbau, Material & Anfahrt im Raum München.
-  * 185€ (netto) zzgl. 19% USt. ab 2026: 220,15€. 
-  * Prüfung auf "dem Schul- & Bildungszweck dienende Unterrichtsleistung steuerbefreit nach UStG § 4 Nr. 21" möglich.
-  * idealerweise für 1-2 Schulklassen (max. 9 Gruppen à 4 Kinder, ggf. Absprache möglich).  
+##### Aktuelle Paketangebote. 
+* **Bildungs-/Sozialeinrichtung.** 
+  * idealerweise für 1-2 Schulklassen (max. 9 Gruppen à 4 Kinder, Absprache möglich).   
+  * inkl. Anfahrt im Raum München, 20 min Vorlauf zum Aufbau & Material.
+  * Prüfung auf "dem Schul- & Bildungszweck dienende Unterrichtsleistung steuerbefreit nach UStG § 4 Nr. 21" zum Erlass der MwSt (Endpreis ca. 150€).
+  * Paketpreis: 185€ (inkl.19% MwSt.) 
 
-* **Aktuelles Paketangebot Kindergeburtstag/Privatveranstaltung.**
-  * inkl. 20 min Vorlauf zum Aufbau, Material & Anfahrt im Raum München. 
-  * 185€ (netto) zzgl. 19% USt. ab 2026: 220,15€. 
-  * idealerweise für 9 Kinder (ggf. Absprache möglich, z. B. 18 Kinder in 2-er Gruppen & Anpassen des Materials).  
+* **Kindergeburtstag/Privatveranstaltung.**
+  * idealerweise für 9 Kinder (weitere Absprache möglich, z. B. 18 Kinder in 2-er Gruppen erfordert eine Anpassung der Materialpauschale).  
+  * inkl. Anfahrt im Raum München, 20 min Vorlauf zum Aufbau & Material.
+  * Paketpreis: 185€ (inkl.19% MwSt.) 
 
 **HINWEIS: Die Aufsicht obliegt vor, während & nach der Veranstaltung der buchenden Person, der Lehrkraft oder dem Elternteil. Ich übernehme keine Aufsichtspflicht oder Verantwortung für die Kinder. Danke für das Verständnis.**
 

@@ -10,12 +10,11 @@ image: "images/kalender.png"
 ___
 
 * Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel).
-    * 22.12.25: Thema "[Pinball-Feld ertüfteln](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/pinball-feld-ertuefteln#2025-12-22T10:00:00+01:00)". 
-    * 30.12.25: Thema "[Feuerwerk to go](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/feuerwerk-to-go#2025-12-30T10:00:00+01:00)". 
+    * 16.2.26: Thema "[_tba_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
+    * 20.2.26: Thema "[_tba_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
+    * 23.2.26: Thema "[_tba_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
+    * 8.4.26: Thema "[_tba_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
 
-* Farbfeuerwerk für Minis (ab 1,5 J.) am 29.12.2025, 5.1.2026 & 6.1.2026 
-  * "Ein gewöhnlicher Küchenhelfer wird zum Experimentierwerkzeug! Mit einer Salatschleuder erzeugen Kinder (ab 1,5 Jahre) farbenfrohe Kunstwerke und lernen, wie die Rotation Muster beeinflusst." Und was haben Murmen damit zu tun?
-  * [Weitere Infos hier](https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/farbfeuerwerk-fuer-minis#2025-12-29T10:00:00+01:00). 
 
 ___
 
