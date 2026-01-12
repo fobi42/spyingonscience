@@ -14,7 +14,7 @@ ___
 
 ## News. 
 * **Diatomeen direkt ins Ohr: Ich war in einem Wissenschaftspodcast zu Gast.** Jetzt reinhören in den ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 
-* **Bildungsangebote mitentwickelt & mitgestaltet von mir**: Ab sofort sind spannende Formate bei verschiedenen Kooperationspartnern buchbar zum Mitmachen und neue Perspektiven erobern. 
+* **Bildungsangebote mitentwickelt & mitgestaltet von mir**: Ab sofort sind spannende Formate bei verschiedenen Kooperationspartnern buchbar zum Mitmachen & neue Perspektiven erobern. 
   * Führung & Workshop: ["Faszination Fledermäuse (3.-4. Klasse) im Museum Mensch und Natur](https://mmn-muenchen.snsb.de/angebote-fuer-die-1-bis-4-jahrgangsstufe/). 
   * SOON: Führung & Workshop "Saubere Sache – Herstellung einer Duftseife mit Pflanzen aus dem Kräutergarten" (Realschule; inklusvie Führung für Menschen mit Sehbehinderung ⚠️) im BIOTOPIA Lab. 
 * **Vor-Ort-Veranstaltung in Ihrer Schule/Bildungseinrichtung oder als Privatveranstaltung**: ["Die Schätze unserer Erde verstehen & schützen"](/angebot/) - BRANDNEU. 
@@ -34,7 +34,20 @@ Januar 2026.
 |	[**5**](/events-dm/)	|	[**6**](/events-dm/)	|	7	|	8	|	[**9**](/events-familienfuehrungen/)	|	10	|	11	|
 |	12	|	13	|	14	|	15	|	16	|	17	|	18	|
 |	19	|	20	|	21	|	22	|	23	|	24	|	25	|
-|	26	|	27	|	28	|	29	|	30	|	31	|		|  
+|	26	|	27	|	28	|	29	|	30	|	31	|		|   
+
+
+<br> <br>  
+Februar 2026. 
+<br> <br>  
+|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|		|		|		|		|		|		|	1	|
+|	2	|	3	|	4	|	5	|	6	|	7	|	8	|
+|	9	|	10	|	11	|	12	|	13	|	14	|	15	|
+|	[**16**](/events-dm/)	|	17	|	[**18**](/events-familienfuehrungen/)	|	19	|	[**20**](/events-dm/)	|	21	|	22	|
+|	[**23**](/events-dm/)	|	24	|	25	|	26	|	27	|	28	|		|  
+
 
 <br> <br> 
    
@@ -49,16 +62,7 @@ März 2026.
 |	23	|	24	|	25	|	26	|	[**27**](/events-familienfuehrungen/)	|	28	|	29	|
 |	30	|	31	|		|		|		|		|		|
    
-<br> <br>  
-Februar 2026. 
-<br> <br>  
-|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|		|		|		|		|		|		|	1	|
-|	2	|	3	|	4	|	5	|	6	|	7	|	8	|
-|	9	|	10	|	11	|	12	|	13	|	14	|	15	|
-|	[**16**](/events-dm/)	|	17	|	[**18**](/events-familienfuehrungen/)	|	19	|	[**20**](/events-dm/)	|	21	|	22	|
-|	[**23**](/events-dm/)	|	24	|	25	|	26	|	27	|	28	|		|
+
 <br> <br>  
 April 2026.  
 <br> <br> 

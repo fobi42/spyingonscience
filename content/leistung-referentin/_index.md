@@ -8,10 +8,6 @@ image: "diatoms.png"
 ___  
 Ein ausgeschmücktes Leistungsportfolio (Stand Sept. 2025) können Sie gern [hier](/images/portfolio-referentin.pdf) ansehen.  
 
-
-**BRANDNEUE vor-Ort-Veranstaltung in Ihrer Schule/Bildungseinrichtung oder als Privatveranstaltung.** 
-Mehr Infos erhalten Sie hier: [aktuelle Angebotspakete](/angebot/).  
-Heißer Hinweis: Ab 2026 werde ich die Preise leider um 19% erhöhen müssen. Also jetzt noch schnell einen Termin vereinbaren & von den "alten 2025-er" Preisen profitieren!   
 ___  
 
 #### Individuelle Veranstaltungen: einzigartig, lebendig & kreativ. 
