@@ -5,7 +5,7 @@ draft: false
 image: "scicomm.png"
 ---
 
-## Referenzen.
+## Referenzen im Fachgebiet Limnologie.
 
 ___
 
@@ -33,7 +33,7 @@ ___
 ___
 
 #### 2023.
-* Auslandsstumdium an der Università degli Studi di Padova (Biologia marina, M. Sc.) in Chioggia (Pallazzo Grassi, Stazione Idrobiologica).
+* Auslandsstudium an der Università degli Studi di Padova (Biologia marina, M. Sc.) in Chioggia (Pallazzo Grassi, Stazione Idrobiologica).
 ___
 
 #### 2022.

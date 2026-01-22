@@ -10,10 +10,12 @@ image: "images/kalender.png"
 ___
 
 * Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel).
-    * 16.2.26: Thema "[_tba_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
-    * 20.2.26: Thema "[_tba_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
-    * 23.2.26: Thema "[_tba_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
-    * 8.4.26: Thema "[_tba_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
+    * 16.2.26: Thema "[_in Planung_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
+    * 20.2.26: Thema "[_in Planung_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
+    * 23.2.26: Thema "[_in Planung_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
+    * 1.4.26: Thema "[_in Planung_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
+    * 2.4.26: Thema "[_in Planung_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
+    * 8.4.26: Thema "[_in Planung_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
 
 
 ___

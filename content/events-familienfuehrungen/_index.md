@@ -13,7 +13,7 @@ Immer Freitags um 15:00-16:00 Uhr.
 Der Preis ist im Museumseintritt enthalten.   
 
 * 27.3.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/)   
-* 24.4.26: Thema ["Faszination Fledermäuse"](https://mmn-muenchen.snsb.de/familienfuehrungen/)   
+* 24.4.26: Thema ["Jetzt geht's rund - Kreisläufe statt Abfälle"](https://www.jetztgehtsrund.org/termine/)   
 ___
 ## Ferienprogramm im BIOTOPIA Lab
 Faschingsferien Bayern: Immer während der Öffnungszeiten - kostenfrei! 

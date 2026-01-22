@@ -40,7 +40,7 @@ Januar 2026.
 <br> <br>  
 Februar 2026. 
 <br> <br>  
-|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
+|	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|		|		|		|		|		|	1	|
 |	2	|	3	|	4	|	5	|	6	|	7	|	8	|
@@ -53,7 +53,7 @@ Februar 2026.
    
 März 2026.  
 <br> <br> 
-|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
+|	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|		|		|		|		|		|	1	|
 |	2	|	3	|	4	|	5	|	6	|	7	|	8	|
@@ -69,7 +69,7 @@ April 2026.
    
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|		|		|	1	|	2	|	3	|	4	|	5	|
+|		|		|	[**1**](/events-dm/)		|	[**2**](/events-dm/)		|	3	|	4	|	5	|
 |	6	|	7	|	[**8**](/events-dm/)	|	9	|	10	|	11	|	12	|
 |	13	|	14	|	15	|	16	|	17	|	18	|	19	|
 |	20	|	21	|	22	|	23	|	[**24**](/events-familienfuehrungen/)	|	[**25**](/events-voranmeldung/)	|	26	|
@@ -85,7 +85,7 @@ ___
 * Deutsches Museum
    * Gemeinsames ["Tinkering" im Deutschen Museum](/events-dm/) (Praterinsel; Kinder & Familien).
 * Einmalige Events, bei denen eine Voranmeldung nötig ist (Kinder & Familien; [Infos hier](/events-voranmeldung/)). 
-   * z. B. Münchner Familienpass (Fledermäuse am 25.4.26) - Anmeldung am 27.-29.3.26
+   * z. B. Münchner Familienpass ("Weltverbessern to go" am 25.4.26) - Anmeldung am 27.-29.3.26
 
 <br> <br>  
 ___
