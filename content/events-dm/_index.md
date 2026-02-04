@@ -10,13 +10,24 @@ image: "images/kalender.png"
 ___
 
 * Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel).
-    * 16.2.26: Thema "[_in Planung_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
-    * 20.2.26: Thema "[_in Planung_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
-    * 23.2.26: Thema "[_in Planung_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
-    * 1.4.26: Thema "[_in Planung_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
-    * 2.4.26: Thema "[_in Planung_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
-    * 8.4.26: Thema "[_in Planung_](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
+    * 16.2.26: Thema "[Farbfeuerwerk für Minis ab 1,5 Jahre](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
+    * 20.2.26: Thema "[Farbfeuerwerk für Minis ab 1,5 Jahre](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
+    * 23.2.26: Thema "[Brückenbau](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
 
+    <br> <br> 
+
+    * 14.3.26: Thema "[Pinball](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
+    * 15.3.26: Thema "[Brückenbau](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
+    * 30.3.26: Thema "[Farbfeuerwerk für Minis ab 1,5 Jahre](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
+    * 31.3.26: Thema "[Farbfeuerwerk für Minis ab 1,5 Jahre](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
+
+    <br> <br> 
+
+    * 1.4.26: Thema "[Farbfeuerwerk für Minis ab 1,5 Jahre](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
+    * 8.4.26: Thema "[Farbfeuerwerk für Minis ab 1,5 Jahre](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
+    * 9.4.26: Thema "[Pinball](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
+
+* Tinkering auf dem "[Festival der Zukunft](https://www.deutsches-museum.de/forum-der-zukunft/festival-der-zukunft)" am 4.7. & 5.7.2026; weitere Infos folgen. 
 
 ___
 

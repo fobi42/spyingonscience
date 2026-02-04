@@ -33,13 +33,13 @@ gcse = false
 Lastmod = false
 rss = true 
 pagination = "10"
-description="Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #spyingonscience. Mein Name ist Andrea, ich bin passionierte Biologin & begeisterte Wissensvermittlerin."
+description="Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience. Mein Name ist Andrea, ich bin passionierte Biologin & begeisterte Wissensvermittlerin."
 lunrSearch = true
 previewCardImagePlacement = "middle"
 hidePostImage = false
 tagSubtitle = "Here, you’ll discover the latest notes that explore new insights, and unique perspectives on the world."
 homepageLayout = "profile" #blog
-profileShortbio = "Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #spyingonscience. Mein Name ist Andrea, ich bin passionierte Biologin & begeisterte Wissensvermittlerin."
+profileShortbio = "Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience. Mein Name ist Andrea, ich bin passionierte Biologin & begeisterte Wissensvermittlerin."
 profilePhoto = "logo.png"
 
 [pagination]
@@ -50,7 +50,7 @@ pagerSize = 9
 [Params.Author]
   name = "Andrea Koplitz-Weißgerber"
   website = "https://www.spyingonscience.com/"
-  authorInfo = "Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #spyingonscience."
+  authorInfo = "Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience."
   authorPostImage = "/images/me.png"
   instagram = "spyingonscience"
   linkedin = "andrea-koplitz-weissgerber"
@@ -60,7 +60,12 @@ pagerSize = 9
 
 
 [[menu.main]]
-    name = "  Aktuelles & Termine  "
+    name = "  Aktuelles  "
+    url = "/events/"
+    weight = 1
+
+[[menu.main]]
+    name = "  Kennenlernen  "
     url = "/events/"
     weight = 2
 
