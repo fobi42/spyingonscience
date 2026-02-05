@@ -11,17 +11,20 @@ ___
 
 <br> <br> 
 
-**Familienführungen im Museum Mensch und Natur.**  
+#### Familienführungen im Museum Mensch und Natur.  
 Immer Freitags um 15:00-16:00 Uhr.   
 Der Preis ist im Museumseintritt enthalten.   
 ▶︎ [Weitere Termine & Infos zu den Familienführungen.](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
+
+<br> <br> 
+
 Termine:  
 * 27.3.26: Thema "Auf den Spuren der Eiszeit".
 * 24.4.26: Thema "Jetzt geht's rund - Kreisläufe statt Abfälle".
 
 <br> <br> 
 
-**Ferienprogramm im BIOTOPIA Lab.**  
+#### Ferienprogramm im BIOTOPIA Lab.  
 Immer während der Öffnungszeiten - kostenfrei! 
 ▶︎ [Weitere Infos & Programmplan.](https://biotopialab.snsb.de/programmplan/)  
 Termine: 

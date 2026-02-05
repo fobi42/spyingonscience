@@ -11,12 +11,8 @@ image: "images/kalender.png"
 # Events. 
 ___ 
 
-<br> <br> 
-
-## Nutzen Sie die Gelegenheit mich persönlich kennenzulernen!  
+Nutzen Sie die Gelegenheit mich persönlich kennenzulernen!  
 Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem **geringen Beitrag oder gar ganz kostenlos** besucht werden!    
-
-<br> <br> 
 
 ___ 
 
@@ -27,7 +23,9 @@ Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen.
 
 
 <br> <br> 
-Januar 2026.  
+
+#### Januar 2026.  
+
 <br> <br> 
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -39,7 +37,9 @@ Januar 2026.
 
 
 <br> <br>  
-Februar 2026. 
+
+#### Februar 2026. 
+
 <br> <br>  
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -51,7 +51,9 @@ Februar 2026.
 
 
 <br> <br> 
-März 2026.  
+
+#### März 2026.  
+
 <br> <br> 
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -64,7 +66,9 @@ März 2026.
    
 
 <br> <br>  
-April 2026.  
+
+#### April 2026.  
+
 <br> <br> 
    
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
@@ -77,7 +81,9 @@ April 2026.
 
 
 <br> <br> 
-Juli 2026.
+
+#### Juli 2026.
+
 <br> <br> 
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -97,28 +103,32 @@ ___
 
 <br> <br> 
 
-**Staatlich Naturwissenschaftliche Sammlungen Bayerns (SNSB).**  
+#### Staatlich Naturwissenschaftliche Sammlungen Bayerns (SNSB).  
 ▶︎ [Familienführungen im Museum Mensch unt Natur](/events-familienfuehrungen/).  
 ▶︎ [Ferienprogramme im BIOTOPIA LAB](/events-familienfuehrungen/).  
 
 <br> <br> 
 
-**Deutsches Museum (München Praterinsel).**  
+#### Deutsches Museum (München Praterinsel).  
 ▶︎ [Gemeinsames "Tinkering" im Deutschen Museum](/events-dm/).  
 ▶︎ [Sonderprogramme, z. B. für Minis (1-3 Jahre), im Deutschen Museum](/events-dm/). 
 
 <br> <br> 
 
-**Einmalige Events mit verbindlicher Voranmeldung.** 
+#### Einmalige Events mit verbindlicher Voranmeldung.  
 ▶︎ [Münchner Familienpass "Weltverbessern to go" am 25.4.26 (Anmeldung am 27.-29.3.26)](/events-voranmeldung/)
 
 <br> <br>  
 
 ___
 
-## Veranstaltungsarchiv.
+<br> <br> 
 
-Zum Archiv gelangen Sie [hier](/archive/).
+#### Veranstaltungsarchiv.
+
+▶︎ [Zum Archiv gelangen Sie hier.](/archive/)
+
+<br> <br> 
 
 ___
 

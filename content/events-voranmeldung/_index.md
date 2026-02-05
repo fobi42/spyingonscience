@@ -11,10 +11,10 @@ ___
 
 <br> <br> 
 
-**Sa., 25.4.2026 um 14-16:30 Uhr: Weltverbessern to go - Nachhaltigkeit zum anfassen.**  
+#### Sa., 25.4.2026 um 14-16:30 Uhr: Weltverbessern to go - Nachhaltigkeit zum anfassen.  
 Workshopangebot im Rahmen des Münchner Familienpasses.  
 ANMELDUNG am 27.3.-29.3.26.  
-▶︎ [Veranstaltungsinfos & Anmeldung. ](https://veranstaltungen.muenchen.de/ferienangebote-familienpass/veranstaltungen/weltverbessern-to-go-nachhaltigkeit-zum-anfassen-ab-10-jahre/).
+▶︎ [Veranstaltungsinfos & Anmeldung.](https://veranstaltungen.muenchen.de/ferienangebote-familienpass/veranstaltungen/weltverbessern-to-go-nachhaltigkeit-zum-anfassen-ab-10-jahre/)
 
 <br> <br> 
 ___

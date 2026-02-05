@@ -4,10 +4,10 @@ date: 2025-05-08T20:52:58+02:00
 draft: false
 image: "diatoms.png"
 ---
-## Leistungsportfolio im Fachbereich "Limnologie".  
+## Leistungsportfolio angewandte Gewässerökologie.**.  
 
 ___
-Ein ausgeschmücktes Leistungsportfolio (Stand Sept. 2025) können Sie gerne [hier](/images/portfolio-limno.pdf) ansehen. 
+▶︎ [Ein ausgeschmücktes Leistungsportfolio (Stand Sept. 2025) können Sie gerne hier ansehen.](/images/portfolio-limno.pdf)
 ___
 
 #### Assistenz in der Feldarbeit vor Ort.   

@@ -11,13 +11,14 @@ ___
 
 <br> <br> 
 
-Meine nächsten Einsätze am Deutschen Museum in München (Praterinsel) finden an gelisteten Terminen statt.  
+Meine nächsten Einsätze am Deutschen Museum in München (Praterinsel) finden an den unten gelisteten Terminen statt.  
 Weitere Infos zu den Themen finden Sie im Terminkalender des Deutschen Museums.  
 ▶︎ [Zum Museumskalender.](https://www.deutsches-museum.de/museumsinsel/programm/kalender)
 
 <br> <br> 
+___
 
-**Gemeinsames "Tinkering".**
+#### Gemeinsames "Tinkering".
 * 16.2.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
 * 20.2.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
 * 23.2.26: Thema "Brücken schlagen". 
@@ -37,7 +38,7 @@ Weitere Infos zu den Themen finden Sie im Terminkalender des Deutschen Museums.
 
 <br> <br> 
 
-**Weitere Veranstaltungen.**
+#### Weitere Veranstaltungen. 
 Tinkering auf dem "Festival der Zukunft" am 4.7. & 5.7.2026  
 ▶︎ [Weitere Infos folgen](https://www.deutsches-museum.de/forum-der-zukunft/festival-der-zukunft). 
 

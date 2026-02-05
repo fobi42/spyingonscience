@@ -10,23 +10,20 @@ image: "diatoms.png"
 # **Limnologin in der angewandten Gewässerökologie.**
 ___
 
-Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung. Ich bilde mich auch nach meinem Studienabschluss fort & freue mich sehr über neue Chancen.  
-Ich arbeite mit guter Laune & habe gerne einen lösungsorientierten Vorschlag bei etwaigen Hürden parat.
+Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung. Auch nach meinem Studienabschluss bilde ich mich kontinuierlich fort & freue mich sehr über neue Chancen. Ich arbeite mit guter Laune & habe gerne einen lösungsorientierten Vorschlag bei etwaigen Hürden parat.
 ___ 
 
 ## Leistungsportfolio.
-
-Eine Übersicht meiner Leistungen finden Sie [hier](/leistung-limno/).  
+▶︎ [Eine Übersicht meiner Leistungen finden Sie hier](/leistung-limno/).  
 ___
 
 ## Preise.
-Meine Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung für freie Limnologen [(Leistungsverzeichnis für Limnologie, 2012)](https://limnologen.com/honorarermittlung/) zzgl. Material & Anfahrt/Logis.  
-
+Meine Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung für freie Limnologen zzgl. Material & Anfahrt/Logis.  
+▶︎ [Leistungsverzeichnis für Limnologie (2012).](https://limnologen.com/honorarermittlung/)
 ___
 
 ## Referenzen.
-
-Einen Einblick in meine bisherigen Aufträge & meine Erfahrung finden Sie [hier](/references/).
+▶︎ [Einen Einblick in meine bisherigen Aufträge & meine Erfahrung finden Sie hier.](/references/)
 
 ___
 

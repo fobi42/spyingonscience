@@ -14,8 +14,11 @@ ___
 
 <br> <br> 
 
-## Nutzen Sie die Gelegenheit mich persönlich kennenzulernen.
+## Termine. 
 
+<br> <br> 
+
+Nutzen Sie die Gelegenheit mich persönlich kennenzulernen.  
 Viele Events können dank meinen Partnerinstitutionen oft zu einem **geringen Beitrag oder gar ganz kostenlos** besucht werden! Informieren Sie sich gerne.  
 
 ▶︎ [Hier geht's zu den Veranstaltungen](/events/).  

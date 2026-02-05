@@ -15,17 +15,17 @@ ___
 
 ## [2016 bis 2024.](/about-studium/)
 **Studium der Biologie (B.Sc.  &  M.Sc.).**   
-Mehr informationen dazu finden Sie [hier](/about-studium/).
+▶︎ [Mehr informationen dazu finden Sie hier](/about-studium/).
 ___
   
 ## [seit 2021.](/about-since2021/)
 **Freiberufliche Arbeit als Biologin in der außerschulischen Bildung.**  
-Mehr informationen dazu finden Sie [hier](/about-since2021/).
+▶︎ [Mehr informationen dazu finden Sie hier.](/about-since2021/)
 ___
   
 ## [seit 2024.  ](/about-since2024/)
 **Freiberufliche Arbeit als Biologin in der Gewässerökologie.**  
-Mehr informationen dazu finden Sie [hier](/about-since2024/). 
+▶︎ [Mehr informationen dazu finden Sie hier.](/about-since2024/) 
 
 
 
