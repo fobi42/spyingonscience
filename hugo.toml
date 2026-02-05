@@ -65,31 +65,26 @@ pagerSize = 9
     weight = 2
 
 [[menu.main]]
-    name = "  Kennenlernen  "
-    url = "/events/"
-    weight = 3
-
-[[menu.main]]
     name = "  Referentin  "
     url = "/wisskomm/"
-    weight = 5
+    weight = 4
 
 
 [[menu.main]]
     name = "  Limnologin  "
     url = "/limnologie/"
-    weight = 4
+    weight = 3
 
 
 [[menu.main]]
     name = "  Über  "
     url = "/ueber/"
-    weight = 6
+    weight = 5
 
 [[menu.main]]
     name = "  Impressum/Datenschutz  "
     url = "/contact/"
-    weight = 7
+    weight = 6
 
 #[[menu.main]]
 #    name = "Blog"

@@ -8,9 +8,11 @@ image: "images/kalender.png"
 
 ![Scenario 1: Across columns](/images/kalender.png)
 
-# **..., denn irgendwas ist immer los!*** 
+# **..., denn irgendwas ist immer los!**  
 
 ___
+
+<br> <br> 
 
 ## Nutzen Sie die Gelegenheit mich persönlich kennenzulernen.
 
@@ -18,25 +20,25 @@ Viele Events können dank meinen Partnerinstitutionen oft zu einem **geringen Be
 
 ▶︎ [Hier geht's zu den Veranstaltungen](/events/).  
 
+<br> <br> 
+
 ___
+
+<br> <br> 
 
 ## News & Aktuelles.  
 
 <br> <br> 
 
 **Diatomeen direkt ins Ohr: Ich war in einem Podcast zu Gast.**  
- 
 Doktopus - Der Wissenspodcast mit Dora und Dominic.  
-Wichtige Winzlinge: Kieselalgen sind überall!
-*Algenexpertin Andrea hat ihre Lieblingslebewesen mitgebracht – und einen ganzen Haufen spannender Geschichten:*  
-*Diatomeen, oder auch Kieselalgen, sind überall und für uns Menschen von großer Bedeutung! Was sie mit Sprengstoff, Bier und Wasserkriegen zu tun haben und was eine Frustel ist… erfahrt ihr in dieser Folge von Doktopus!*   
-
+Wichtige Winzlinge: Kieselalgen sind überall!  
+*Algenexpertin Andrea hat ihre Lieblingslebewesen mitgebracht – und einen ganzen Haufen spannender Geschichten: Diatomeen, oder auch Kieselalgen, sind überall und für uns Menschen von großer Bedeutung! Was sie mit Sprengstoff, Bier und Wasserkriegen zu tun haben und was eine Frustel ist… erfahrt ihr in dieser Folge von Doktopus!*   
 ▶︎ [Jetzt reinhören (Erschienen: 27.11.2025, Dauer: 00:51:56)](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 
 
 <br> <br> 
 
 **Bildungsangebote mitentwickelt & mitgestaltet von mir.**  
-
 Ab sofort sind spannende Formate bei verschiedenen Kooperationspartnern zum Mitmachen & neue Perspektiven erobern buchbar. 
   * "Faszination Fledermäuse"
     * Führung & Workshop für die 3.-4. Klasse Grundschule im Museum Mensch und Natur.   
@@ -51,7 +53,10 @@ Das brandneue Programm "Die Schätze unserer Erde verstehen & schützen" ist ab 
 ▶︎ [Info & Buchung](/angebot/). 
 </a>
 
+<br> <br> 
 ___
+
+<br> <br> 
 
 ## Veranstaltungsarchiv.
 

@@ -5,33 +5,47 @@ draft: false
 image: "images/kalender.png"
 ---
 
-# **Meine nächsten Einsätze im Deutschen Museum in München.**  
+# **Deutsches Museum in München.**  
 
 ___
 
-* Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel).
-    * 16.2.26: Thema "[Farbfeuerwerk für Minis ab 1,5 Jahre](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
-    * 20.2.26: Thema "[Farbfeuerwerk für Minis ab 1,5 Jahre](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
-    * 23.2.26: Thema "[Brückenbau](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
+<br> <br> 
+
+Meine nächsten Einsätze am Deutschen Museum in München (Praterinsel) finden an gelisteten Terminen statt.  
+Weitere Infos zu den Themen finden Sie im Terminkalender des Deutschen Museums.  
+▶︎ [Zum Museumskalender.](https://www.deutsches-museum.de/museumsinsel/programm/kalender)
+
+<br> <br> 
+
+**Gemeinsames "Tinkering".**
+* 16.2.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
+* 20.2.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
+* 23.2.26: Thema "Brücken schlagen". 
 
     <br> <br> 
 
-    * 14.3.26: Thema "[Pinball](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
-    * 15.3.26: Thema "[Brückenbau](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)". 
-    * 30.3.26: Thema "[Farbfeuerwerk für Minis ab 1,5 Jahre](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
-    * 31.3.26: Thema "[Farbfeuerwerk für Minis ab 1,5 Jahre](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
+* 14.3.26: Thema "Pinballfeld ertüfteln". 
+* 15.3.26: Thema "Brücken schlagen". 
+* 30.3.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
+* 31.3.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
 
     <br> <br> 
 
-    * 1.4.26: Thema "[Farbfeuerwerk für Minis ab 1,5 Jahre](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
-    * 8.4.26: Thema "[Farbfeuerwerk für Minis ab 1,5 Jahre](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
-    * 9.4.26: Thema "[Pinball](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)".
+* 1.4.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
+* 8.4.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
+* 9.4.26: Thema "Pinballfeld ertüfteln". 
 
-* Tinkering auf dem "[Festival der Zukunft](https://www.deutsches-museum.de/forum-der-zukunft/festival-der-zukunft)" am 4.7. & 5.7.2026; weitere Infos folgen. 
+<br> <br> 
+
+**Weitere Veranstaltungen.**
+Tinkering auf dem "Festival der Zukunft" am 4.7. & 5.7.2026  
+▶︎ [Weitere Infos folgen](https://www.deutsches-museum.de/forum-der-zukunft/festival-der-zukunft). 
 
 ___
 
-< [zurück](/events/) zur Übersicht.
+<br> <br> 
+
+▶︎ [zurück zur Übersicht.](/events/) 
 
 ___
 

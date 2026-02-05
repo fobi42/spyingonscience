@@ -5,18 +5,23 @@ draft: false
 image: "images/kalender.png"
 ---
 
-# **Meine nächsten Events zu denen man sich vorher anmelden muss in München.**  
+# **Events mit verbindlicher Voranmeldung.**  
 
 ___  
 
+<br> <br> 
 
-* Sa., 25.4.2026 um 14-16:30 Uhr: [Familienpass-Workshop: Weltverbessern to go - Nachhaltigkeit zum anfassen im Museum Mensch und Natur](https://veranstaltungen.muenchen.de/ferienangebote-familienpass/veranstaltungen/weltverbessern-to-go-nachhaltigkeit-zum-anfassen-ab-10-jahre/).
+**Sa., 25.4.2026 um 14-16:30 Uhr: Weltverbessern to go - Nachhaltigkeit zum anfassen.**  
+Workshopangebot im Rahmen des Münchner Familienpasses.  
+ANMELDUNG am 27.3.-29.3.26.  
+▶︎ [Veranstaltungsinfos & Anmeldung. ](https://veranstaltungen.muenchen.de/ferienangebote-familienpass/veranstaltungen/weltverbessern-to-go-nachhaltigkeit-zum-anfassen-ab-10-jahre/).
 
-**ANMELDUNG am 27.3.-29.3.26 [hier](https://veranstaltungen.muenchen.de/ferienangebote-familienpass/veranstaltungen/weltverbessern-to-go-nachhaltigkeit-zum-anfassen-ab-10-jahre/)**. 
-
+<br> <br> 
 ___
 
-< [zurück](/events/) zur Übersicht.
+<br> <br> 
+
+▶︎ [zurück zur Übersicht.](/events/) 
 
 
 ___

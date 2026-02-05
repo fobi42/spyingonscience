@@ -8,14 +8,25 @@ image: "images/kalender.png"
 
 ![Scenario 1: Across columns](/images/kalender.png)
 
-# Nutzen Sie die Gelegenheit mich persönlich kennenzulernen!  
-Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem **geringen Beitrag oder gar ganz kostenlos** besucht werden!    
+# Events. 
 ___ 
 
-## Öffentliche Veranstaltungen - nach Termin.  
+<br> <br> 
+
+## Nutzen Sie die Gelegenheit mich persönlich kennenzulernen!  
+Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem **geringen Beitrag oder gar ganz kostenlos** besucht werden!    
 
 <br> <br> 
-   
+
+___ 
+
+<br> <br> 
+
+## Öffentliche Veranstaltungen - nach Termin.  
+Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen. 
+
+
+<br> <br> 
 Januar 2026.  
 <br> <br> 
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
@@ -40,7 +51,6 @@ Februar 2026.
 
 
 <br> <br> 
-   
 März 2026.  
 <br> <br> 
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
@@ -64,8 +74,9 @@ April 2026.
 |	13	|	14	|	15	|	16	|	17	|	18	|	19	|
 |	20	|	21	|	22	|	23	|	[**24**](/events-familienfuehrungen/)	|	[**25**](/events-voranmeldung/)	|	26	|
 |	27	|	28	|	29	|	30	|		|		|		|  
-<br> <br> 
 
+
+<br> <br> 
 Juli 2026.
 <br> <br> 
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
@@ -75,16 +86,31 @@ Juli 2026.
 |	13	|	14	|	15	|	16	|	17	|	18	|	19	|
 |	20	|	21	|	22	|	23	|	24	|	25	|	26	|
 |	27	|	28	|	29	|	30	|	31	|		|		|
+
+<br> <br> 
+
 ___
 
+<br> <br> 
+
 ## Öffentliche Veranstaltungen - nach Format.  
-* SNSB (Museum Mensch und Natur & BIOTOPIA Lab): 
-   * [Familienführungen](/events-familienfuehrungen/) (Kinder & Familien).
-   * [Ferienprogramme](/events-familienfuehrungen/) im BIOTOPIA LAB 
-* Deutsches Museum
-   * Gemeinsames ["Tinkering" im Deutschen Museum](/events-dm/) (Praterinsel; Kinder & Familien).
-* Einmalige Events, bei denen eine Voranmeldung nötig ist (Kinder & Familien; [Infos hier](/events-voranmeldung/)). 
-   * z. B. Münchner Familienpass ("Weltverbessern to go" am 25.4.26) - Anmeldung am 27.-29.3.26
+
+<br> <br> 
+
+**Staatlich Naturwissenschaftliche Sammlungen Bayerns (SNSB).**  
+▶︎ [Familienführungen im Museum Mensch unt Natur](/events-familienfuehrungen/).  
+▶︎ [Ferienprogramme im BIOTOPIA LAB](/events-familienfuehrungen/).  
+
+<br> <br> 
+
+**Deutsches Museum (München Praterinsel).**  
+▶︎ [Gemeinsames "Tinkering" im Deutschen Museum](/events-dm/).  
+▶︎ [Sonderprogramme, z. B. für Minis (1-3 Jahre), im Deutschen Museum](/events-dm/). 
+
+<br> <br> 
+
+**Einmalige Events mit verbindlicher Voranmeldung.** 
+▶︎ [Münchner Familienpass "Weltverbessern to go" am 25.4.26 (Anmeldung am 27.-29.3.26)](/events-voranmeldung/)
 
 <br> <br>  
 
