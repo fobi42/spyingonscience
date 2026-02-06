@@ -12,7 +12,7 @@ Heute fliegen wir täglich über 100.000 Mal um die Welt. Es ist eine Errungensc
 Aber was heißt das genau? Hier ist der Knackpunkt:  
 **Bildung ist der Schlüssel zu informiertem, zukunftsorientierten Handeln aller Menschen im Sinne unseres Planeten & unserer Gesellschaft**.  
 
-▶︎ [Flugdaten des "OAG: Flight Database & Statistics".](https://www.oag.com/airline-frequency-and-capacity-statistics#:~:text=SCHEDULED%20FLIGHT%20COUNTER&text=With%2014%2C098%2C739%20flights%20in%20total,flights%20per%20day%20is%20100%2C705.)
+▶︎ [Flugdaten des "OAG: Flight Database & Statistics".](https://www.oag.com/airline-frequency-and-capacity-statistics#:~:text=SCHEDULED%20FLIGHT%20COUNTER&text=With%2014%2C098%2C739%20flights%20in%20total,flights%20per%20day%20is%20100%2C705.)  
 ▶︎ [Bildung für nachhaltige Entwicklung bis 2030.](https://www.bne-portal.de/bne/de/nationaler-aktionsplan/bildung-fuer-nachhaltige-entwicklung-bis-2030/bildung-fuer-nachhaltige-entwicklung-bis-2030.html)
 
 ___

@@ -8,7 +8,7 @@ image: "wisskomm.png"
 
 # Aktuelles Paketangebot.  
 ___  
-Gerne passe ich mein Angebot an Ihre Wünsche & Gruppengröße an. 
+Gerne passe ich mein Angebot an Ihre Wünsche & Gruppengröße an.   
 ▶︎ [Eine Übersicht aller Leistungen finden Sie hier.](/leistung-referentin/)
 ___  
 

@@ -8,7 +8,7 @@ image: "images/kalender.png"
 
 ![Scenario 1: Across columns](/images/kalender.png)
 
-# **Aktuelles**  
+# **Aktuelles.**  
 
 ___
 

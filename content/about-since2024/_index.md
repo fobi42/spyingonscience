@@ -31,10 +31,10 @@ ___
 
 Wasserschutz & Monitoring sind daher entscheidend. In Europa gelten derzeit nur etwa 40 % der Oberflächengewässer als gesund, doch strenge Richtlinien & regelmäßige Beobachtungen zeigen erste Erfolge, denn die Wasserqualität verbessert sich.  
 
-* [Zustand der europäischen Gewässer (Stand 2024).](https://www.bund.net/service/presse/pressemitteilungen/detail/news/gewaesser-in-der-eu-und-in-deutschland-in-schlechtem-zustand/)  
-* [Verbesserung der Wasserqualität durch Monitoring & Umweltschutz (2018/23).](https://www.eea.europa.eu/de/highlights/die-europaeischen-gewaesser-werden-sauberer)  
-* [Weitere Eindrücke rund um die globale Situation rund um Süßwasservorkommen.](https://www.unicef.de/informieren/aktuelles/blog/-/weltwassertag-zehn-fakten-ueber-wasser/275338)    
-* [Zahlen rund um den deutschen Wasserverbrauch.](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Umwelt/Wasserwirtschaft/_inhalt.html#253326)  
+▶︎ [Zustand der europäischen Gewässer (Stand 2024).](https://www.bund.net/service/presse/pressemitteilungen/detail/news/gewaesser-in-der-eu-und-in-deutschland-in-schlechtem-zustand/)  
+▶︎ [Verbesserung der Wasserqualität durch Monitoring & Umweltschutz (2018/23).](https://www.eea.europa.eu/de/highlights/die-europaeischen-gewaesser-werden-sauberer)  
+▶︎ [Weitere Eindrücke rund um die globale Situation rund um Süßwasservorkommen.](https://www.unicef.de/informieren/aktuelles/blog/-/weltwassertag-zehn-fakten-ueber-wasser/275338)    
+▶︎ [Zahlen rund um den deutschen Wasserverbrauch.](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Umwelt/Wasserwirtschaft/_inhalt.html#253326)  
 
 ___
 

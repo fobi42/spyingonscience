@@ -11,7 +11,7 @@ ___
 
 <br> <br> 
 
-Meine nächsten Einsätze am Deutschen Museum in München (Praterinsel) finden an den unten gelisteten Terminen statt.  
+Meine nächsten Einsätze als "Junior Museum Communicator" am Deutschen Museum in München (Praterinsel) finden an den unten gelisteten Terminen statt.   
 Weitere Infos zu den Themen finden Sie im Terminkalender des Deutschen Museums.  
 ▶︎ [Zum Museumskalender.](https://www.deutsches-museum.de/museumsinsel/programm/kalender)
 
