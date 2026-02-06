@@ -15,8 +15,7 @@ ___
 <br> <br> 
 
 #### Events. 
-Nutzen Sie die Gelegenheit mich persönlich kennenzulernen.  
-Viele Events können dank meinen Partnerinstitutionen oft zu einem **geringen Beitrag oder gar ganz kostenlos** besucht werden! Informieren Sie sich gerne.  
+Offene Mit-mach-Aktionen, Museumsevents & vieles mehr! Wollen Sie mich gerne mal persönlich kennenlernen? Viele Events können dank meinen Partnerinstitutionen oft zu einem **geringen Beitrag oder gar ganz kostenlos** besucht werden! Informieren Sie sich gerne.  
 ▶︎ [Hier geht's zum Terminkalender.](/events/)  
 
 ___

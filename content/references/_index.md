@@ -16,7 +16,7 @@ Diese chronologische Übersicht abgeschlossener Projekte und Fortbildungen (neue
 ___
 
 #### 2025.
-* Teilnahme am Einführungskurs „**Geodatenverarbeitung mit QGIS**“ 97/25 m 19. - 21. November 2025 an der Bayerischen Akademie für Naturschutz und Landschaftspflege (ANL) mit José Canalejo ([csgis](https://www.csgis.de/)). 
+* Teilnahme am Einführungskurs „**Geodatenverarbeitung mit QGIS**“ 97/25 am 19. - 21. November 2025 an der Bayerischen Akademie für Naturschutz und Landschaftspflege (ANL) mit José Canalejo ([csgis](https://www.csgis.de/)). 
 * Teilnahme beim Bestimmungskurs „**Phytobenthos ohne Diatomeen** (PoD) – eine Einführung“ am 17. - 19. September 2025 am Institut für Experimentelle Phykologie und Sammlung von Algenkulturen (EPSAG) der Universität Göttingen (Dozentinnen Dr. Antje Gutowski, Dr. Lydia King, Sabine Schiffels).  
 * Co-Betreuung von drei Bachelor- und drei Masterarbeiten, die die Analyse von **Diatomeengesellschaften von Quellstandorten** zum Inhalt haben (Ansprechpartnerin: Dr. Uta Raeder, Alumna der Limnologischen Forschungsstation Iffeldorf).  
 * Praktikum Artenkenntnis: **Moose** - Basiskurs - 82/25 am 1. - 2. April 2025 an der Bayerischen Akademie für Naturschutz und Landschaftspflege (ANL; Dozentin: Katrin Ketterer, HSWT). 

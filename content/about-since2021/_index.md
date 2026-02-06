@@ -17,7 +17,7 @@ Aber was heißt das genau? Hier ist der Knackpunkt:
 
 ___
 
-Durch mein Biologiestudium mit Schwerpunkt Umweltwissenschaften lernte ich Arten, Ökosysteme & deren Wechselwirkungen kennen. Dieses Wissen möchte ich teilen. Denn nicht alle haben die Möglichkeit, unsere Umwelt so tief zu verstehen. An genau dieser Schnittstelle braucht es Kommunikation & Interaktion!  
+Durch mein Biologiestudium mit Schwerpunkt Umweltwissenschaften lernte ich Arten, Ökosysteme & deren Wechselwirkungen kennen. Dieses Wissen möchte ich teilen. Denn nicht alle haben die Möglichkeit & Voraussetzungen, unsere Umwelt so tief verstehen zu lernen. An genau dieser Schnittstelle braucht es jetzt Kommunikation & Interaktion!  
 
 ___
 

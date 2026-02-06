@@ -17,20 +17,20 @@ Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem **ge
 ___ 
 #### Formate öffentlicher Veranstalungen.   
 
-**Staatlich Naturwissenschaftliche Sammlungen Bayerns (SNSB).**  
-▶︎ [Familienführungen im Museum Mensch unt Natur](/events-familienfuehrungen/).  
+Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB).  
+▶︎ [Familienführungen im Museum Mensch und Natur](/events-familienfuehrungen/).  
 ▶︎ [Ferienprogramme im BIOTOPIA LAB](/events-familienfuehrungen/).  
 
 <br> <br> 
 
-**Deutsches Museum (München Praterinsel).**  
+Deutsches Museum (München Praterinsel).  
 ▶︎ [Gemeinsames "Tinkering" im Deutschen Museum](/events-dm/).  
 ▶︎ [Sonderprogramme z. B. für Minis (1-3 Jahre)](/events-dm/). 
 
 <br> <br> 
 
-**Einmalige Events mit verbindlicher Voranmeldung.**  
-▶︎ [Münchner Familienpass "Weltverbessern to go" am 25.4.26 (Anmeldung am 27.-29.3.26)](/events-voranmeldung/)
+Einmalige Events mit verbindlicher Voranmeldung.  
+▶︎ [Münchner Familienpass "Weltverbessern to go" am 25.4.26 (Anmeldung am 27.-29.3.26).](/events-voranmeldung/)
 
 <br> <br>  
 
@@ -39,7 +39,7 @@ ___
 
 <br> <br> 
 
-## Terminkalender.
+##### Terminkalender.
 Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen. 
 ___ 
 
