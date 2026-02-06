@@ -13,16 +13,16 @@ ___
 Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung. Auch nach meinem Studienabschluss bilde ich mich kontinuierlich fort & freue mich sehr über neue Chancen. Ich arbeite mit guter Laune & habe gerne einen lösungsorientierten Vorschlag bei etwaigen Hürden parat.
 ___ 
 
-## Leistungsportfolio.
+#### Leistungsportfolio.
 ▶︎ [Eine Übersicht meiner Leistungen finden Sie hier](/leistung-limno/).  
 ___
 
-## Preise.
+#### Preise.
 Meine Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung für freie Limnologen zzgl. Material & Anfahrt/Logis.  
 ▶︎ [Leistungsverzeichnis für Limnologie (2012).](https://limnologen.com/honorarermittlung/)
 ___
 
-## Referenzen.
+#### Referenzen.
 ▶︎ [Einen Einblick in meine bisherigen Aufträge, Erfahrung & Fortbildung finden Sie hier.](/references/)
 
 ___

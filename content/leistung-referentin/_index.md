@@ -4,7 +4,7 @@ date: 2025-05-08T20:52:58+02:00
 draft: false
 image: "diatoms.png"
 ---
-## Leistungsportfolio als Referentin für Naturwissenschaften.  
+# Leistungsportfolio als Referentin für Naturwissenschaften.  
 ___  
 Gerne passe ich mein Angebot an Ihre Wünsche & Gruppengröße an.  
 ▶︎ [Ein ausgeschmücktes Leistungsportfolio (Stand Sept. 2025) können Sie gern hier ansehen.](/images/portfolio-referentin.pdf) 

@@ -5,7 +5,7 @@ date: 2025-05-08T20:30:29+02:00
 draft: false
 ---
 
-## Freiberufliche Arbeit als Biologin in der Gewässerökologie seit 2024.
+# Freiberufliche Arbeit als Biologin in der Gewässerökologie seit 2024.
 ___
   
 Durch meine Forschung an Diatomeengesellschaften in Quellhabitaten im Rahmen meiner Masterarbeit durfte ich mich intensiv mit der Ressource "Süßwasser" auseinandersetzen. 

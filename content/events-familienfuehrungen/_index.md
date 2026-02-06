@@ -23,9 +23,10 @@ Termine:
 * 24.4.26: Thema "Jetzt geht's rund - Kreisläufe statt Abfälle".
 
 <br> <br> 
+___
 
 #### Ferienprogramm im BIOTOPIA Lab.  
-Immer während der Öffnungszeiten - kostenfrei! 
+Immer während der Öffnungszeiten - kostenfrei!   
 ▶︎ [Weitere Infos & Programmplan.](https://biotopialab.snsb.de/programmplan/)  
 Termine: 
 * 18.2.26: Thema "Über den Tellerrand". 

@@ -3,8 +3,8 @@
 date: 2025-05-08T20:30:29+02:00
 draft: false
 ---
-## 2016 bis 2024.  
-## Studium der Biologie (B.Sc.  &  M.Sc.).  
+# 2016 bis 2024.  
+# Studium der Biologie (B.Sc.  &  M.Sc.).  
 ___
   
 Während meiner Ausbildung & Tätigkeit in ökologischen Fachbereichen habe ich mich intensiv mit den Schnittstellen zwischen menschlicher Aktivität & Umwelt beschäftigt. 

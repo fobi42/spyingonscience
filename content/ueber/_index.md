@@ -13,15 +13,15 @@ ___
 ▶︎ [Ein tiefergehender Umriss meiner Vita & meiner Qualifikationen ist auf meinem LinkedIn-Profil verfügbar. ](https://www.linkedin.com/in/andrea-koplitz-weissgerber/)
 ___
 
-## [2016 bis 2024.](/about-studium/)
+#### [2016 bis 2024.](/about-studium/)
 ▶︎ [Studium der Biologie (B.Sc.  &  M.Sc.).](/about-studium/).
 ___
   
-## [seit 2021.](/about-since2021/)
+#### [seit 2021.](/about-since2021/)
 ▶︎ [Freiberufliche Arbeit als Biologin in der außerschulischen Bildung.](/about-since2021/)
 ___
   
-## [seit 2024.](/about-since2024/)
+#### [seit 2024.](/about-since2024/)
 ▶︎ [Freiberufliche Arbeit als Biologin in der Gewässerökologie.](/about-since2024/) 
 
 

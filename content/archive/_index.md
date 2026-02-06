@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-## Veranstaltungsarchiv 
+# Veranstaltungsarchiv. 
 ___
 
 Zu meinen Arbeitgebenden, Auftraggebenden & Kooperationen zählen u. A. [SNSB – Staatliche Naturwissenschaftliche Sammlungen Bayerns](https://snsb.de/) mit dem [Museum Mensch und Natur](https://mmn-muenchen.snsb.de/) und dem [Biotopia Lab](https://biotopialab.snsb.de/), Stadtjugendamt München, Landeshauptstadt München, [Deutsches Museum (Museumsinsel)](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering), verschiedenste Schulen, Bildungs- & Sozialeinrichtungen in München & Europa, u.v.a. 

@@ -4,7 +4,7 @@ date: 2025-05-13T16:30:29+02:00
 draft: false
 ---
 
-## Impressum & Kontakt
+# Impressum & Kontakt
 Redaktionell verantwortlich für den Inhalt der Seite spyingonscience.com:  
 Andrea Koplitz-Weißgerber, Freiberufliche Biologin  
 Telefon: +49 160 9627 2988  
@@ -13,7 +13,7 @@ E-Mail: [spyingonscience@posteo.com](mailto:spyingonscience@posteo.com?subject=K
 Für ausfühliche Informationen zum Datenschutz besuchen Sie [diese Seite](/privacy/) (https://spyingonscience.com/privacy/).  
 ___
 
-## Berufsbezeichnung & berufsrechtliche Regelungen
+# Berufsbezeichnung & berufsrechtliche Regelungen
 * Berufsbezeichnung: Biologin, M. Sc. Biologie  
 * Verliehen in: Deutschland  
 * Es gelten folgende berufsrechtliche Regelungen: keine  
@@ -24,13 +24,13 @@ ___
 
 ___
 
-## EU-Streitschlichtung
+# EU-Streitschlichtung
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/. Unsere E-Mail-Adresse finden Sie oben im Impressum.
 Verbraucherstreitbeilegung/Universalschlichtungsstelle. Wir sind nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
 ___
 
-## Disclaimer 
+# Disclaimer 
 #### Haftung für Inhalte
 Als Diensteanbieter sind wir für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Wir sind als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.  
 Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
@@ -43,7 +43,7 @@ Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden 
 
 ___
 
-## Datenschutzhinweise
+# Datenschutzhinweise
 
 #### Verantwortliche und Datenschutzbeauftragte gem. Datenschutz-Grundverordnung (DS-GVO)
 Verantwortlich für diese Website ist Andrea Koplitz-Weißgerber, Freiberufliche Biologin.
@@ -55,7 +55,7 @@ Für ausfühliche Informationen zum Datenschutz besuchen Sie [diese Seite](/priv
 
 ___
 
-## AGB - Allgemeine Geschäftsbedingungen
+# AGB - Allgemeine Geschäftsbedingungen
 
 * Die nachfolgenden Allgemeinen Geschäftbedingungen gelten für alle Leistungen zwischen uns und einem Verbraucher in ihrer zum Zeitpunkt der Bestellung gültigen Fassung.
 * Verbraucher/in ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können (§ 13 BGB).
@@ -88,7 +88,7 @@ Wir bestätigen i. d. R. den Abschluss der Buchung durch eine E-Mail („Auftrag
 Als Vertragssprache steht ausschließlich Deutsch zur Verfügung.
 ___
 
-## Widerrufsrecht
+# Widerrufsrecht
 Sie haben das Recht, binnen 14 Tagen ohne Angabe von Gründen ein gebuchtes Angebot zu widerrufen sofern der Termin der Leistung mehr als 5 Werktage in der Zukunft liegt.
 Die Widerrufsfrist beträgt 14 Tage ab dem Tag des Vertragsabschlusses.  
 Um Ihr Widerrufsrecht auszuüben, müssen Sie mich (Andrea Koplitz-Weißgerber - Freiberufliche Biologin,  E-Mail: spyingonscience@posteo.com, Telefon: +49 160 9627 2988) mittels einer eindeutigen Erklärung (z. B. ein mit der Post versandter Brief oder eine E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren.  
@@ -115,14 +115,14 @@ Kauf der folgenden Waren (x)/die Erbringung der folgenden Dienstleistung (x), be
 Hinweise zur Rücksendung von Materialien: Bitte vermeiden Sie Beschädigungen oder Verunreinigungen der ggf. vorzeitig übermittelten Gegenstände.
 ___
 
-## Stornierung gebuchter Dienstleistungen
+# Stornierung gebuchter Dienstleistungen
 (1) Eine gebuchte Dienstleistung kann bis zu 5 Werktage vor dem vereinbarten Leistungsdatum storiert werden. Hier ist zu beachten, das bisher bereits angefallene Kosten wie z. B. Materialien, Konzeptionierung uvm., gezahlt werden müssen. Eine Stornogebühr für den Termin selber fällt damit aus.   
 (2) Wird der Zeitrahmen unterschritten so sind 50% der vereinbarten Veranstaltungskosten zu zahlen.  
 (3) Bei kurzfristigen Absagen aufgrund von Krankheit o. Ä., ergibt sich Verhandlungsspielraum.   
 (4) Bei der Vermittlung von Veranstaltungen durch Partnerinstitutionen gelten die von dieser Seite festgelegten Stornobedingungen.   
 ___
 
-## Haftungsausschluss für Dienstleistungen
+# Haftungsausschluss für Dienstleistungen
 (1) Gebuchte Dienstleistungen werden für die Verbraucher/in entsprechend des Auftrags durchgeführt. Jegliche Verantwortung für Unversehrtheit der Teilnehmenden, Aufsichtspflicht ggü. Minderjährigen, Sicherheit der genutzten Örtlichkeiten und Nutzung bereitgestellter Werkzeuge und Materialien liegt bei der Verbraucher/in bzw. der vermittelnden Partnerinstitution.   
 (2) Eine Haftung für während, bei Anfahrt oder Rückreise zum Veranstaltungsort abhandengekommene Gegenstände wird nicht übernommen.   
 (3) Der Weg zum/vom Veranstaltungsort und das Betreten dieses liegt in der Verantwortung der Verbraucher/in bzw. bei den Erziehungsberechtigten. 

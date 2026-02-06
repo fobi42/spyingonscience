@@ -6,7 +6,7 @@ image: "wisskomm.png"
 ---
 ![angebot](/images/schaetze-der-erde.png)
 
-## Aktuelles Paketangebot.  
+# Aktuelles Paketangebot.  
 ___  
 Gerne passe ich mein Angebot an Ihre Wünsche & Gruppengröße an. 
 ▶︎ [Eine Übersicht aller Leistungen finden Sie hier.](/leistung-referentin/)

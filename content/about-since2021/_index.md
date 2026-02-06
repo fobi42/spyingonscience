@@ -3,7 +3,7 @@
 date: 2025-05-08T20:30:29+02:00
 draft: false
 ---
-## Freiberufliche Arbeit als Biologin in der außerschulischen Bildung seit 2021.  
+# Freiberufliche Arbeit als Biologin in der außerschulischen Bildung seit 2021.  
 ___
   
 Vor rund zweihundert Jahren schrieb Henry David Thoreau:
