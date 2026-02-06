@@ -21,7 +21,7 @@ ___
 ## Öffentliche Veranstaltungen - nach Termin.  
 Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen. 
 
-
+<br> <br> 
 <br> <br> 
 
 #### Januar 2026.  
@@ -36,7 +36,8 @@ Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen.
 |	26	|	27	|	28	|	29	|	30	|	31	|		|   
 
 
-<br> <br>  
+<br> <br> 
+<br> <br> 
 
 #### Februar 2026. 
 
@@ -50,6 +51,7 @@ Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen.
 |	[**23**](/events-dm/)	|	24	|	25	|	26	|	27	|	28	|		|  
 
 
+<br> <br> 
 <br> <br> 
 
 #### März 2026.  
@@ -65,6 +67,7 @@ Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen.
 |	[**30**](/events-dm/)	|	[**31**](/events-dm/)	|		|		|		|		|		|
    
 
+<br> <br> 
 <br> <br>  
 
 #### April 2026.  
@@ -80,6 +83,7 @@ Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen.
 |	27	|	28	|	29	|	30	|		|		|		|  
 
 
+<br> <br> 
 <br> <br> 
 
 #### Juli 2026.
@@ -102,6 +106,7 @@ ___
 ## Öffentliche Veranstaltungen - nach Format.  
 
 <br> <br> 
+<br> <br> 
 
 #### Staatlich Naturwissenschaftliche Sammlungen Bayerns (SNSB).  
 ▶︎ [Familienführungen im Museum Mensch unt Natur](/events-familienfuehrungen/).  
@@ -111,7 +116,7 @@ ___
 
 #### Deutsches Museum (München Praterinsel).  
 ▶︎ [Gemeinsames "Tinkering" im Deutschen Museum](/events-dm/).  
-▶︎ [Sonderprogramme, z. B. für Minis (1-3 Jahre), im Deutschen Museum](/events-dm/). 
+▶︎ [Sonderprogramme z. B. für Minis (1-3 Jahre)](/events-dm/). 
 
 <br> <br> 
 
@@ -132,6 +137,23 @@ ___
 
 ___
 
+
+  <section style="background-color: white;  background: #ffffff;       /* white background */
+  border: 1px solid #ddd;    /* subtle border */
+  border-radius: 8px;        /* rounded corners */
+  padding: 2rem;             /* inner spacing */
+  margin: 2rem auto;         /* spacing between sections */
+  max-width: 800px;          /* keep content centered and not too wide */
+  width:70%;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05); /* soft shadow */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;">
+    <a href="{{ (site.GetPage "news").RelPermalink }}" class="section-link">
+        <h2>Aktuelles & Termine.</h2>
+        <div ><img style="  max-width: 250px; border-radius: 8px; height: auto;" src="/images/kalender.png" alt="Profile Picture" style="max-width:60%; border-radius:8px;">
+    </a>
+  </section>
+
+___
 
 >Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
 
