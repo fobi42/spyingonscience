@@ -23,7 +23,7 @@ Meine Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung f�
 ___
 
 ## Referenzen.
-▶︎ [Einen Einblick in meine bisherigen Aufträge & meine Erfahrung finden Sie hier.](/references/)
+▶︎ [Einen Einblick in meine bisherigen Aufträge, Erfahrung & Fortbildung finden Sie hier.](/references/)
 
 ___
 

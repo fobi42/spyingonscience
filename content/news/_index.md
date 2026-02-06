@@ -14,46 +14,33 @@ ___
 
 <br> <br> 
 
-## Termine. 
-
-<br> <br> 
-
+## Events. 
 Nutzen Sie die Gelegenheit mich persönlich kennenzulernen.  
 Viele Events können dank meinen Partnerinstitutionen oft zu einem **geringen Beitrag oder gar ganz kostenlos** besucht werden! Informieren Sie sich gerne.  
-
-▶︎ [Hier geht's zu den Veranstaltungen](/events/).  
-
-<br> <br> 
+▶︎ [Hier geht's zum Terminkalender.](/events/)  
 
 ___
 
-<br> <br> 
-
-## News & Aktuelles.  
-
-<br> <br> 
-
-**Diatomeen direkt ins Ohr: Ich war in einem Podcast zu Gast.**  
+## Diatomeen direkt ins Ohr: Ich war in einem Podcast zu Gast.
 Doktopus - Der Wissenspodcast mit Dora und Dominic.  
 Wichtige Winzlinge: Kieselalgen sind überall!  
 *Algenexpertin Andrea hat ihre Lieblingslebewesen mitgebracht – und einen ganzen Haufen spannender Geschichten: Diatomeen, oder auch Kieselalgen, sind überall und für uns Menschen von großer Bedeutung! Was sie mit Sprengstoff, Bier und Wasserkriegen zu tun haben und was eine Frustel ist… erfahrt ihr in dieser Folge von Doktopus!*   
-▶︎ [Jetzt reinhören (Erschienen: 27.11.2025, Dauer: 00:51:56)](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 
+▶︎ [Jetzt reinhören (Erschienen: 27.11.2025, Dauer: 00:51:56).](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/)
 
 <br> <br> 
+___
 
-**Bildungsangebote mitentwickelt & mitgestaltet von mir.**  
-Ab sofort sind spannende Formate bei verschiedenen Kooperationspartnern zum Mitmachen & neue Perspektiven erobern buchbar. 
-  * "Faszination Fledermäuse"
-    * Führung & Workshop für die 3.-4. Klasse Grundschule im Museum Mensch und Natur.   
-    ▶︎ [Info & Buchung](https://mmn-muenchen.snsb.de/angebote-fuer-die-1-bis-4-jahrgangsstufe/). 
-  * (SOON) "Saubere Sache – Herstellung einer Duftseife mit Pflanzen aus dem Kräutergarten" 
-    * Führung & Workshop für die Realschule; inklusvie Führung für Menschen mit Sehbehinderung ⚠️ im BIOTOPIA Lab. 
+## Bildungsangebote mitentwickelt & mitgestaltet von mir.
+Ab sofort sind spannende Formate bei verschiedenen Kooperationspartnern zum Mitmachen & neue Perspektiven erobern buchbar.  
+▶︎ ["**Faszination Fledermäuse**": Führung & Workshop für die 3.-4. Klasse Grundschule im Museum Mensch und Natur.](https://mmn-muenchen.snsb.de/angebote-fuer-die-1-bis-4-jahrgangsstufe/)  
+▶︎ ["**Saubere Sache – Herstellung einer Duftseife mit Pflanzen aus dem Kräutergarten**": Führung & Workshop für die Realschule im BIOTOPIA Lab - inklusiv gestaltet für Menschen mit Sehbehinderung.](https://biotopialab.snsb.de/realschule/) 
 
 <br> <br> 
+___
 
-**Vor-Ort-Veranstaltung in Ihrer Schule/Bildungseinrichtung oder als Privatveranstaltung.**   
+## Vor-Ort-Veranstaltung in Ihrer Schule/Bildungseinrichtung oder als Privatveranstaltung.  
 Das brandneue Programm "Die Schätze unserer Erde verstehen & schützen" ist ab sofort im Paketpreis buchbar.   
-▶︎ [Info & Buchung](/angebot/). 
+▶︎ [Info & Buchung.](/angebot/) 
 </a>
 
 <br> <br> 
@@ -63,7 +50,9 @@ ___
 
 ## Veranstaltungsarchiv.
 
-Zum Archiv gelangen Sie [hier](/archive/).
+
+▶︎ [Zum Archiv gelangen Sie hier.](/archive/)
+
 
 ___
 <br> <br> 

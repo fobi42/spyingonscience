@@ -3,15 +3,18 @@
 date: 2025-05-08T20:30:29+02:00
 draft: false
 ---
-## seit 2021. 
-## Freiberufliche Arbeit als Biologin in der außerschulischen Bildung.  
+## Freiberufliche Arbeit als Biologin in der außerschulischen Bildung seit 2021.  
 ___
   
 Vor rund zweihundert Jahren schrieb Henry David Thoreau:
 „Gott sei Dank, dass die Menschen noch nicht fliegen können & den Himmel ebenso verschmutzen wie die Erde.“
-Heute fliegen wir [täglich über 100.000 Mal](https://www.oag.com/airline-frequency-and-capacity-statistics#:~:text=SCHEDULED%20FLIGHT%20COUNTER&text=With%2014%2C098%2C739%20flights%20in%20total,flights%20per%20day%20is%20100%2C705.) um die Welt. Es ist eine Errungenschaft, die Chancen, aber auch Verantwortung mit sich bringt; gesellschaftliche & ökologische Verantwortung sind hier nur zwei Stichworte aus vielen.   
+Heute fliegen wir täglich über 100.000 Mal um die Welt. Es ist eine Errungenschaft, die Chancen, aber auch Verantwortung mit sich bringt; gesellschaftliche & ökologische Verantwortung sind hier nur zwei Stichworte aus vielen.   
 Aber was heißt das genau? Hier ist der Knackpunkt:  
-**[Bildung ist der Schlüssel zu informiertem, zukunftsorientierten Handeln aller Menschen im Sinne unseres Planeten & unserer Gesellschaft](https://www.bmbf.de/DE/Bildung/AusserschulischeBildung/BildungFuerNachhaltigeEntwicklung/bildungfuernachhaltigeentwicklung_node.html)**.  
+**Bildung ist der Schlüssel zu informiertem, zukunftsorientierten Handeln aller Menschen im Sinne unseres Planeten & unserer Gesellschaft**.  
+
+▶︎ [Flugdaten des "OAG: Flight Database & Statistics".](https://www.oag.com/airline-frequency-and-capacity-statistics#:~:text=SCHEDULED%20FLIGHT%20COUNTER&text=With%2014%2C098%2C739%20flights%20in%20total,flights%20per%20day%20is%20100%2C705.)
+▶︎ [Bildung für nachhaltige Entwicklung bis 2030.](https://www.bne-portal.de/bne/de/nationaler-aktionsplan/bildung-fuer-nachhaltige-entwicklung-bis-2030/bildung-fuer-nachhaltige-entwicklung-bis-2030.html)
+
 ___
 
 Durch mein Biologiestudium mit Schwerpunkt Umweltwissenschaften lernte ich Arten, Ökosysteme & deren Wechselwirkungen kennen. Dieses Wissen möchte ich teilen. Denn nicht alle haben die Möglichkeit, unsere Umwelt so tief zu verstehen. An genau dieser Schnittstelle braucht es Kommunikation & Interaktion!  

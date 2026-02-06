@@ -8,21 +8,40 @@ image: "images/kalender.png"
 
 ![Scenario 1: Across columns](/images/kalender.png)
 
-# Events. 
+## Events. 
 ___ 
 
 Nutzen Sie die Gelegenheit mich persönlich kennenzulernen!  
 Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem **geringen Beitrag oder gar ganz kostenlos** besucht werden!    
 
 ___ 
+#### Formate öffentlicher Veranstalungen.   
+
+**Staatlich Naturwissenschaftliche Sammlungen Bayerns (SNSB).**  
+▶︎ [Familienführungen im Museum Mensch unt Natur](/events-familienfuehrungen/).  
+▶︎ [Ferienprogramme im BIOTOPIA LAB](/events-familienfuehrungen/).  
 
 <br> <br> 
 
-## Öffentliche Veranstaltungen - nach Termin.  
+**Deutsches Museum (München Praterinsel).**  
+▶︎ [Gemeinsames "Tinkering" im Deutschen Museum](/events-dm/).  
+▶︎ [Sonderprogramme z. B. für Minis (1-3 Jahre)](/events-dm/). 
+
+<br> <br> 
+
+**Einmalige Events mit verbindlicher Voranmeldung.**  
+▶︎ [Münchner Familienpass "Weltverbessern to go" am 25.4.26 (Anmeldung am 27.-29.3.26)](/events-voranmeldung/)
+
+<br> <br>  
+
+___ 
+
+
+<br> <br> 
+
+## Terminkalender.
 Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen. 
-
-<br> <br> 
-<br> <br> 
+___ 
 
 #### Januar 2026.  
 
@@ -39,6 +58,8 @@ Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen.
 <br> <br> 
 <br> <br> 
 
+___ 
+
 #### Februar 2026. 
 
 <br> <br>  
@@ -53,6 +74,8 @@ Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen.
 
 <br> <br> 
 <br> <br> 
+
+___ 
 
 #### März 2026.  
 
@@ -70,6 +93,8 @@ Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen.
 <br> <br> 
 <br> <br>  
 
+___ 
+
 #### April 2026.  
 
 <br> <br> 
@@ -85,6 +110,8 @@ Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen.
 
 <br> <br> 
 <br> <br> 
+
+___ 
 
 #### Juli 2026.
 
@@ -103,32 +130,6 @@ ___
 
 <br> <br> 
 
-## Öffentliche Veranstaltungen - nach Format.  
-
-<br> <br> 
-<br> <br> 
-
-#### Staatlich Naturwissenschaftliche Sammlungen Bayerns (SNSB).  
-▶︎ [Familienführungen im Museum Mensch unt Natur](/events-familienfuehrungen/).  
-▶︎ [Ferienprogramme im BIOTOPIA LAB](/events-familienfuehrungen/).  
-
-<br> <br> 
-
-#### Deutsches Museum (München Praterinsel).  
-▶︎ [Gemeinsames "Tinkering" im Deutschen Museum](/events-dm/).  
-▶︎ [Sonderprogramme z. B. für Minis (1-3 Jahre)](/events-dm/). 
-
-<br> <br> 
-
-#### Einmalige Events mit verbindlicher Voranmeldung.  
-▶︎ [Münchner Familienpass "Weltverbessern to go" am 25.4.26 (Anmeldung am 27.-29.3.26)](/events-voranmeldung/)
-
-<br> <br>  
-
-___
-
-<br> <br> 
-
 #### Veranstaltungsarchiv.
 
 ▶︎ [Zum Archiv gelangen Sie hier.](/archive/)
@@ -136,25 +137,6 @@ ___
 <br> <br> 
 
 ___
-
-
-  <section style="background-color: white;  background: #ffffff;       /* white background */
-  border: 1px solid #ddd;    /* subtle border */
-  border-radius: 8px;        /* rounded corners */
-  padding: 2rem;             /* inner spacing */
-  margin: 2rem auto;         /* spacing between sections */
-  max-width: 800px;          /* keep content centered and not too wide */
-  width:70%;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05); /* soft shadow */
-  transition: transform 0.2s ease, box-shadow 0.2s ease;">
-    <a href="{{ (site.GetPage "news").RelPermalink }}" class="section-link">
-        <h2>Aktuelles & Termine.</h2>
-        <div ><img style="  max-width: 250px; border-radius: 8px; height: auto;" src="/images/kalender.png" alt="Profile Picture" style="max-width:60%; border-radius:8px;">
-    </a>
-  </section>
-
-___
-
 >Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
 
 >* Biologin auf [Mission](/ueber/) für Wasser & Wissen. 💚 

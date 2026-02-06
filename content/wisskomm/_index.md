@@ -14,7 +14,7 @@ ___
 ## Leistungsportfolio.  
 
 ▶︎ [Eine Übersicht meiner Leistungen finden Sie hier.](/leistung-referentin/)  
-▶︎ [Brandneues Angebot für die Grundschule (3./4. Klasse, 1,5 Std.)](/angebot/)" 
+▶︎ [Brandneues Angebot für die Grundschule (3./4. Klasse, 1,5 Std.)](/angebot/) 
 ___
 
 ## Preise.

@@ -6,32 +6,33 @@ image: "wisskomm.png"
 ---
 ![angebot](/images/schaetze-der-erde.png)
 
-## Aktuelle Angebote.  
+## Aktuelles Paketangebot.  
 ___  
 Gerne passe ich mein Angebot an Ihre Wünsche & Gruppengröße an. 
-Eine Übersicht weiterer Leistungen finden Sie [hier](/leistung-referentin/).
+▶︎ [Eine Übersicht aller Leistungen finden Sie hier.](/leistung-referentin/)
 ___  
 
-#### NEU. 📣📣 
 #### "Die Schätze unserer Erde verstehen & schützen."  
-##### Infomationen. 
-* **Zielgruppe**: Dieses Angebot ist für Kinder der 3.-4. Klasse Grundschule konzipiert kann aber nach Rücksprache für Jüngere/Ältere angepasst werden.
-* **Dauer**: Ca. 75 min (1:15 Std.) + 15 min Puffer/Fragen --> Gesamtdauer des Programms ca. **1:30 Std**. 
-* **Inhalt**: In dieser spannenden Mitmach-Doppelstunde gehen wir gemeinsam auf Schatzsuche. Wir finden heraus, was unser „Blaues Gold“ ist, erforschen kleine & große Naturschätze (in max. 9 Gruppen) unter dem tragbaren Mitmach-Mikroskop & treffen winzige Wasserflöhe, die uns verdeutlichen, wie wichtig sauberes Wasser ist. Mit einer kurzen Lesereise begleiten wir die „Flusspiraten“ bei ihren Aha-Momenten rund um’s Thema Wasser & entdecken dabei, wie wertvoll die Schätze unserer Erde für uns sind. 
-  * **Themenkern**: Definition „Schatz/Wert“, Ressource „Süßwasser“ als Grundlage des Lebens auf der Erde, Umweltschutz & Nachhaltigkeitsziele. 
-  * **Praxiskern**: Mikroskopieren, Empathie für die (belebte) Umwelt (Handhabung Wasserfloh, Ökosystemdienstleistungen).  
+In dieser spannenden Mitmach-Doppelstunde gehen wir gemeinsam auf Schatzsuche. Wir finden heraus, was unser „Blaues Gold“ ist, erforschen kleine & große Naturschätze (in max. 9 Gruppen) unter dem tragbaren Mitmach-Mikroskop & treffen winzige Wasserflöhe, die uns verdeutlichen, wie wichtig sauberes Wasser ist. Mit einer kurzen Lesereise begleiten wir die „Flusspiraten“ bei ihren Aha-Momenten rund um’s Thema Wasser & entdecken dabei, wie wertvoll die Schätze unserer Erde für uns sind.  
 
-##### Aktuelle Paketangebote. 
-* **Bildungs-/Sozialeinrichtung.** 
-  * idealerweise für 1-2 Schulklassen (max. 9 Gruppen à 4 Kinder, Absprache möglich).   
-  * inkl. Anfahrt im Raum München, 20 min Vorlauf zum Aufbau & Material.
-  * Prüfung auf "dem Schul- & Bildungszweck dienende Unterrichtsleistung steuerbefreit nach UStG § 4 Nr. 21" zum Erlass der MwSt (Endpreis ca. 150€).
-  * Paketpreis: 185€ (inkl.19% MwSt.) 
+* **Zielgruppe**: Dieses Angebot ist für Kinder der 3.-4. Klasse Grundschule konzipiert kann aber nach Rücksprache für Jüngere/Ältere angepasst werden.  
+* **Dauer**: Gesamt ca. 1:30 Std. (ca. 75 min Programm + 15 min Puffer/Fragen).   
+* **Themenkern**: Definition „Schatz/Wert“, Ressource „Süßwasser“ als Grundlage des Lebens auf der Erde, Umweltschutz & Nachhaltigkeitsziele.   
+* **Praxiskern**: Mikroskopieren, Empathie für die (belebte) Umwelt (Handhabung Wasserfloh, Ökosystemdienstleistungen).  
 
-* **Kindergeburtstag/Privatveranstaltung.**
-  * idealerweise für 9 Kinder (weitere Absprache möglich, z. B. 18 Kinder in 2-er Gruppen erfordert eine Anpassung der Materialpauschale).  
-  * inkl. Anfahrt im Raum München, 20 min Vorlauf zum Aufbau & Material.
-  * Paketpreis: 185€ (inkl.19% MwSt.) 
+**Paketversion 1: Bildungs-/Sozialeinrichtung.**   
+Paketpreis: 150-185€ (inkl.19% MwSt.) 
+* idealerweise für 1-2 Schulklassen (max. 9 Gruppen à 4 Kinder, Absprache möglich).   
+* inkl. Anfahrt im Raum München, 20 min Vorlauf zum Aufbau & Material.
+* Prüfung auf "dem Schul- & Bildungszweck dienende Unterrichtsleistung steuerbefreit nach UStG § 4 Nr. 21" zum Erlass der MwSt (Endpreis ca. 150€).
+
+
+**Paketversion 2: Kindergeburtstag/Privatveranstaltung.**  
+Paketpreis: 185€ (inkl.19% MwSt.) 
+* idealerweise für 9 Kinder (weitere Absprache möglich, z. B. 18 Kinder in 2-er Gruppen erfordert eine Anpassung der Materialpauschale).  
+* inkl. Anfahrt im Raum München, 20 min Vorlauf zum Aufbau & Material.
+
+___
 
 **HINWEIS: Die Aufsicht obliegt vor, während & nach der Veranstaltung der buchenden Person, der Lehrkraft oder dem Elternteil. Ich übernehme keine Aufsichtspflicht oder Verantwortung für die Kinder. Danke für das Verständnis.**
 

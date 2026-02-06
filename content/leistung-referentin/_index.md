@@ -6,6 +6,7 @@ image: "diatoms.png"
 ---
 ## Leistungsportfolio als Referentin für Naturwissenschaften.  
 ___  
+Gerne passe ich mein Angebot an Ihre Wünsche & Gruppengröße an.  
 ▶︎ [Ein ausgeschmücktes Leistungsportfolio (Stand Sept. 2025) können Sie gern hier ansehen.](/images/portfolio-referentin.pdf) 
 
 ___  
@@ -27,7 +28,7 @@ ___
 #### Programme in außerschulischen Bildungseinrichtungen in München.
 Gemeinsam mit einem großartigen Team führe ich Workshops & Führungen rund um Mensch, Umwelt, Naturwissenschaft & Nachhaltigkeit in Zusammenarbeit mit den Einrichtungen der SNSB in München durch.  
 Klicken Sie sich doch mal durch die Internetpräsenzen des Museums Mensch und Natur im Nymphenburger Schloss & des BIOTOPIA Labs im Botanischen Garten. Ich freue mich, wenn Sie hier fündig werden! Vielleicht sieht man sich ja!  
-Weiterführende Links: 
+Weiterführende Links:   
 ▶︎ [SNSB: Staatlich Naturwissenschaftliche Sammlungen Bayerns.](https://snsb.de/)  
 ▶︎ [Museum Mensch und Natur.](https://mmn-muenchen.snsb.de/fuehrungen-mehr/)  
 ▶︎ [BIOTOPIA Lab.](https://biotopialab.snsb.de/programme/)  

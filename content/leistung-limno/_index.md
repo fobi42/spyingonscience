@@ -4,9 +4,10 @@ date: 2025-05-08T20:52:58+02:00
 draft: false
 image: "diatoms.png"
 ---
-## Leistungsportfolio angewandte Gewässerökologie.**.  
+## Leistungsportfolio angewandte Gewässerökologie. 
 
 ___
+Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung. Auch nach meinem Studienabschluss bilde ich mich kontinuierlich fort & freue mich sehr über neue Chancen. Ich arbeite mit guter Laune & habe gerne einen lösungsorientierten Vorschlag bei etwaigen Hürden parat.
 ▶︎ [Ein ausgeschmücktes Leistungsportfolio (Stand Sept. 2025) können Sie gerne hier ansehen.](/images/portfolio-limno.pdf)
 ___
 
