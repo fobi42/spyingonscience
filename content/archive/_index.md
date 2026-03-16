@@ -18,6 +18,12 @@ ___
 #### 2026.  
 * Familienführung im Museum Mensch und Natur
   * 9.1.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/) 
+* Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel).  
+  * 16.2.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
+  * 20.2.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
+  * 23.2.26: Thema "Brücken schlagen". 
+  * 14.3.26: Thema "Pinballfeld ertüfteln". 
+  * 15.3.26: Thema "Brücken schlagen". 
 
 ___
 #### 2025.  

@@ -43,22 +43,6 @@ ___
 Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen. 
 ___ 
 
-#### Februar 2026. 
-
-<br> <br>  
-|	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|		|		|		|		|		|		|	1	|
-|	2	|	3	|	4	|	5	|	6	|	7	|	8	|
-|	9	|	10	|	11	|	12	|	13	|	14	|	15	|
-|	[**16**](/events-dm/)	|	17	|	[**18**](/events-familienfuehrungen/)	|	19	|	[**20**](/events-dm/)	|	21	|	22	|
-|	[**23**](/events-dm/)	|	24	|	25	|	26	|	27	|	28	|		|  
-
-
-<br> <br> 
-<br> <br> 
-
-___ 
 
 #### März 2026.  
 

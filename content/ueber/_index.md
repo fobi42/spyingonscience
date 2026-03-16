@@ -14,7 +14,7 @@ ___
 ___
 
 #### [2016 bis 2024.](/about-studium/)
-▶︎ [Studium der Biologie (B.Sc.  &  M.Sc.).](/about-studium/).
+▶︎ [Studium der Biologie (B.Sc.  &  M.Sc.).](/about-studium/)
 ___
   
 #### [seit 2021.](/about-since2021/)

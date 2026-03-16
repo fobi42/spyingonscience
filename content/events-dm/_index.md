@@ -19,14 +19,6 @@ Weitere Infos zu den Themen finden Sie im Terminkalender des Deutschen Museums.
 ___
 
 #### Gemeinsames "Tinkering".
-* 16.2.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
-* 20.2.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
-* 23.2.26: Thema "Brücken schlagen". 
-
-    <br> <br> 
-
-* 14.3.26: Thema "Pinballfeld ertüfteln". 
-* 15.3.26: Thema "Brücken schlagen". 
 * 30.3.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
 * 31.3.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
 
