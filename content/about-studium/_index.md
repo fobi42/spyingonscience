@@ -12,7 +12,7 @@ Diese durfte ich dabei bereits aus verschiedenen Blickwinkeln betrachten:
 Zum einen zoologisch während meiner Bachelorarbeit durch die bioakustische Artanalyse der Aktivität heimischer Fledermäuse, zum anderen botanisch während meiner Masterarbeit über Diatomeengesellschaften von streng geschützten & klimasensiblen Quellhabitaten in, vom Menschen noch ungestörten, Naturräumen.  Zudem erforschte ich während meines Masterstudiums die Wirkung unterschiedlicher Symbiosen (Mykorrhiza) mit Bäumen auf Kohlenstoff-Pools in verschiedenen Bodenfraktionen.   
 
 ▶︎  [Bachelorarbeit "Phänologie der Fledermausaktivität in Ställen" (2021).](https://nyctalus.com/wp-content/uploads/2021/06/Koplitz-Weissgerber_Zahn_2021_abstract.pdf)  
-▶︎ [Posterpräsentation zu "European Geoscience Union" Konferenz (2022)](https://meetingorganizer.copernicus.org/EGU22/EGU22-10059.html). 
+▶︎ [Posterpräsentation zu "European Geoscience Union" Konferenz (2022)](https://meetingorganizer.copernicus.org/EGU22/EGU22-10059.html).   
 ▶︎ [Grafische Zusammenfassung der Masterarbeit "Diatomeen in Quellen" (2024)](/images/Graphical-Abstract-MA.png). 
 
 ___

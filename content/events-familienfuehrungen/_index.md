@@ -19,8 +19,8 @@ Der Preis ist im Museumseintritt enthalten.
 <br> <br> 
 
 Termine:  
-* 27.3.26: Thema "Auf den Spuren der Eiszeit".
-* 24.4.26: Thema "Jetzt geht's rund - Kreisläufe statt Abfälle".
+* 31.7.26: Thema "Jetzt geht's rund - Kreisläufe statt Abfälle".
+* 28.8.26: Thema "Jetzt geht's rund - Kreisläufe statt Abfälle".
 
 <br> <br> 
 ___

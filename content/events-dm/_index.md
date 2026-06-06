@@ -19,21 +19,18 @@ Weitere Infos zu den Themen finden Sie im Terminkalender des Deutschen Museums.
 ___
 
 #### Gemeinsames "Tinkering".
-* 30.3.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
-* 31.3.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
+ * 20.6.26: Thema "Kunst mit Kritzelmaschine". 
 
     <br> <br> 
 
-* 1.4.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
-* 8.4.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
-* 9.4.26: Thema "Pinballfeld ertüfteln". 
+
 
 <br> <br> 
 ___
 
 #### Weitere Veranstaltungen. 
 Tinkering auf dem "Festival der Zukunft" am 4.7. & 5.7.2026  
-▶︎ [Weitere Infos folgen](https://www.deutsches-museum.de/forum-der-zukunft/festival-der-zukunft). 
+▶︎ [Weitere Infos hier](https://www.deutsches-museum.de/forum-der-zukunft/festival-der-zukunft). 
 
 ___
 

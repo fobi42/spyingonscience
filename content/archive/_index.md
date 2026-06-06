@@ -18,12 +18,24 @@ ___
 #### 2026.  
 * Familienführung im Museum Mensch und Natur
   * 9.1.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/) 
+  * 27.3.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/) 
+  * 24.4.26: Thema ["Jetzt geht's rund - Kreislaufwirtschaft"](https://mmn-muenchen.snsb.de/familienfuehrungen/) 
+
 * Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel).  
   * 16.2.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
   * 20.2.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
   * 23.2.26: Thema "Brücken schlagen". 
   * 14.3.26: Thema "Pinballfeld ertüfteln". 
   * 15.3.26: Thema "Brücken schlagen". 
+  * 30.3.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
+  * 31.3.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre".
+  * 1.4.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
+  * 8.4.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
+  * 9.4.26: Thema "Pinballfeld ertüfteln". 
+  * 26.4.26: Thema "Brücken schlagen". 
+  * 2.5.26: Thema "Lichterkarten basteln". 
+
+* Sa., 25.4.2026 um 14-16:30 Uhr: "Weltverbessern to go - Nachhaltigkeit zum anfassen". [Workshopangebot im Rahmen des Münchner Familienpasses](https://veranstaltungen.muenchen.de/ferienangebote-familienpass/veranstaltungen/weltverbessern-to-go-nachhaltigkeit-zum-anfassen-ab-10-jahre/). 
 
 ___
 #### 2025.  
