@@ -44,6 +44,7 @@ Beispiele für Gruppen, die ich bereits erfolgreich betreut habe sind:
 * Betriebsausflüge, Seniorengruppen 
 * Inklusionsgruppen, beispielsweise sehbehinderte oder rollstuhlfahrende Menschen 
 * Fremdsprachengruppen (präsentationssicheres Englisch; auf Französisch, Italienisch & Dänisch kann ich zusätzlich kommunizieren)
+* Gruppen mit Deutsch als Fremdsprache
 * uvm.  
 
 ___

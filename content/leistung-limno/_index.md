@@ -8,24 +8,26 @@ image: "diatoms.png"
 
 ___
 Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung & freue mich sehr über neue Chancen.  
-▶︎ [Ein ausgeschmücktes Leistungsportfolio (Stand Sept. 2025) können Sie gerne hier ansehen.](/images/portfolio-limno.pdf)
+▶︎ [Eine illustrierte Leistungsübersicht (Stand Sept. 2025) können Sie gerne hier ansehen.](/images/portfolio-limno.pdf)
 ___
 
-#### Assistenz in der Feldarbeit vor Ort.   
-Professionelle Unterstützung bei Gewässer- & Umweltuntersuchungen – engagiert, flexibel & deutschlandweit ab München, BY.  
-* Protokollführung & hydrophysiologische Messungen (nach Einweisung)
-* Unterstützung bei Probenahme im Gelände & Probenbearbeitung im Feldlabor
-* Komponenten: Diatomeen, Phytobenthos ohne Diatomeen (PoD), Makrophyten, Makrozoobenthos
-* Eigenes Equipment (z. B. Federstahlpinzetten, Wathose, Lupe 10x) – weiteres nach Absprache
+#### Feldarbeit an Fließgewässern vor Ort.   
+Professionelle Gewässer- & Umweltuntersuchungen – engagiert, flexibel & deutschlandweit ab München, BY.  
+* Kartierungsprotokollierung entsprechend des gewünschten Formulars
+* Hydrophysiologische Messungen mit modernster Ausrüstung (Multiparameter Messgerät HANNA Instruments HI98494)
+* Unterstützung bei Probenahme im Gelände & Probenbearbeitung im Feldlabor 
+* **Komponenten: Diatomeen, Phytobenthos ohne Diatomeen (PoD) & Makrophyten**
 * Mobilität: Führerscheine B/BE & SBF-Binnen/-See, optional eigener PKW 
 ___
 
-#### Diatomeentaxonomie.  
+#### Diatomeentaxonomie von Phytobenthosproben aus Seen & Fließgewässern.  
 Analyse der Diatomeenzusammensetzung eines fixierten Diatomeenpräparats. 
 * Mikroskop: Zeiss Axiolab5 (aplan.-achrom. Kondensor, Objektiv EC Plan-Neofluar 100x/1,3 Oil Ph3 M27 mit Zeiss Immersol 518 N)
 * Fotodokumentation: Euromex Ultra HD/ 4k Stand Alone Kamera (VC.3042)
 * Software: ImageFocusAlpha (Euromex)
 * Aufbereitung der Taxalisten in Microsoft Excel, RStudio entsprechend aktuellen Bundestaxalisten bzw. Zieleingabeprogrammen (BOG, PERLA, Phylib)   
+* Eingabe in Zieleingabeprogramme (BOG, PERLA, Phylib)   
+
 ___
 
 >Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  

@@ -18,8 +18,10 @@ ___
 ___
 
 #### Preise.
-Meine Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung für freie Limnologen zzgl. Material & Anfahrt. Weiterhin lehne ich meine Preise für Führungen & Workshops an den Preiskatalog meiner vermittelnden Kooperationspartner an.   
-▶︎ [Leistungsverzeichnis für Limnologie (2012).](https://limnologen.com/honorarermittlung/)  
+Meine Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung für freie Limnologen zzgl. laufende Kosten, Material & Anfahrt. Weiterhin lehne ich meine Preise für Führungen & Workshops an den Preiskatalog meiner vermittelnden Kooperationspartner an.   
+▶︎ [Leistungsverzeichnis für Limnologie (LVLIM) - Gewässerökolgische Untersuchungen (2012).](https://limnologen.com/honorarermittlung/)  
+▶︎ 
+#
 
 ___
 

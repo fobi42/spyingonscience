@@ -9,12 +9,25 @@ image: "scicomm.png"
 
 ___
 
-Zu meinen Auftraggebenden & Kooperationen zählen u. A. Technische Universität München (TUM, Dr. Uta Raeder), [Gutachterbüro Bernd Humberg (Waterworld-Consult)](https://www.waterworld-consult.de/gutachten/team/), [Ökologische Gutachten Matthias Beck (Waterworld-Consult)](https://www.waterworld-consult.de/gutachten/team/), [[µHoch3] – Sachverständigenbüro für Mykologie, Ökologie und Kryptogamentaxonomie (Dr. Manuel M. Striegel)](https://www.linkedin.com/in/dr-manuel-m-striegel-00797b12a/?originalSubdomain=de), [AGLHH - Arbeitsgemeinschaft Limnologie und Hydrologie in Hessen (Dr. Marcus Werum)](https://www.aglhh.de), Landesamt für Natur, Umwelt und Klima NRW, u.v.a. 
+Zu meinen Auftraggebenden & Kooperationen zählen u. A.  
+* [Gutachterbüro Bernd Humberg (Waterworld-Consult)](https://www.waterworld-consult.de/gutachten/team/),  
+* [Ökologische Gutachten Matthias Beck (Waterworld-Consult)](https://www.waterworld-consult.de/gutachten/team/)  
+* [[µHoch3] – Sachverständigenbüro für Mykologie, Ökologie und Kryptogamentaxonomie (Dr. Manuel M. Striegel)](https://www.linkedin.com/in/dr-manuel-m-striegel-00797b12a/?originalSubdomain=de)
+* [AGLHH - Arbeitsgemeinschaft Limnologie und Hydrologie in Hessen (Dr. Marcus Werum)](https://www.aglhh.de)
+* Technische Universität München (TUM, Dr. Uta Raeder)
+* Landesamt für Natur, Umwelt und Klima NRW
+* Landesamt für Umwelt Rheinland-Pfalz 
+u.v.a. 
 ___
 
-Diese chronologische Übersicht abgeschlossener Projekte und Fortbildungen (neueste zuerst) bietet einen Einblick in meine bisherige Arbeitserfahrung.  
-___
+Die jeweilige Übersicht bietet einen Einblick in meine bisherige Arbeitserfahrung.  
+▶︎ Abgeschlossene Projekte in der angewandten Limnologie. 
+▶︎ Fachliche Qualifikationen & Fortbildungen. 
 
+___
+#### 2026. 
+
+___
 #### 2025.
 * Teilnahme am Einführungskurs „**Geodatenverarbeitung mit QGIS**“ 97/25 am 19. - 21. November 2025 an der Bayerischen Akademie für Naturschutz und Landschaftspflege (ANL) mit José Canalejo ([csgis](https://www.csgis.de/)). 
 * Teilnahme beim Bestimmungskurs „**Phytobenthos ohne Diatomeen** (PoD) – eine Einführung“ am 17. - 19. September 2025 am Institut für Experimentelle Phykologie und Sammlung von Algenkulturen (EPSAG) der Universität Göttingen (Dozentinnen Dr. Antje Gutowski, Dr. Lydia King, Sabine Schiffels).  

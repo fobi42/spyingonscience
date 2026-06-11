@@ -15,7 +15,7 @@ Nutzen Sie die Gelegenheit mich persönlich kennenzulernen!
 Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem **geringen Beitrag oder gar ganz kostenlos** besucht werden!    
 
 ___ 
-#### Formate öffentlicher Veranstalungen.   
+#### Formate öffentlicher Veranstaltungen.   
 
 Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB).  
 ▶︎ [Familienführungen im Museum Mensch und Natur](/events-familienfuehrungen/).  
@@ -25,7 +25,7 @@ Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB).
 
 Deutsches Museum (München Praterinsel).  
 ▶︎ [Gemeinsames "Tinkering" im Deutschen Museum](/events-dm/).  
-▶︎ [Sonderprogramme z. B. für Minis (1-3 Jahre)](/events-dm/). 
+▶︎ [Sonderprogramme z. B. für Minis (1-3 Jahre, Festival der Zukunft](/events-dm/). 
 
 <br> <br> 
 
@@ -49,9 +49,8 @@ ___
    
 |	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|	1	|	2	|	3	|	4	|	5	|	6	|	7	|
 |	8	|	9	|	10	|	11	|	12	|	13	|	14	|
-|	15	|	16	|	17	|	18	|	19	|	20	|	21	|
+|	15	|	16	|	17	|	18	|	19	|	[**20**](/events-dm/)	|	21	|
 |	22	|	23	|	24	|	25	|	26	|	27	|	28	|
 |	29	|	30	|		|		|		|		|		|
 
@@ -70,9 +69,30 @@ ___
 |	6	|	7	|	8	|	9	|	10	|	11	|	12	|
 |	13	|	14	|	15	|	16	|	17	|	18	|	19	|
 |	20	|	21	|	22	|	23	|	24	|	25	|	26	|
-|	27	|	28	|	29	|	30	|	31	|		|		|
+|	27	|	28	|	29	|	30	|	[**31**](/events-familienfuehrungen/)	|		|		|
 
 <br> <br> 
+<br> <br> 
+
+___ 
+
+#### August 2026.
+
+<br> <br> 
+|	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|		|		|		|		|		|	1	|	2	|
+|	3	|	4	|	5	|	6	|	7	|	8	|	9	|
+|	10	|	11	|	12	|	13	|	14	|	15	|	16	|
+|	17	|	18	|	19	|	20	|	21	|	22	|	23	|
+|	24	|	25	|	26	|	27	|	[**28**](/events-familienfuehrungen/)	|	29	|	30	|
+|	31	|		|		|		|		|		|		|
+
+
+<br> <br> 
+
+
+
 
 ___
 

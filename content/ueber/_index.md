@@ -10,24 +10,29 @@ image: "images/logo.png"
 # **Meine Person, Passion & Mission.**
 ___
 
-▶︎ [Ein tiefergehender Umriss meiner Vita & meiner Qualifikationen ist auf meinem LinkedIn-Profil verfügbar. ](https://www.linkedin.com/in/andrea-koplitz-weissgerber/)
+Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.  
+Als Biologin setze ich mich durch meine Arbeit als Referentin & Limnologin für das Verständnis & die Verbesserung des Zusammenspiels von Mensch und Umwelt ein: Vom regionalen Gewässerschutz bis hin zum globalen Erhalt unserer Süßwasserressourcen für eine gesündere, gerechtere & freiere Welt. 
 ___
 
-#### [2016 bis 2024.](/about-studium/)
-▶︎ [Studium der Biologie (B.Sc.  &  M.Sc.).](/about-studium/)
-___
-  
-#### [seit 2021.](/about-since2021/)
-▶︎ [Freiberufliche Arbeit als Biologin in der außerschulischen Bildung.](/about-since2021/)
-___
-  
-#### [seit 2024.](/about-since2024/)
-▶︎ [Freiberufliche Arbeit als Biologin in der Gewässerökologie.](/about-since2024/) 
-
-
-
+▶︎ [Ein tiefergehender Umriss meiner Vita & meiner Qualifikationen ist über diesen Link auf meinem LinkedIn-Profil verfügbar. ](https://www.linkedin.com/in/andrea-koplitz-weissgerber/)
 ___
 
+#### Ausbildung & Berufung.
+▶︎ [2016-2024: Studium der Biologie (B.Sc.  &  M.Sc.).](/about-studium/)
+▶︎ [seit 2021: Arbeit in der außerschulischen Bildung.](/about-since2021/)
+▶︎ [seit 2024: Arbeit in der Gewässerökologie limnischer Systeme.](/about-since2024/) 
+___
+
+#### Engagement, Fortbildungen & Erfahrung. 
+▶︎ Fachbereich Limnologie & allgemeine Biologie.  
+▶︎ Fachbereich außerschulische Bildung.  
+
+___
+#### Meine Leistungen für Sie.  
+▶︎ [Portfolio rund um angewandte Limnologie](/leistung-limno/).  
+▶︎ [Portfolio rund um außerschulische Bildung](/leistung-referentin).  
+
+___
 
 >Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
 

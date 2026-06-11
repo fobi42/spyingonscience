@@ -22,7 +22,7 @@ ___
 
 #### Diatomeen direkt ins Ohr: Ich war in einem Podcast zu Gast.
 Doktopus - Der Wissenspodcast mit Dora und Dominic.  
-Wichtige Winzlinge: Kieselalgen sind überall!  
+**Wichtige Winzlinge: Kieselalgen sind überall!**  
 *Algenexpertin Andrea hat ihre Lieblingslebewesen mitgebracht – und einen ganzen Haufen spannender Geschichten: Diatomeen, oder auch Kieselalgen, sind überall und für uns Menschen von großer Bedeutung! Was sie mit Sprengstoff, Bier und Wasserkriegen zu tun haben und was eine Frustel ist… erfahrt ihr in dieser Folge von Doktopus!*   
 ▶︎ [Jetzt reinhören (Erschienen: 27.11.2025, Dauer: 00:51:56).](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/)
 
