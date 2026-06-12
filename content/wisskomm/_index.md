@@ -20,14 +20,14 @@ ___
 #### Preise.
 Meine Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung für freie Limnologen zzgl. laufende Kosten, Material & Anfahrt. Weiterhin lehne ich meine Preise für Führungen & Workshops an den Preiskatalog meiner vermittelnden Kooperationspartner an.   
 ▶︎ [Leistungsverzeichnis für Limnologie (LVLIM) - Gewässerökolgische Untersuchungen (2012).](https://limnologen.com/honorarermittlung/)  
-▶︎ 
+
 #
 
 ___
 
 #### Referenzen.
 ▶︎ [Zum Veranstaltungsarchiv gelangen Sie hier](/archive/).  
-▶︎ [Fachliche Qualifikationen & Fortbildungen](/images/erfahrungen-engagement-koplitz.pdf). 
+▶︎ [Fachliche Qualifikationen & Fortbildungen](/images/erfahrungen-koplitz.pdf). 
 
 ___
 
