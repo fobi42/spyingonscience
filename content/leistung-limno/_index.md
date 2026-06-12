@@ -8,13 +8,14 @@ image: "diatoms.png"
 
 ___
 Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung & freue mich sehr über neue Chancen.  
-▶︎ [Eine illustrierte Leistungsübersicht (Stand Sept. 2025) können Sie gerne hier ansehen.](/images/portfolio-limno.pdf)
+▶︎ [Eine illustrierte Leistungsübersicht (Stand Juni 2026) können Sie gerne hier ansehen.](/images/portfolio-limno.pdf)
 ___
 
 #### Feldarbeit an Fließgewässern vor Ort.   
 Professionelle Gewässer- & Umweltuntersuchungen – engagiert, flexibel & deutschlandweit ab München, BY.  
 * Kartierungsprotokollierung entsprechend des gewünschten Formulars
 * Hydrophysiologische Messungen mit modernster Ausrüstung (Multiparameter Messgerät HANNA Instruments HI98494)
+* Fotodokumentation sumbers siedelnder Organismen 
 * Unterstützung bei Probenahme im Gelände & Probenbearbeitung im Feldlabor 
 * **Komponenten: Diatomeen, Phytobenthos ohne Diatomeen (PoD) & Makrophyten**
 * Mobilität: Führerscheine B/BE & SBF-Binnen/-See, optional eigener PKW 

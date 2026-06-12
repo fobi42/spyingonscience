@@ -27,6 +27,7 @@ ___
 
 #### Referenzen.
 ▶︎ [Zum Veranstaltungsarchiv gelangen Sie hier](/archive/).
+▶︎ [Fachliche Qualifikationen & Fortbildungen](/images/erfahrungen-engagement-koplitz.pdf). 
 
 ___
 
