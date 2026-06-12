@@ -8,21 +8,21 @@ image: "scicomm.png"
 # Referenzen im Fachgebiet Limnologie.
 
 ___
-
-Zu meinen Auftraggebenden & Kooperationen zählen u. A.  
+#### Auftraggebende & Kooperationen. 
+Ich arbeite mit renomierten, erfahrenen Personen & Ämtern zusammen, darunter sind u. A.:  
 * [Gutachterbüro Bernd Humberg (Waterworld-Consult)](https://www.waterworld-consult.de/gutachten/team/),  
 * [Ökologische Gutachten Matthias Beck (Waterworld-Consult)](https://www.waterworld-consult.de/gutachten/team/)  
 * [[µHoch3] – Sachverständigenbüro für Mykologie, Ökologie und Kryptogamentaxonomie (Dr. Manuel M. Striegel)](https://www.linkedin.com/in/dr-manuel-m-striegel-00797b12a/?originalSubdomain=de)
 * [AGLHH - Arbeitsgemeinschaft Limnologie und Hydrologie in Hessen (Dr. Marcus Werum)](https://www.aglhh.de)
 * Technische Universität München (TUM, Dr. Uta Raeder)
 * Landesamt für Natur, Umwelt und Klima NRW
-* Landesamt für Umwelt Rheinland-Pfalz 
+* Landesamt für Umwelt Rheinland-Pfalz  
 u.v.a. 
 ___
-
+#### Erfahrung. 
 Die jeweilige Übersicht bietet einen Einblick in meine bisherige Arbeitserfahrung.  
 ▶︎ [Abgeschlossene Projekte in der angewandten Limnologie](/images/referenzen-limno-koplitz.pdf).  
-▶︎ [Fachliche Qualifikationen & Fortbildungen](/images/erfahrungen-engagement-koplitz.pdf). 
+▶︎ [Fachliche Qualifikationen & Fortbildungen](/images/erfahrungen-koplitz.pdf). 
 ___
 
 #### Meine Leistungen für Sie.  

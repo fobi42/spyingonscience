@@ -15,7 +15,7 @@ ___
 Professionelle Gewässer- & Umweltuntersuchungen – engagiert, flexibel & deutschlandweit ab München, BY.  
 * Kartierungsprotokollierung entsprechend des gewünschten Formulars
 * Hydrophysiologische Messungen mit modernster Ausrüstung (Multiparameter Messgerät HANNA Instruments HI98494)
-* Fotodokumentation sumbers siedelnder Organismen 
+* Fotodokumentation emers & submers siedelnder Organismen (OM SYSTEM Tough TG-7)
 * Unterstützung bei Probenahme im Gelände & Probenbearbeitung im Feldlabor 
 * **Komponenten: Diatomeen, Phytobenthos ohne Diatomeen (PoD) & Makrophyten**
 * Mobilität: Führerscheine B/BE & SBF-Binnen/-See, optional eigener PKW 
