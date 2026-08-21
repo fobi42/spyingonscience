@@ -18,9 +18,9 @@ ___
 ___
 
 #### Ausbildung & Berufung.
-▶︎ [2016-2024: Studium der Biologie (B.Sc.  &  M.Sc.).](/about-studium/).  
-▶︎ [seit 2021: Arbeit in der außerschulischen Bildung.](/about-since2021/).  
-▶︎ [seit 2024: Arbeit in der Gewässerökologie limnischer Systeme.](/about-since2024/).    
+▶︎ [2016-2024: Studium der Biologie (B.Sc.  &  M.Sc.).](/about-studium/)   
+▶︎ [seit 2021: Arbeit in der außerschulischen Bildung.](/about-since2021/)  
+▶︎ [seit 2024: Arbeit in der Gewässerökologie limnischer Systeme.](/about-since2024/)    
 ___
 
 #### Engagement, Fortbildungen & Erfahrung. 

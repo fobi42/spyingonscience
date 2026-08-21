@@ -8,7 +8,7 @@ image: "diatoms.png"
 
 ___
 Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung & freue mich sehr über neue Chancen.  
-▶︎ [Eine illustrierte Leistungsübersicht (Stand Juni 2026) können Sie gerne hier ansehen.](/images/portfolio-limno.pdf)
+▶︎ [Eine illustriertes Portrait (Stand Juni 2026) können Sie gerne hier ansehen.](/images/portfolio-limno.pdf)
 ___
 
 #### Feldarbeit an Fließgewässern vor Ort.   

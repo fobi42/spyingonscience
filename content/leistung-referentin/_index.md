@@ -7,7 +7,7 @@ image: "diatoms.png"
 # Leistungsportfolio als Referentin für Naturwissenschaften.  
 ___  
 Gerne passe ich mein Angebot an Ihre Wünsche & Gruppengröße an.  
-▶︎ [Ein illustriertes Leistungsportfolio (Stand Juni 2026) können Sie gern hier ansehen.](/images/portfolio-koplitz-referentin.pdf) 
+▶︎ [Ein illustriertes Portrait (Stand Juni 2026) können Sie gern hier ansehen.](/images/portfolio-koplitz-referentin.pdf) 
 
 ___  
 
