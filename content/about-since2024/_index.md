@@ -41,6 +41,12 @@ ___
 Zur Beurteilung des ökologischen Zustands dienen sogenannte Indikatororganismen wie Diatomeen, Makrophyten & Phytobenthische Algen. Sie ermöglichen es, Veränderungen in Gewässern frühzeitig zu erkennen & gezielt Schutzmaßnahmen umzusetzen.
 
 ___
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
 
 >Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
 

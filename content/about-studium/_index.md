@@ -26,7 +26,12 @@ ___
 Den fachlichen Austausch mit Kolleg:innen & Interessierten schätze ich ebenso wie die Zusammenarbeit in interdisziplinären Teams. Bereits während meines Studiums konnte ich als Tutorin & studentische Hilfskraft aktiv an der akademischen Lehre mitwirken.
 
 ___
-
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
 
 >Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
 

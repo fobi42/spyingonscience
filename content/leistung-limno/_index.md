@@ -8,7 +8,7 @@ image: "diatoms.png"
 
 ___
 Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung & freue mich sehr über neue Chancen.  
-▶︎ [Eine illustriertes Portrait (Stand Juni 2026) können Sie gerne hier ansehen.](/images/protrait-limnologie-koplitz.pdf)
+▶︎ [Eine illustriertes Portrait (Stand August 2026) können Sie gerne hier ansehen.](/images/protrait-limnologie-koplitz.pdf)
 ___
 
 #### Feldarbeit an Fließgewässern vor Ort.   
@@ -36,6 +36,12 @@ ___
 * Auswertung, Plausibilisierung & fachliche Interpretation taxonomischer Daten
 * Aufbereitung & Bewertung der (PHYLIB-) Ergebnisse für die Dokumentation & Beurteilung des Gewässerzustands  
 ___
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
 
 >Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
 

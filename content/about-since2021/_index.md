@@ -28,6 +28,12 @@ ___
 Seit meinem Bachelorabschluss arbeite ich in der Museumspädagogik. Mich begeistert es, komplexe Umweltzusammenhänge anschaulich zu vermitteln & erlebbar zu machen. Für besonders wichtig halte ich dabei auch den Bezug zum Menschen herzustellen & dessen Einwirkung auf diese Systeme aufzuzeigen & nachempfindbar zu machen. Ich möchte Neugier wecken, Hemmschwellen überschreiten, Verständnis fördern & Menschen befähigen, aktiv zu einer nachhaltigen Entwicklung unseres Planeten & unserer Gesellschaft beizutragen. Ich habe vor diesem Hintergrund bereits vielfältige Bildungsformate mitgestaltet & weiterentwickelt.
 
 ___
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
 
 >Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
 

@@ -10,7 +10,7 @@ Andrea Koplitz-Weißgerber, Freiberufliche Biologin
 Telefon: +49 160 9627 2988  
 E-Mail: [spyingonscience@posteo.com](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com)
 
-Für ausfühliche Informationen zum Datenschutz besuchen Sie [diese Seite](/privacy/) (https://spyingonscience.com/privacy/).  
+Für ausfühliche Informationen zum Datenschutz besuchen Sie [diese Seite](/privacy/).  
 ___
 
 # Berufsbezeichnung & berufsrechtliche Regelungen
@@ -135,7 +135,12 @@ https://www.e-recht24.de, erstellt mit dem Datenschutz-Generator.de von Dr. Thom
 
 
 ___
-
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<br> <br> 
 
 >Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
 
