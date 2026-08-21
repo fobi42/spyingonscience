@@ -9,22 +9,27 @@ draft: false
 ___
 
 Zu meinen Arbeitgebenden, Auftraggebenden & Kooperationen zählen u. A. 
-* [SNSB – Staatliche Naturwissenschaftliche Sammlungen Bayerns](https://snsb.de/) mit dem [Museum Mensch und Natur](https://mmn-muenchen.snsb.de/) und dem [Biotopia Lab](https://biotopialab.snsb.de/)
+* jährlich über 50 Schulen, Bildungs- & Sozialeinrichtungen in München & Europa
 * Stadtjugendamt München, Landeshauptstadt München
-* [Deutsches Museum (Museumsinsel)](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering) 
-* verschiedenste Schulen, Bildungs- & Sozialeinrichtungen in München & Europa
+* [SNSB – Staatliche Naturwissenschaftliche Sammlungen Bayerns](https://snsb.de/) 
+  * [Museum Mensch und Natur](https://mmn-muenchen.snsb.de/)
+  * [Biotopia Lab](https://biotopialab.snsb.de/)
+* [Deutsches Museum (Museumsinsel)](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)  
 u.v.a. 
 ___
-
 Hier finden Sie eine chronologische Übersicht vergangener öffentlicher Veranstaltungen – als Einblick in meine bisherige Arbeit. 
 ___
 
 
 #### 2026.  
+* Ferienprogramm im BIOTOPIA Lab: 
+  * 18.2.26: Thema "Über den Tellerrand". 
+
 * Familienführung im Museum Mensch und Natur
   * 9.1.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/) 
   * 27.3.26: Thema ["Auf den Spuren der Eiszeit"](https://mmn-muenchen.snsb.de/familienfuehrungen/) 
   * 24.4.26: Thema ["Jetzt geht's rund - Kreislaufwirtschaft"](https://mmn-muenchen.snsb.de/familienfuehrungen/) 
+  * 31.7.26: Thema "Jetzt geht's rund - Kreisläufe statt Abfälle".
 
 * Gemeinsames "Tinkering" im Deutschen Museum (Praterinsel).  
   * 16.2.26: Thema "Farbfeuerwerk für Minis ab 1,5 Jahre". 
@@ -39,6 +44,11 @@ ___
   * 9.4.26: Thema "Pinballfeld ertüfteln". 
   * 26.4.26: Thema "Brücken schlagen". 
   * 2.5.26: Thema "Lichterkarten basteln". 
+  * 20.6.26: Thema "Kunst mit Kritzelmaschine". 
+  * Tinkering auf dem ["Festival der Zukunft" am 4.7. & 5.7.2026](https://www.deutsches-museum.de/forum-der-zukunft/festival-der-zukunft). 
+  * 10.8.26: Thema "Mechanische Kettenreaktion". 
+  * 14.8.26: Thema "Pinballfeld ertüfteln". 
+  
 
 * Sa., 25.4.2026 um 14-16:30 Uhr: "Weltverbessern to go - Nachhaltigkeit zum anfassen". [Workshopangebot im Rahmen des Münchner Familienpasses](https://veranstaltungen.muenchen.de/ferienangebote-familienpass/veranstaltungen/weltverbessern-to-go-nachhaltigkeit-zum-anfassen-ab-10-jahre/). 
 

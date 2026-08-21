@@ -21,7 +21,7 @@ Durch mein Biologiestudium mit Schwerpunkt Umweltwissenschaften lernte ich Arten
 
 ___
 
-**Mein Ziel: Begeisterung für bio- & geowissenschaftliche Systeme teilen & zu eigenem, verantwortungsbewusstem Handeln inspirieren & motivieren.**
+**Mein Ziel: Begeisterung für bio- & geowissenschaftliche Systeme teilen & zu eigenem, verantwortungsbewusstem Handeln inspirieren & motivieren.** 
 
 ___
 

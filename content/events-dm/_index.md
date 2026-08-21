@@ -11,30 +11,16 @@ ___
 
 <br> <br> 
 
-Meine nächsten Einsätze als "Junior Museum Communicator" am Deutschen Museum in München (Praterinsel) finden an den unten gelisteten Terminen statt.   
+Meine nächsten öffentlichen Einsätze als "Junior Museum Communicator" am Deutschen Museum in München (Praterinsel) finden an den unten gelisteten Terminen statt.   
 Weitere Infos zu den Themen finden Sie im Terminkalender des Deutschen Museums.  
 ▶︎ [Zum Museumskalender.](https://www.deutsches-museum.de/museumsinsel/programm/kalender)
 
 <br> <br> 
-___
 
-#### Gemeinsames "Tinkering".
- * 20.6.26: Thema "Kunst mit Kritzelmaschine". 
-
-    <br> <br> 
-
-
+Termine: derzeit nicht geplant. 
 
 <br> <br> 
 ___
-
-#### Weitere Veranstaltungen. 
-Tinkering auf dem "Festival der Zukunft" am 4.7. & 5.7.2026  
-▶︎ [Weitere Infos hier](https://www.deutsches-museum.de/forum-der-zukunft/festival-der-zukunft). 
-
-___
-
-<br> <br> 
 
 ▶︎ [zurück zum Kalender.](/events/) 
 

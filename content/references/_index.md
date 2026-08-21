@@ -26,8 +26,11 @@ Die jeweilige Übersicht bietet einen Einblick in meine bisherige Arbeitserfahru
 ___
 
 #### Meine Leistungen für Sie.  
-▶︎ [Portfolio rund um angewandte Limnologie](/leistung-limno/).  
-▶︎ [Portfolio rund um außerschulische Bildung](/leistung-referentin).  
+▶︎ [Leistungsportfolio angewandte Limnologie](/leistung-limno/).  
+▶︎ [Leistungsportfolio außerschulische Bildung](/leistung-referentin).   
+
+___
+
 >Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
 
 >* Biologin auf [Mission](/ueber/) für Wasser & Wissen. 💚 

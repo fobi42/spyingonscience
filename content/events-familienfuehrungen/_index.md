@@ -19,8 +19,9 @@ Der Preis ist im Museumseintritt enthalten.
 <br> <br> 
 
 Termine:  
-* 31.7.26: Thema "Jetzt geht's rund - Kreisläufe statt Abfälle".
 * 28.8.26: Thema "Jetzt geht's rund - Kreisläufe statt Abfälle".
+* 9.10.26: Thema _tba_
+* 6.11.26: Thema _tba_
 
 <br> <br> 
 ___
@@ -28,8 +29,12 @@ ___
 #### Ferienprogramm im BIOTOPIA Lab.  
 Immer während der Öffnungszeiten - kostenfrei!   
 ▶︎ [Weitere Infos & Programmplan.](https://biotopialab.snsb.de/programmplan/)  
+
+<br> <br> 
+
 Termine: 
-* 18.2.26: Thema "Über den Tellerrand". 
+* 8.9.26: "Über den Tellerrand"
+* 9.9.26: "Biodiversität"
 
 <br> <br> 
 

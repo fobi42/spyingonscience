@@ -8,15 +8,15 @@ image: "diatoms.png"
 
 ___
 Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung & freue mich sehr über neue Chancen.  
-▶︎ [Eine illustriertes Portrait (Stand Juni 2026) können Sie gerne hier ansehen.](/images/portfolio-limno.pdf)
+▶︎ [Eine illustriertes Portrait (Stand Juni 2026) können Sie gerne hier ansehen.](/images/protrait-limnologie-koplitz.pdf)
 ___
 
 #### Feldarbeit an Fließgewässern vor Ort.   
 Professionelle Gewässer- & Umweltuntersuchungen – engagiert, flexibel & deutschlandweit ab München, BY.  
 * Kartierungsprotokollierung entsprechend des gewünschten Formulars
-* Hydrophysiologische Messungen mit modernster Ausrüstung (Multiparameter Messgerät HANNA Instruments HI98494)
-* Fotodokumentation emers & submers siedelnder Organismen (OM SYSTEM Tough TG-7)
-* Unterstützung bei Probenahme im Gelände & Probenbearbeitung im Feldlabor 
+* Hydrophysiologische Messungen mit moderner Ausrüstung (Multiparameter Messgerät HANNA Instruments HI98494)
+* Fotodokumentation von emers & submers siedelnden Organismen (OM SYSTEM Tough TG-7)
+* Probenahme im Gelände & Probenbearbeitung im Feldlabor 
 * **Komponenten: Diatomeen, Phytobenthos ohne Diatomeen (PoD) & Makrophyten**
 * Mobilität: Führerscheine B/BE & SBF-Binnen/-See, optional eigener PKW 
 ___
@@ -27,8 +27,14 @@ Analyse der Diatomeenzusammensetzung eines fixierten Diatomeenpräparats.
 * Fotodokumentation: Euromex Ultra HD/ 4k Stand Alone Kamera (VC.3042)
 * Software: ImageFocusAlpha (Euromex)
 * Aufbereitung der Taxalisten in Microsoft Excel, RStudio entsprechend aktuellen Bundestaxalisten bzw. Zieleingabeprogrammen (BOG, PERLA, Phylib)   
-* Eingabe in Zieleingabeprogramme (BOG, PERLA, Phylib)   
+* Eingabe in Zieleingabeprogramme (BOG, PERLA, Phylib)     
 
+___  
+
+#### Gutachterliche Berichte & taxonomische Datenauswertung.  
+* Erstellung von Gutachten auf Grundlage erhobener biologischer & gewässerökologischer Daten
+* Auswertung, Plausibilisierung & fachliche Interpretation taxonomischer Daten
+* Aufbereitung & Bewertung der (PHYLIB-) Ergebnisse für die Dokumentation & Beurteilung des Gewässerzustands  
 ___
 
 >Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  

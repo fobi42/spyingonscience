@@ -8,26 +8,23 @@ image: "scicomm.png"
 ![Scenario 1: Across columns](/images/scicomm.png)
 # **Referentin für Naturwissenschaften**.
 ___
-Naturwissenschaftliche Inhalte direkt an den Menschen bringen & dadurch nachhaltig Umweltkompetenz zu vermitteln, zu fördern & zu stärken ist mir ein besonderes Anliegen. Ich mache nicht "einfach nur ein bisschen Wissenschschaftskommunikation nebenher". Ich erarbeite Bildungskonzepte & biete personalisierte Bildungs- & Umwelt-Spaß-Veranstaltungen an.   
-___
 
 #### Leistungsportfolio.  
-
-▶︎ [Eine Übersicht meiner Leistungen finden Sie hier.](/leistung-referentin/)  
-▶︎ [Brandneues Angebot für die Grundschule (3./4. Klasse, 1,5 Std.)](/angebot/) 
+Naturwissenschaftliche Inhalte direkt an den Menschen bringen & dadurch nachhaltig Umweltkompetenz zu vermitteln, zu fördern & zu stärken ist mir ein besonderes Anliegen. Ich mache nicht "einfach nur ein bisschen Wissenschschaftskommunikation nebenher". Ich erarbeite Bildungskonzepte & biete personalisierte Bildungs- & Umwelt-Spaß-Veranstaltungen an.   
+▶︎ [Eine Übersicht meiner Leistungen finden Sie hier](/leistung-referentin/).  
+▶︎ [Das brandneue Angebot für die Grundschule (3./4. Klasse, 1,5 Std.) finden Sie hier](/angebot/).  
 ___
 
 #### Preise.
 Meine Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung für freie Limnologen zzgl. laufende Kosten, Material & Anfahrt. Weiterhin lehne ich meine Preise für Führungen & Workshops an den Preiskatalog meiner vermittelnden Kooperationspartner an.   
-▶︎ [Leistungsverzeichnis für Limnologie (LVLIM) - Gewässerökolgische Untersuchungen (2012).](https://limnologen.com/honorarermittlung/)  
-
-#
+▶︎ [Leistungsverzeichnis für Limnologie (LVLIM) - Gewässerökolgische Untersuchungen (2012)](https://limnologen.com/honorarermittlung/).  
 
 ___
 
-#### Referenzen.
-▶︎ [Zum Veranstaltungsarchiv gelangen Sie hier](/archive/).  
-▶︎ [Fachliche Qualifikationen & Fortbildungen](/images/erfahrungen-koplitz.pdf). 
+#### Qualifikationen & Referenzen.
+Sie interessieren sich für meine bisherige Arbeit? Stöbern Sie gerne in meinen Referenzen. 
+▶︎ [Die Übersicht fachlicher Qualifikationen, Aufträge & Fortbildungen finden Sie hier](/references/).  
+▶︎ [Zum Veranstaltungsarchiv gelangen Sie hier](/archive/).    
 
 ___
 

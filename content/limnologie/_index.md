@@ -8,23 +8,22 @@ image: "diatoms.png"
 ![Limnologie](/images/diatoms.png)
 
 # **Limnologin in der angewandten Gewässerökologie.**
-___
-
-Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung. Auch nach meinem Studienabschluss bilde ich mich kontinuierlich fort & freue mich sehr über neue Chancen. 
 ___ 
 
 #### Leistungsportfolio.
+Ich führe entsprechend der europa- und landesweiten Standards professionelle Gewässerkartierungen mit moderner Technik vor Ort durch. Wissenschaftlich fundiert analysiere ich die Diatomeengesellschaften morphologisch & fasse die taxonomischen Ergebnisse mit gängigen Bewertungstools, abgerundet duch gutachterliche Expertise, in einem prägnanten Bericht zusammen.  
 ▶︎ [Eine Übersicht meiner Leistungen finden Sie hier](/leistung-limno/).  
 ___
 
 #### Preise.
 Meine Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung für freie Limnologen zzgl. laufende Kosten,  Material & Anfahrt/Logis.  
-▶︎ [Leistungsverzeichnis für Limnologie (LVLIM) - Gewässerökolgische Untersuchungen (2012).](https://limnologen.com/honorarermittlung/)
+▶︎ [Leistungsverzeichnis für Limnologie (LVLIM) - Gewässerökolgische Untersuchungen (2012)](https://limnologen.com/honorarermittlung/). 
 ___
 
 #### Qualifikationen & Referenzen. 
-▶︎ [Einen Einblick in meine bisherigen Aufträge, Erfahrung & Fortbildungen finden Sie hier.](/references/)
-
+Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung mit besonderem Augenmerk auf Gewässerbotanik inkl. Phykologie & Expertise in der Diatomeentaxonomie. Auch nach meinem Studienabschluss bilde ich mich kontinuierlich fort & freue mich sehr über neue Chancen. Sie interessieren sich für meine bisherige Arbeit? Stöbern Sie gerne in meinen Referenzen.  
+▶︎ [Die Übersicht fachlicher Qualifikationen, Aufträge & Fortbildungen finden Sie hier](/references/).   
+▶︎ [Zum Veranstaltungsarchiv gelangen Sie hier](/archive/).  
 ___
 
 

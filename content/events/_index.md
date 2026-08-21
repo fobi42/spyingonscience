@@ -24,13 +24,12 @@ Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB).
 <br> <br> 
 
 Deutsches Museum (München Praterinsel).  
-▶︎ [Gemeinsames "Tinkering" im Deutschen Museum](/events-dm/).  
-▶︎ [Sonderprogramme z. B. für Minis (1-3 Jahre, Festival der Zukunft](/events-dm/). 
+▶︎ [Öffentliche Programme für Familien & Interessierte](/events-dm/). 
 
 <br> <br> 
 
 Einmalige Events mit verbindlicher Voranmeldung.  
-▶︎ [Münchner Familienpass "Weltverbessern to go" am 25.4.26 (Anmeldung am 27.-29.3.26).](/events-voranmeldung/)
+▶︎ [Münchner Familienpass-Veranstaltung für 2027 in Planung, erfahren Sie hier mehr.](/events-voranmeldung/)
 
 <br> <br>  
 
@@ -43,38 +42,6 @@ ___
 Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen. 
 ___ 
 
-#### Juni 2026.  
-
-<br> <br> 
-   
-|	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|	8	|	9	|	10	|	11	|	12	|	13	|	14	|
-|	15	|	16	|	17	|	18	|	19	|	[**20**](/events-dm/)	|	21	|
-|	22	|	23	|	24	|	25	|	26	|	27	|	28	|
-|	29	|	30	|		|		|		|		|		|
-
-
-<br> <br> 
-<br> <br> 
-
-___ 
-
-#### Juli 2026.
-
-<br> <br> 
-|	Mo	|	Di	|	Mi	|	Do	|	Fr	|	Sa	|	So	|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|		|		|	1	|	2	|	3	|	[**4**](/events-dm/)	|	[**5**](/events-dm/)	|
-|	6	|	7	|	8	|	9	|	10	|	11	|	12	|
-|	13	|	14	|	15	|	16	|	17	|	18	|	19	|
-|	20	|	21	|	22	|	23	|	24	|	25	|	26	|
-|	27	|	28	|	29	|	30	|	[**31**](/events-familienfuehrungen/)	|		|		|
-
-<br> <br> 
-<br> <br> 
-
-___ 
 
 #### August 2026.
 
@@ -90,9 +57,62 @@ ___
 
 
 <br> <br> 
+<br> <br> 
+
+### September
+<br> <br> 
+|  Mo |  Di |  Mi |  Do |  Fr |  Sa |  So |  
+| --: | --: | --: | --: | --: | --: | --: |  
+|     |   1 |   2 |   3 |   4 |   5 |   6 |  
+|   7 |   [**8**](/events-familienfuehrungen/) |   [**9**](/events-familienfuehrungen/) |  10 |  11 |  12 |  13 |  
+|  14 |  15 |  16 |  17 |  18 |  19 |  20 |  
+|  21 |  22 |  23 |  24 |  25 |  26 |  27 |  
+|  28 |  29 |  30 |     |     |     |     |  
+
+<br> <br> 
+<br> <br> 
 
 
+### Oktober  
+<br> <br> 
+|  Mo |  Di |  Mi |  Do |  Fr |  Sa |  So |   
+| --: | --: | --: | --: | --: | --: | --: |  
+|     |     |     |   1 |   2 |   3 |   4 |  
+|   5 |   6 |   7 |   8 |   [**9**](/events-familienfuehrungen/) |  10 |  11 |  
+|  12 |  13 |  14 |  15 |  16 |  17 |  18 |  
+|  19 |  20 |  21 |  22 |  23 |  24 |  25 |  
+|  26 |  27 |  28 |  29 |  30 |  31 |     |  
 
+<br> <br> 
+<br> <br> 
+
+### November
+<br> <br> 
+|  Mo |  Di |  Mi |  Do |  Fr |  Sa |  So |  
+| --: | --: | --: | --: | --: | --: | --: |  
+|     |     |     |     |     |     |   1 |  
+|   2 |   3 |   4 |   5 |  [**6**](/events-familienfuehrungen/) |   7 |   8 |  
+|   9 |  10 |  11 |  12 |  13 |  14 |  15 |  
+|  16 |  17 |  18 |  19 |  20 |  21 |  22 |  
+|  23 |  24 |  25 |  26 |  27 |  28 |  29 |  
+|  30 |     |     |     |     |     |     |  
+
+<br> <br> 
+<br> <br> 
+
+
+### Dezember  
+<br> <br> 
+|  Mo |  DI |  Mi |  Do |  Fr |  Sa |  So |   
+| --: | --: | --: | --: | --: | --: | --: |  
+|     |   1 |   2 |   3 |   4 |   5 |   6 |  
+|   7 |   8 |   9 |  10 |  11 |  12 |  13 |  
+|  14 |  15 |  16 |  17 |  18 |  19 |  20 |  
+|  21 |  22 |  23 |  24 |  25 |  26 |  27 |  
+|  28 |  29 |  30 |  31 |     |     |     |  
+
+<br> <br> 
+<br> <br> 
 
 ___
 
