@@ -12,7 +12,7 @@ ___
 <br> <br> 
 
 **Aktuell ist keine Veranstaltung mit notwendiger Voranmeldung geplant**.   
-Teaser: Im Rahmen des Münchner Familienpasses ist eine Veranstaltung am 6. März 2027 in der aktuellen Sonderausstellung "Molassic Park" des Museums Mensch und Natur geplant. 
+Teaser: Im Rahmen des Münchner Familienpasses ist eine Veranstaltung am 6. März 2027 in der aktuellen Sonderausstellung "Molassic Park" des Museums Mensch und Natur geplant.   
 ▶︎ [Die Sonderausstellung ist bis zum 7. November 2027 geöffnet](https://mmn-muenchen.snsb.de/molassic-park_2026/). 
 
 <br> <br> 

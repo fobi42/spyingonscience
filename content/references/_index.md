@@ -5,7 +5,7 @@ draft: false
 image: "scicomm.png"
 ---
 
-# Referenzen im Fachgebiet Limnologie.
+# Qualifikationen & Referenzen.
 
 ___
 #### Auftraggebende & Kooperationen. 
@@ -20,8 +20,8 @@ Ich arbeite mit renomierten, erfahrenen Personen & Ämtern zusammen, darunter si
 u.v.a. 
 ___
 #### Erfahrung. 
-Die jeweilige Übersicht bietet einen Einblick in meine bisherige Arbeitserfahrung.  
-▶︎ [Abgeschlossene Projekte in der angewandten Limnologie](/images/referenzen-limno-koplitz.pdf).  
+Die jeweilige Übersicht bietet einen Einblick in meine bisherige Arbeitserfahrung.   
+▶︎ [Abgeschlossene Projekte in der angewandten Limnologie](/images/referenzen-limno-koplitz.pdf).   
 ▶︎ [Fachliche Qualifikationen & Fortbildungen](/images/erfahrungen-koplitz.pdf). 
 ___
 

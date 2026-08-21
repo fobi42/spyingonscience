@@ -23,9 +23,9 @@ ___
 ▶︎ [seit 2024: Arbeit in der Gewässerökologie limnischer Systeme.](/about-since2024/)    
 ___
 
-#### Engagement, Fortbildungen & Erfahrung. 
-▶︎ [Abgeschlossene Projekte in der angewandten Limnologie](/images/referenzen-limno-koplitz.pdf).  
-▶︎ [Fachliche Qualifikationen & Fortbildungen](/images/erfahrungen-engagement-koplitz.pdf). 
+#### Qualifikationen & Referenzen.  
+Auch nach meinem Studienabschluss bilde ich mich kontinuierlich fort & freue mich sehr über neue Chancen. Sie interessieren sich für meine bisherige Arbeit? Stöbern Sie gerne in meinen Referenzen.   
+▶︎ [Die Übersicht fachlicher Qualifikationen, bisheriger Aufträge & Fortbildungen finden Sie hier](/references/).   
 ___
 #### Meine Leistungen für Sie.  
 ▶︎ [Portfolio rund um angewandte Limnologie](/leistung-limno/).  
