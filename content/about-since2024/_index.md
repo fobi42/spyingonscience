@@ -8,8 +8,7 @@ draft: false
 # Freiberufliche Arbeit als Biologin in der Gewässerökologie seit 2024.
 ___
   
-![This is an alt text.](/images/diatoms.png "This is a sample image.")
-![This is an alt text.](/images/footer_klein.png "This is a sample image.")
+![This is an alt text.](/images/diatoms.png "This is a sample image.") ![This is an alt text.](/images/footer_klein.png "This is a sample image.")
 
 
 
@@ -49,7 +48,7 @@ ___
 <br> <br> 
 <br> <br> 
 <br> <br> 
-![This is an alt text.](/images/footer_klein.png "This is a sample image.")
+![spyingonscience.com.](/images/footer_klein.png "This is a firm logo.")
 
 <br> <br> 
 <br> <br> 

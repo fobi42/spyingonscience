@@ -30,6 +30,7 @@ ___
 <br> <br> 
 <br> <br> 
 <br> <br> 
+![spyingonscience.com.](/images/footer_klein.png "This is a firm logo.")
 <br> <br> 
 <br> <br> 
 <br> <br> 
