@@ -9,6 +9,9 @@ draft: false
 ___
   
 ![This is an alt text.](/images/diatoms.png "This is a sample image.")
+![This is an alt text.](/images/footer_klein.png "This is a sample image.")
+
+
 
 Durch meine Forschung an Diatomeengesellschaften in Quellhabitaten im Rahmen meiner Masterarbeit durfte ich mich intensiv mit der Ressource "Süßwasser" auseinandersetzen. 
 
@@ -46,6 +49,8 @@ ___
 <br> <br> 
 <br> <br> 
 <br> <br> 
+![This is an alt text.](/images/footer_klein.png "This is a sample image.")
+
 <br> <br> 
 <br> <br> 
 <br> <br> 
