@@ -8,11 +8,13 @@ draft: false
 # Freiberufliche Arbeit als Biologin in der Gewässerökologie seit 2024.
 ___
   
+![This is an alt text.](/images/diatoms.png "This is a sample image.")
+
 Durch meine Forschung an Diatomeengesellschaften in Quellhabitaten im Rahmen meiner Masterarbeit durfte ich mich intensiv mit der Ressource "Süßwasser" auseinandersetzen. 
 
 ___
 
-Aquatische Lebensräume werden nicht nur von verschiedensten - auch bedrohten & vor allem besonders sensiblen - Tier- & Pfanzearten besiedelt, sondern sie sind Teil eines unentbehrlichen Netzwerks, das die (menschliche) Lebensgrundlage schafft. Um die zwei Drittel der Körpermasse eines Menschen bestehen aus Wasser. Doch nicht nur das: Unser gesamtes Weltverständnis, Kreisläufe, Entstehungs- & Zersetzungsprozesse, technische & medizinische Errungenschaften, uvm. basieren auf den biologischen, chemischen & physikalischen Eigenschaften dieses Moleküls.  
+Aquatische Lebensräume werden nicht nur von verschiedensten - auch bedrohten & vor allem besonders sensiblen - Tier- & Pfanzenarten besiedelt, sondern sie sind Teil eines unentbehrlichen Netzwerks, das die (menschliche) Lebensgrundlage schafft. Um die zwei Drittel der Körpermasse eines Menschen bestehen aus Wasser. Doch nicht nur das: Unser gesamtes Weltverständnis, Kreisläufe, Entstehungs- & Zersetzungsprozesse, technische & medizinische Errungenschaften, uvm. basieren auf den biologischen, chemischen & physikalischen Eigenschaften dieses Moleküls.  
 Doch trotz der essentiellen Bedeutung von Wasser für unsere Erde & Zivilisation, sieht es aktuell nicht ganz so feucht fröhlich um die globalen knapp 3% Süßwasservorkommen aus: 
 * Menschliche Aktivität in jeglicher Form greift aktiv & folgenschwer in den lokalen & globalen Wasserhaushalt ein
 * Klimawandel bedingt weitreichende Veränderungen in Ressourcenverteilungen, Berechenbarkeit der Naturgewalten, Geopolitik etc.

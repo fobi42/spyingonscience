@@ -22,8 +22,8 @@ Meine Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung f�
 ___
 
 #### Qualifikationen & Referenzen.
-Sie interessieren sich für meine bisherige Arbeit? Stöbern Sie gerne in meinen Referenzen.  
-▶︎ [Die Übersicht fachlicher Qualifikationen, Aufträge & Fortbildungen finden Sie hier](/references/).   
+Sie interessieren sich für meine bisherige Arbeit? Stöbern Sie gerne in meinen Referenzen.   
+▶︎ [Die Übersicht fachlicher Qualifikationen, Aufträge & Fortbildungen finden Sie hier](/references/).    
 ▶︎ [Zum Veranstaltungsarchiv gelangen Sie hier](/archive/).     
 
 ___
