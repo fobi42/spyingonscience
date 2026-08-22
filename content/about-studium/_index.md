@@ -24,7 +24,10 @@ ___
   
 
 Den fachlichen Austausch mit Kolleg:innen & Interessierten schätze ich ebenso wie die Zusammenarbeit in interdisziplinären Teams. Bereits während meines Studiums konnte ich als Tutorin & studentische Hilfskraft aktiv an der akademischen Lehre mitwirken.
+ <br> <br> 
+___
 
+◀︎ [zurück zu "Meine Person, Passion & Mission".](/ueber/) 
  
  
 <br> <br> 

@@ -12,7 +12,7 @@ image: "diatoms.png"
 ___
 #### Profil.  
 Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung & freue mich sehr über neue Chancen.  
-▶︎ [Eine illustriertes Profil (Stand August 2026) können Sie gerne hier ansehen.](/images/protrait-limnologie-koplitz.pdf)
+▶︎ [Ein illustriertes Profil (Stand August 2026) können Sie gerne hier ansehen.](/images/protrait-limnologie-koplitz.pdf)
 ___
 
 #### Feldarbeit an Fließgewässern vor Ort.   

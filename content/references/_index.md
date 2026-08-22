@@ -4,9 +4,10 @@ date: 2025-05-08T22:52:58+02:00
 draft: false
 image: "scicomm.png"
 ---
+![spyingonscience.com.](/images/me.png "Wird es mir gelingen wieterhin viel Erfahrung zusammeln, mein Netzwerk auszubauen & langfristig zum Schutz unseres Planeten beizutragen?")
 
 # Qualifikationen & Referenzen.
-![spyingonscience.com.](/images/me.png "Wird es mir gelingen wieterhin viel Erfahrung aufzusaugen, mein Netzwerk auszubauen & langfristig zum Schutz unseres Planeten beizutragen?")
+
 ___
 #### Auftraggebende & Kooperationen im Fachgebiet Limnologie. 
 Ich arbeite mit renomierten, erfahrenen Personen & Ämtern zusammen, darunter sind u. A.:  
@@ -21,7 +22,7 @@ u.v.a.
 
 ___
 #### Auftraggebende & Kooperationen im Fachgebiet außerschulische Bildung. 
-Zu meinen Arbeitgebenden, Auftraggebenden & Kooperationen zählen u. A. 
+Zu meinen Arbeitgebenden, Auftraggebenden & Kooperationen zählen u. A.: 
 * jährlich über 50 Schulen, Bildungs- & Sozialeinrichtungen in München & Europa
 * Stadtjugendamt München, Landeshauptstadt München
 * [SNSB – Staatliche Naturwissenschaftliche Sammlungen Bayerns](https://snsb.de/) 
@@ -30,7 +31,7 @@ Zu meinen Arbeitgebenden, Auftraggebenden & Kooperationen zählen u. A.
 * [Deutsches Museum (Museumsinsel)](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)  
 u.v.a. 
 ___
-#### Erfahrung. 
+#### Erfahrungschatz aus dem ich schöpfe. 
 Die jeweilige Übersicht bietet einen Einblick in meine bisherige Arbeitserfahrung.   
 ▶︎ [Abgeschlossene Projekte in der angewandten Limnologie](/images/referenzen-limno-koplitz.pdf).   
 ▶︎ [Fachliche Qualifikationen & Fortbildungen allgemein](/images/erfahrungen-koplitz.pdf). 

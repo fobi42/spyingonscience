@@ -42,7 +42,7 @@ ___
 
 <br> <br> 
 
-▶︎ [zurück zum Kalender.](/events/) 
+◀︎ [zurück zum Kalender.](/events/) 
 
  
 

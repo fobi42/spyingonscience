@@ -5,7 +5,7 @@ date: 2025-05-08T20:30:29+02:00
 draft: false
 image: "images/logo.png"
 ---
-![spyingonscience-logo](/images/me-smile.png) 
+![spyingonscience.com.](/images/me-smile.png "Ich freue mich sehr über das Interesse & auf die zukünftige Zusammenarbeit!") 
 
 # **Meine Person, Passion & Mission.**
 ___

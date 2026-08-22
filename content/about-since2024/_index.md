@@ -39,7 +39,10 @@ Wasserschutz & Monitoring sind daher entscheidend. In Europa gelten derzeit nur 
 ___
 
 Zur Beurteilung des ökologischen Zustands dienen sogenannte Indikatororganismen wie Diatomeen, Makrophyten & Phytobenthische Algen. Sie ermöglichen es, Veränderungen in Gewässern frühzeitig zu erkennen & gezielt Schutzmaßnahmen umzusetzen.
+ <br> <br> 
+___
 
+◀︎ [zurück zu "Meine Person, Passion & Mission".](/ueber/) 
  
 < 
 <br> <br> 

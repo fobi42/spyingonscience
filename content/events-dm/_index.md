@@ -22,7 +22,7 @@ Termine: derzeit nicht geplant.
 <br> <br> 
 ___
 
-▶︎ [zurück zum Kalender.](/events/) 
+◀︎ [zurück zum Kalender.](/events/) 
 
  
  
