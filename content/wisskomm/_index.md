@@ -27,10 +27,15 @@ Sie interessieren sich für meine bisherige Arbeit? Stöbern Sie gerne in meinen
 ▶︎ [Zum Veranstaltungsarchiv gelangen Sie hier](/archive/).     
 
 ___
+
 <br> <br> 
 <br> <br> 
 <br> <br> 
-![spyingonscience.com.](/images/footer_klein.png "This is a firm logo.")
+![spyingonscience.com.](/images/galerie_footer.png "This is my firm logo.")
+
+<br> <br> 
+<br> <br> 
+<br> <br> 
 <br> <br> 
 <br> <br> 
 <br> <br> 
