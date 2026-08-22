@@ -36,7 +36,7 @@ ___
 <br> <br> 
 <br> <br> 
 <br> <br> 
-![spyingonscience.com.](/images/galerie_footer.png "This is my firm logo.")
+![spyingonscience.com.](/images/gallerie_footer_2026.png "gallery of spyingonscience.com.")
 
 <br> <br> 
 <br> <br> 
