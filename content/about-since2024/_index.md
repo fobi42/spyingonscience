@@ -7,10 +7,6 @@ draft: false
 
 # Freiberufliche Arbeit als Biologin in der Gewässerökologie seit 2024.
 ___
-  
-![This is an alt text.](/images/diatoms.png "This is a sample image.") ![This is an alt text.](/images/footer_klein.png "This is a sample image.")
-
-
 
 Durch meine Forschung an Diatomeengesellschaften in Quellhabitaten im Rahmen meiner Masterarbeit durfte ich mich intensiv mit der Ressource "Süßwasser" auseinandersetzen. 
 
@@ -48,7 +44,7 @@ ___
 <br> <br> 
 <br> <br> 
 <br> <br> 
-![spyingonscience.com.](/images/footer_klein.png "This is a firm logo.")
+![spyingonscience.com.](/images/galerie_footer.png "This is a firm logo.")
 
 <br> <br> 
 <br> <br> 
