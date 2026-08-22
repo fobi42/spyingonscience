@@ -5,7 +5,7 @@ draft: false
 image: "diatoms.png"
 ---
 
-![Limnologie](/images/diatoms.png)
+![spyingonscience.com.](/images/me-thinking.png "Welche Achnanthidium-Art haben wir hier gleich wieder?")
 
 # **Limnologin in der angewandten Gewässerökologie.**
 ___ 
@@ -24,11 +24,14 @@ ___
 Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung mit besonderem Augenmerk auf Gewässerbotanik inkl. Phykologie & Expertise in der Diatomeentaxonomie. Auch nach meinem Studienabschluss bilde ich mich kontinuierlich fort & freue mich sehr über neue Chancen. Sie interessieren sich für meine bisherige Arbeit? Stöbern Sie gerne in meinen Referenzen.   
 ▶︎ [Die Übersicht fachlicher Qualifikationen, Aufträge & Fortbildungen finden Sie hier](/references/).    
 ▶︎ [Zum Veranstaltungsarchiv gelangen Sie hier](/archive/).  
-___
+
+
+ 
+ 
 <br> <br> 
 <br> <br> 
 <br> <br> 
-![spyingonscience.com.](/images/gallerie_footer_2026_.png "gallery of spyingonscience.com.")
+![spyingonscience.com.](/images/gallerie_footer_2026_.png "Diese coolen Dinge darf ich bei meiner Arbeit machen!")
 
 <br> <br> 
 <br> <br> 
@@ -46,3 +49,6 @@ ___
 >* Weitere Einblicke: [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/), [instagram](https://www.instagram.com/spyingonscience/), [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448). 👀 
 
 >* Jetzt reinhören in den ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 🎧 
+
+
+![spyingonscience.com.](/images/logo-375.png "Logo von spyingonscience.com.")

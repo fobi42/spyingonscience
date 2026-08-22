@@ -5,7 +5,8 @@ draft: false
 image: "scicomm.png"
 ---
 
-![Scenario 1: Across columns](/images/scicomm.png)
+![spyingonscience.com.](/images/me-hm.png "Wow, ich finde es klasse wie viele Menschen den Wert von nachhaltiger, faktenbasierter, wissenschaftlicher Bildung erkennen, schätzen & schützen!")
+
 # **Referentin für Naturwissenschaften**.
 ___
 
@@ -26,20 +27,20 @@ Sie interessieren sich für meine bisherige Arbeit? Stöbern Sie gerne in meinen
 ▶︎ [Die Übersicht fachlicher Qualifikationen, Aufträge & Fortbildungen finden Sie hier](/references/).    
 ▶︎ [Zum Veranstaltungsarchiv gelangen Sie hier](/archive/).     
 
-___
+ 
+
+ 
+<br> <br> 
+<br> <br> 
+<br> <br> 
+![spyingonscience.com.](/images/gallerie_footer_2026_.png "Diese coolen Dinge darf ich bei meiner Arbeit machen!")
 
 <br> <br> 
 <br> <br> 
 <br> <br> 
-![spyingonscience.com.](/images/gallerie_footer_2026_.png "gallery of spyingonscience.com.")
-
 <br> <br> 
 <br> <br> 
 <br> <br> 
-<br> <br> 
-<br> <br> 
-<br> <br> 
-
 
 >Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
 
@@ -50,3 +51,6 @@ ___
 >* Weitere Einblicke: [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/), [instagram](https://www.instagram.com/spyingonscience/), [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448). 👀 
 
 >* Jetzt reinhören in den ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 🎧 
+
+
+![spyingonscience.com.](/images/logo-375.png "Logo von spyingonscience.com.")

@@ -6,9 +6,9 @@ image: "scicomm.png"
 ---
 
 # Qualifikationen & Referenzen.
-
+![spyingonscience.com.](/images/me.png "Wird es mir gelingen wieterhin viel Erfahrung aufzusaugen, mein Netzwerk auszubauen & langfristig zum Schutz unseres Planeten beizutragen?")
 ___
-#### Auftraggebende & Kooperationen. 
+#### Auftraggebende & Kooperationen im Fachgebiet Limnologie. 
 Ich arbeite mit renomierten, erfahrenen Personen & Ämtern zusammen, darunter sind u. A.:  
 * [Gutachterbüro Bernd Humberg (Waterworld-Consult)](https://www.waterworld-consult.de/gutachten/team/),  
 * [Ökologische Gutachten Matthias Beck (Waterworld-Consult)](https://www.waterworld-consult.de/gutachten/team/)  
@@ -18,31 +18,42 @@ Ich arbeite mit renomierten, erfahrenen Personen & Ämtern zusammen, darunter si
 * Landesamt für Natur, Umwelt und Klima NRW
 * Landesamt für Umwelt Rheinland-Pfalz  
 u.v.a. 
+
+___
+#### Auftraggebende & Kooperationen im Fachgebiet außerschulische Bildung. 
+Zu meinen Arbeitgebenden, Auftraggebenden & Kooperationen zählen u. A. 
+* jährlich über 50 Schulen, Bildungs- & Sozialeinrichtungen in München & Europa
+* Stadtjugendamt München, Landeshauptstadt München
+* [SNSB – Staatliche Naturwissenschaftliche Sammlungen Bayerns](https://snsb.de/) 
+  * [Museum Mensch und Natur](https://mmn-muenchen.snsb.de/)
+  * [Biotopia Lab](https://biotopialab.snsb.de/)
+* [Deutsches Museum (Museumsinsel)](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)  
+u.v.a. 
 ___
 #### Erfahrung. 
 Die jeweilige Übersicht bietet einen Einblick in meine bisherige Arbeitserfahrung.   
 ▶︎ [Abgeschlossene Projekte in der angewandten Limnologie](/images/referenzen-limno-koplitz.pdf).   
-▶︎ [Fachliche Qualifikationen & Fortbildungen](/images/erfahrungen-koplitz.pdf). 
+▶︎ [Fachliche Qualifikationen & Fortbildungen allgemein](/images/erfahrungen-koplitz.pdf). 
 ___
 
 #### Meine Leistungen für Sie.  
-▶︎ [Leistungsportfolio angewandte Limnologie](/leistung-limno/).  
-▶︎ [Leistungsportfolio außerschulische Bildung](/leistung-referentin).   
+Ich biete Ihnen ein breites Leistungssprektrum: Von der Erforschung aquatischer Lebensräume bis zur außerschulischen Bildung. Einzigartig verbinde ich meine limnologische Expertise zuweilen auch mit langjähriger Erfahrung in praxisnaher Wissensvermittlung. Informieren Sie sich über meine Tätigkeitsfelder.   
+▶︎ [Portfolio rund um außerschulische Bildung](/leistung-referentin).    
+▶︎ [Portfolio rund um angewandte Limnologie](/leistung-limno/).    
 
-___
+ 
+ 
+<br> <br> 
+<br> <br> 
+<br> <br> 
+![spyingonscience.com.](/images/gallerie_footer_2026_.png "Diese coolen Dinge darf ich bei meiner Arbeit machen!")
 
 <br> <br> 
 <br> <br> 
 <br> <br> 
-![spyingonscience.com.](/images/gallerie_footer_2026_.png "gallery of spyingonscience.com.")
-
 <br> <br> 
 <br> <br> 
 <br> <br> 
-<br> <br> 
-<br> <br> 
-<br> <br> 
-
 
 >Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
 
@@ -53,3 +64,6 @@ ___
 >* Weitere Einblicke: [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/), [instagram](https://www.instagram.com/spyingonscience/), [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448). 👀 
 
 >* Jetzt reinhören in den ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 🎧 
+
+
+![spyingonscience.com.](/images/logo-375.png "Logo von spyingonscience.com.")

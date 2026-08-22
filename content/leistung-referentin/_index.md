@@ -4,10 +4,13 @@ date: 2025-05-08T20:52:58+02:00
 draft: false
 image: "diatoms.png"
 ---
+![spyingonscience.com.](/images/scicomm.png "Eine Veranstaltung ist dann gelungen, wenn Fragen gestellt wurden, die ich (noch) nicht beantworten kann!")
+
 # Leistungsportfolio als Referentin für Naturwissenschaften.  
 ___  
-Gerne passe ich mein Angebot an Ihre Wünsche & Gruppengröße an.  
-▶︎ [Ein illustriertes Portrait (Stand August 2026) können Sie gern hier ansehen](/images/portrait-referentin-koplitz.pdf).  
+#### Profil.  
+Ich entwickle und gestalte außerschulische Bildungsangebote & freue mich darauf, Wissen praxisnah erlebbar zu machen & neue Lernräume zu eröffnen. Gerne passe ich mein Angebot an Ihre Wünsche & Gruppengröße an.  
+▶︎ [Ein illustriertes Profil (Stand August 2026) können Sie gern hier ansehen](/images/portrait-referentin-koplitz.pdf).  
 
 ___  
 
@@ -50,11 +53,12 @@ Beispiele für Gruppen, die ich bereits erfolgreich betreut habe sind:
 * Gruppen mit Deutsch als Fremdsprache
 * uva.  
 
-___
+ 
+ 
 <br> <br> 
 <br> <br> 
 <br> <br> 
-![spyingonscience.com.](/images/gallerie_footer_2026_.png "gallery of spyingonscience.com.")
+![spyingonscience.com.](/images/gallerie_footer_2026_.png "Diese coolen Dinge darf ich bei meiner Arbeit machen!")
 
 <br> <br> 
 <br> <br> 
@@ -72,3 +76,6 @@ ___
 >* Weitere Einblicke: [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/), [instagram](https://www.instagram.com/spyingonscience/), [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448). 👀 
 
 >* Jetzt reinhören in den ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 🎧 
+
+
+![spyingonscience.com.](/images/logo-375.png "Logo von spyingonscience.com.")
