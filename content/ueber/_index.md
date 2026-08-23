@@ -31,42 +31,6 @@ Ich biete Ihnen ein breites Leistungssprektrum: Von der Erforschung aquatischer 
 ▶︎ [Portfolio rund um angewandte Limnologie](/leistung-limno/).    
  
 
-Hier ist Testseite: 
-
-<section style="
-    background: #f2f2f2;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 2rem;
-    margin: 2rem auto;
-    max-width: 800px;
-    width: 70%;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-">
-
-    <h2>Aktuelles & Termine.</h2>
-
-    <div style="
-        display: flex;
-        justify-content: center;
-        width: 100%;
-    ">
-        <img 
-            src="/images/kalender.png"
-            alt="Kalender"
-            style="
-                width: 100%;
-                max-width: 500px;
-                height: auto;
-                border-radius: 8px;
-            ">
-    </div>
-
-</section>
-
-Ende. 
-
-
 <br> <br> 
 <br> <br> 
 <br> <br> 
