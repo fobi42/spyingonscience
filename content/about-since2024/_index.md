@@ -43,8 +43,7 @@ Zur Beurteilung des ökologischen Zustands dienen sogenannte Indikatororganismen
 ___
 
 ◀︎ [zurück zu "Meine Person, Passion & Mission".](/ueber/) 
- 
-< 
+  
 <br> <br> 
 <br> <br> 
 <br> <br> 
