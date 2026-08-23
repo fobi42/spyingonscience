@@ -8,7 +8,7 @@ image: "images/kalender.png"
 
 ![spyingonscience.com.](/images/me-hä.png "Hä, diese coolen Dinge kann man machen?")
 
-# **Aktuelles.**  
+# **Aktuelles & Termine.**  
 
 ___
 
