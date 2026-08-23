@@ -30,10 +30,7 @@ Ich biete Ihnen ein breites Leistungssprektrum: Von der Erforschung aquatischer 
 ▶︎ [Portfolio rund um außerschulische Bildung](/leistung-referentin).    
 ▶︎ [Portfolio rund um angewandte Limnologie](/leistung-limno/).    
  
-
- </section>
-
-  <section style="background-color: white;  background: #d7dcd8;       /* white background */
+<section style="background-color: white;  background: #d7dcd8;       /* white background */
   border: 1px solid #ddd;    /* subtle border */
   border-radius: 8px;        /* rounded corners */
   padding: 2rem;             /* inner spacing */
@@ -45,7 +42,7 @@ Ich biete Ihnen ein breites Leistungssprektrum: Von der Erforschung aquatischer 
         <h2>Aktuelles & Termine.</h2>
         <div ><img style="  width: 70%; border-radius: 8px; height: auto;" src="/images/kalender.png" alt="Profile Picture" style="max-width:60%; border-radius:8px;">
     </a>
-  </section>
+</section>
   
 <br> <br> 
 <br> <br> 
