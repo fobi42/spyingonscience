@@ -6,8 +6,14 @@ image: "images/kalender.png"
 ---
 
 # Melde dich jetzt an & mach mit!  
+___
 
 Ich biete drei Veranstaltungen mit dem Thema: "Das lebt in meinem Wasser: Live-Mikroskopie mit einer Gewässerökologin".   
+<br> <br>
+
+▶︎ [Veranstaltungsinfos hier ansehen](/images/Gemeinschaftswerk-Nachhaltigkeit.pdf).    
+
+<br> <br> 
 
 Sende mir eine E-Mail, indem du auf den untenstehenden Link zur passenden Veranstaltung klickst. 
 Teile mir mit: Wie heißt du/ihr? Wie alt bist du/seid ihr? Willst du/wollt ihr eine Probe einsende (optional)? 
@@ -25,19 +31,15 @@ Ich freue mich & bin schon ganz aufgeregt!
 
 <br> <br>
 
-▶︎ [Veranstaltungsinfos hier ansehen](/images/Gemeinschaftswerk-Nachhaltigkeit.pdf).  
-
-<br> <br>
-
 Die Online-Veranstaltungen finden im Rahmen der Deutschen Aktionstage Nachhaltigkeit statt & passen inhaltlich zum Fokusthema 2026: Wasser.   
 
 ▶︎ [Hier geht's zur Webseite des Gemeinschaftsnetzwerk Nachhaltigkeit](https://gemeinschaftswerk-nachhaltigkeit.de/aktionstage).   
 <br> <br>
-___
+
 
 ![Aktionstage](/images/Nachhaltigkeitstage-Sticker.png "Aktionstage Gemeinschaftsnetzwerk Nachhaltigkeit.") 
 
-___
+
 
 
 ◀︎ [zum Kalender.](/events/) 
