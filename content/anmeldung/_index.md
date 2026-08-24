@@ -12,11 +12,14 @@ Ich biete drei Veranstaltungen mit dem Thema: "Das lebt in meinem Wasser: Live-M
 Sende mir eine E-Mail, indem du auf den untenstehenden Link zur passenden Veranstaltung klickst. 
 Teile mir mit: Wie heißt du/ihr? Wie alt bist du/seid ihr? Willst du/wollt ihr eine Probe einsende (optional)? 
 Ich kann leider nur eine begrenzte Anzahl an Proben in der Zeit mit euch mikroskopieren, also ranhalten mit der Anmeldung! 
-Ich freue mich & bin schon ganz aufgeregt!  
+Ich freue mich & bin schon ganz aufgeregt!    
+
 <br> <br>
-✍︎  [25.9.26 um 17:00-18:00 Uhr zur Anmeldung per E-Mail hier klicken.](mailto:spyingonscience@posteo.com?subject=Anmeldung%20zu%20den%20Aktionstagen%20Nachhaltigkeit%20am%2025.9.26)  
+✍︎  [25.9.26 um 17:00-18:00 Uhr zur Anmeldung per E-Mail hier klicken.](mailto:spyingonscience@posteo.com?subject=Anmeldung%20zu%20den%20Aktionstagen%20Nachhaltigkeit%20am%2025.9.26)    
+
 <br> <br>
-✍︎  [2.10.26 um 17:00-18:00 Uhr zur Anmeldung per E-Mail hier klicken.](mailto:spyingonscience@posteo.com?subject=Anmeldung%20zu%20den%20Aktionstagen%20Nachhaltigkeit%20am%202.10.26)  
+✍︎  [2.10.26 um 17:00-18:00 Uhr zur Anmeldung per E-Mail hier klicken.](mailto:spyingonscience@posteo.com?subject=Anmeldung%20zu%20den%20Aktionstagen%20Nachhaltigkeit%20am%202.10.26)    
+
 <br> <br>
 ✍︎  [8.10.26 um 17:00-18:00 Uhr zur Anmeldung per E-Mail hier klicken.](mailto:spyingonscience@posteo.com?subject=Anmeldung%20zu%20den%20Aktionstagen%20Nachhaltigkeit%20am%208.10.26)   
 
@@ -26,18 +29,18 @@ Ich freue mich & bin schon ganz aufgeregt!
 
 <br> <br>
 
-Die Online-Veranstlatungen finden im Rahmen der Deutschen Aktionstage Nachhaltigkeit statt & passen inhaltlich zum Fokusthema 2026: Wasser.   
+Die Online-Veranstaltungen finden im Rahmen der Deutschen Aktionstage Nachhaltigkeit statt & passen inhaltlich zum Fokusthema 2026: Wasser.   
 
 ▶︎ [Hier geht's zur Webseite des Gemeinschaftsnetzwerk Nachhaltigkeit](https://gemeinschaftswerk-nachhaltigkeit.de/aktionstage).   
 <br> <br>
 ___
 
-![Aktionstage](/images/Nachhaltigkeit Social Media Sticker.png "Aktionstage Gemeinschaftsnetzwerk Nachhaltigkeit.") 
+![Aktionstage](/images/Nachhaltigkeitstage-Sticker.png "Aktionstage Gemeinschaftsnetzwerk Nachhaltigkeit.") 
 
 ___
 
 
-◀︎ [zurück zum Kalender.](/events/) 
+◀︎ [zum Kalender.](/events/) 
 
  
  
