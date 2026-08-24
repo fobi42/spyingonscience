@@ -22,14 +22,20 @@ Ich freue mich & bin schon ganz aufgeregt!
 
 <br> <br>
 
-Die Online-Veranstlatungen finden im Rahmen der Deutschen Aktionstage Nachhaltigkeit statt & passen inhaltlich zum Fokusthema 2026: Wasser. 
+▶︎ [Veranstaltungsinfos hier ansehen](/images/Gemeinschaftswerk-Nachhaltigkeit.pdf).  
 
-▶︎ [Veranstaltungsinfos hier ansehen](/images/Gemeinschaftswerk Nachhaltigkeit.pdf).  
-▶︎ [Hier geht's zur Webseite des Gemeinschaftsnetzwerk Nachhaltigkeit](https://gemeinschaftswerk-nachhaltigkeit.de/aktionstage).  
+<br> <br>
+
+Die Online-Veranstlatungen finden im Rahmen der Deutschen Aktionstage Nachhaltigkeit statt & passen inhaltlich zum Fokusthema 2026: Wasser.   
+
+▶︎ [Hier geht's zur Webseite des Gemeinschaftsnetzwerk Nachhaltigkeit](https://gemeinschaftswerk-nachhaltigkeit.de/aktionstage).   
 <br> <br>
 ___
-![Aktionstage Gemeinschaftsnetzwerk Nachhaltigkeit](/images/Nachhaltigkeit Social Media Sticker.png "Aktionstage Gemeinschaftsnetzwerk Nachhaltigkeit.")
+
+![Aktionstage](/images/Nachhaltigkeit Social Media Sticker.png "Aktionstage Gemeinschaftsnetzwerk Nachhaltigkeit.") 
+
 ___
+
 
 ◀︎ [zurück zum Kalender.](/events/) 
 
