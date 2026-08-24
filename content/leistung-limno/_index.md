@@ -7,7 +7,7 @@ image: "diatoms.png"
 
 ![spyingonscience.com.](/images/diatoms.png "Eine Illustration von Diatomeen, wenn man sie aus dem Internet zieht & nicht selber zeichnet...")
 
-# Leistungsportfolio angewandte Gewässerökologie. 
+# Leistungsportfolio als Limnologin in der angewandten Gewässerökologie. 
 
 ___
 #### Profil.  

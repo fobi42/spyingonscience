@@ -17,7 +17,18 @@ ___
 #### Events. 
 Offene Mit-mach-Aktionen, Museumsevents & vieles mehr! Wollen Sie mich gerne mal persönlich kennenlernen? Viele Events können dank meinen Partnerinstitutionen oft zu einem **geringen Beitrag oder gar ganz kostenlos** besucht werden! Informieren Sie sich gerne.  
 ▶︎ [Hier geht's zum Terminkalender.](/events/)  
+<br> <br>
+___
 
+#### ANMELDUNG ZUR ONLINE-VERANSTALTUNG: Deutsche Aktionstage Nachhaltigkeit "Das lebt in meinem Wasser: Live-Mikroskopie mit einer Gewässerökologin". 
+Sende mir eine E-Mail, indem du auf den untenstehenden Link zur passenden Veranstaltung klickst. 
+Teile mir mit: Wie heißt du/ihr? Wie alt bist du/seid ihr? Willst du/wollt ihr eine Probe einsenden? 
+Ich kann leider nur eine begrenzte Anzahl an Proben in der Zeit mit euch mikroskopieren, also ranhalten mit der Anmeldung!
+Ich freue mich & bin schon ganz aufgeregt!
+* [Anmeldung zum 25.9.26 um 17:00-18:00 Uhr per E-Mail, hier klicken.](mailto:spyingonscience@posteo.com?subject=Anmeldung%20zu%20den%20Aktionstagen%20Nachhaltigkeit%20am%2025.9.26)
+* [Anmeldung zum 2.10.26 um 17:00-18:00 Uhr per E-Mail, hier klicken.](mailto:spyingonscience@posteo.com?subject=Anmeldung%20zu%20den%20Aktionstagen%20Nachhaltigkeit%20am%202.10.26)
+* [Anmeldung zum 8.10.26 um 17:00-18:00 Uhr per E-Mail, hier klicken.](mailto:spyingonscience@posteo.com?subject=Anmeldung%20zu%20den%20Aktionstagen%20Nachhaltigkeit%20am%208.10.26) 
+<br> <br>
 ___
 
 #### Diatomeen direkt ins Ohr: Ich war in einem Podcast zu Gast.

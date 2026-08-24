@@ -23,7 +23,7 @@ ___
 #### Qualifikationen & Referenzen. 
 Mit großer Begeisterung etabliere ich mich im Bereich der Gewässeruntersuchung mit besonderem Augenmerk auf Gewässerbotanik inkl. Phykologie & Expertise in der Diatomeentaxonomie. Auch nach meinem Studienabschluss bilde ich mich kontinuierlich fort & freue mich sehr über neue Chancen. Sie interessieren sich für meine bisherige Arbeit? Stöbern Sie gerne in meinen Referenzen.   
 ▶︎ [Die Übersicht fachlicher Qualifikationen, Aufträge & Fortbildungen finden Sie hier](/references/).    
-▶︎ [Zum Veranstaltungsarchiv gelangen Sie hier](/archive/).  
+ 
 
 
  

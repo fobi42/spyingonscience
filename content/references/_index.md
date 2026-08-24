@@ -9,7 +9,8 @@ image: "scicomm.png"
 # Qualifikationen & Referenzen.
 
 ___
-#### Auftraggebende & Kooperationen im Fachgebiet Limnologie. 
+#### Auftraggebende & Kooperationen   
+#### im Fachgebiet Limnologie. 
 Ich arbeite mit renomierten, erfahrenen Personen & Ämtern zusammen, darunter sind u. A.:  
 * [Gutachterbüro Bernd Humberg (Waterworld-Consult)](https://www.waterworld-consult.de/gutachten/team/),  
 * [Ökologische Gutachten Matthias Beck (Waterworld-Consult)](https://www.waterworld-consult.de/gutachten/team/)  
@@ -18,10 +19,9 @@ Ich arbeite mit renomierten, erfahrenen Personen & Ämtern zusammen, darunter si
 * Technische Universität München (TUM, Dr. Uta Raeder)
 * Landesamt für Natur, Umwelt und Klima NRW
 * Landesamt für Umwelt Rheinland-Pfalz  
-u.v.a. 
+u.v.a.   
 
-___
-#### Auftraggebende & Kooperationen im Fachgebiet außerschulische Bildung. 
+#### im Fachgebiet außerschulische Bildung. 
 Zu meinen Arbeitgebenden, Auftraggebenden & Kooperationen zählen u. A.: 
 * jährlich über 50 Schulen, Bildungs- & Sozialeinrichtungen in München & Europa
 * Stadtjugendamt München, Landeshauptstadt München
