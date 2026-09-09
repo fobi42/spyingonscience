@@ -11,21 +11,25 @@ ___
 
 Naturwissenschaftliche Inhalte direkt an den Menschen bringen und dadurch nachhaltig Umweltkompetenz zu vermitteln, zu fördern und zu stärken ist uns ein besonderes Anliegen. Wir betreiben nicht "einfach nur ein bisschen Wissenschschaftskommunikation nebenher". Wir erarbeiten Bildungskonzepte und bieten personalisierte Bildungs- und Umwelt-Spaß-Veranstaltungen an.   
 
-HYDROBIOLOGIE KOPLITZ hat 2021 das unabhängige Umweltbildungsprojekt #SpyingOnScience ins Leben gerufen und gestaltet seitdem erfolgreich unter diesem Slogan diverse Bildungsräume in und um München aktiv mit. 
+HYDROBIOLOGIE KOPLITZ hat 2021 das unabhängige Umweltbildungsprojekt "#SpyingOnScience" ins Leben gerufen und gestaltet seitdem erfolgreich unter diesem Slogan diverse Bildungsräume in und um München aktiv mit. 
 
 ___
 #### Leistungskatalog.  
 Wir entwicken und gestalten außerschulische Bildungsangebote. Wir machen Wissen praxisnah erlebbar und eröffnen neue Lernräume. Gerne passen wir das Angebot an Ihre Wünsche und Gruppengröße an.  
 <br> <br> 
+
 Wir ...  
 <br> <br> 
+
 ##### ... BESPIELEN Aktionsraum mit forschenden Umwelt-Spaß-Veranstaltungen.  
 Gemeinsam mit Ihnen oder auch in Ihrem Auftrag entwickeln wir Bildungsformate zu spannenden Inhalten im Bereich der Umweltwissenschaften; von Grundkonzepten aus der Biologie über Klima bis hin zum Themenkomplex Nachhaltigkeit. Ob neue Workshops, interaktive Projekte, Messestände oder ganze Veranstaltungsreihen: Wir unterstützen Sie bei der Konzeption, stehen beratend zur Seite und sorgen dafür, dass Ihre Inhalte verständlich, greifbar und mitreißend vermittelt werden - gerne auch auf dem Event selbst. Freuen Sie sich auf Formate, die Neugier wecken, Begeisterung entfachen und langfristig in den Köpfen bleiben. Lassen Sie uns gemeinsam Bildungsprojekte gestalten, die inspirieren, bewegen und wirken!  
 <br> <br> 
+
 ##### ... BEWANTWORTEN brennende Fragen und finden dabei spannende Lösungen oder neue Ideenansätze.   
 Veranstaltungen, die Wissen greifbar machen, Neugier wecken und Begeisterung entfachen gestalten wir mit Herzblut. Ob in Ihrem Unternehmen, Ihrem Wohnzimmer, im Klassenzimmer, im Museum oder draußen in der Natur – jede Veranstaltung wird individuell auf Ihr Publikum, Ihre Ziele & Ihre Umgebung abgestimmt. Freuen Sie sich auf ein spannendes, interaktives Erlebnis mit Raum für Fragen, für Diskussionen und für Aha-Momente.  
 Lassen Sie uns gemeinsam etwas bewegen – wir freuen uns auf Ihre Ideen & darauf, diese gemeinsam mit Ihnen zu beleben!  
-<br> <br> 
+<br> <br>  
+
 ##### ... BEWIRKEN Begeisterung für die belebte Umwelt und koppeln Empathie mit Neugier für Umweltthemen.   
 Als Teil eines großartigen museumspädagogischen Teams führen wir Workshops und Führungen rund um Mensch, Umwelt, Naturwissenschaft und Nachhaltigkeit in Zusammenarbeit mit den Einrichtungen der SNSB in München durch.  
 Klicken Sie sich doch mal durch die Internetpräsenzen des Museums Mensch und Natur im Nymphenburger Schloss und des BIOTOPIA Labs im Botanischen Garten. Wir freuen uns, wenn Sie hier fündig werden! Vielleicht sieht man sich ja!  
