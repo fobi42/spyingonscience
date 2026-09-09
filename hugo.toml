@@ -65,20 +65,20 @@ pagerSize = 9
     weight = 2
 
 [[menu.main]]
-    name = "  Referentin  "
-    url = "/wisskomm/"
+    name = "  Umweltbildung  "
+    url = "/bildungsprojekte/"
     weight = 4
 
 
 [[menu.main]]
-    name = "  Limnologin  "
-    url = "/limnologie/"
+    name = "  Hydrobiologie  "
+    url = "/hydrobiologie/"
     weight = 3
 
 
 [[menu.main]]
     name = "  Über  "
-    url = "/ueber/"
+    url = "/profil/"
     weight = 5
 
 [[menu.main]]
