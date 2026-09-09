@@ -15,8 +15,8 @@ Ich biete drei Veranstaltungen mit dem Thema: "Das lebt in meinem Wasser: Live-M
 
 <br> <br> 
 
-Sende mir eine E-Mail, indem du auf den untenstehenden Link zur passenden Veranstaltung klickst. 
-Teile mir mit: Wie heißt du/ihr? Wie alt bist du/seid ihr? Willst du/wollt ihr eine Probe einsende (optional)? 
+Sende mir eine E-Mail, indem du auf den untenstehenden Link zur passenden Veranstaltung klickst.  
+Teile mir mit: Wie heißt du/ihr? Wie alt bist du/seid ihr? Willst du/wollt ihr eine Probe einsenden (optional)? 
 Ich kann leider nur eine begrenzte Anzahl an Proben in der Zeit mit euch mikroskopieren, also ranhalten mit der Anmeldung! 
 Ich freue mich & bin schon ganz aufgeregt!    
 
