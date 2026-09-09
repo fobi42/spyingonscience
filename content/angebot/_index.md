@@ -8,8 +8,8 @@ image: "wisskomm.png"
 
 # Aktuelles Paketangebot.  
 ___  
-Gerne passe ich mein Angebot an Ihre Wünsche & Gruppengröße an.   
-▶︎ [Eine Übersicht aller Leistungen finden Sie hier.](/leistung-referentin/)
+Gerne passen wir Angebot an Ihre Wünsche & Gruppengröße an.   
+▶︎ [Eine Übersicht aller Leistungen finden Sie hier.](/bildungsprojekte/)
 ___  
 
 #### "Die Schätze unserer Erde verstehen & schützen."  
@@ -34,19 +34,19 @@ Paketpreis: 185€ (inkl.19% MwSt.)
 
 ___
 
-**HINWEIS: Die Aufsicht obliegt vor, während & nach der Veranstaltung der buchenden Person, der Lehrkraft oder dem Elternteil. Ich übernehme keine Aufsichtspflicht oder Verantwortung für die Kinder. Danke für das Verständnis.**
+**HINWEIS: Die Aufsicht obliegt vor, während & nach der Veranstaltung der buchenden Person, der Lehrkraft oder dem Elternteil. Wir übernehmen keine Aufsichtspflicht oder Verantwortung für die Kinder. Danke für das Verständnis.**
 
 ___
 
-Haben Sie Interesse an dem Angebot oder direkt Fragen an mich?  
-[Lernen wir uns unverbindlich bei einem meiner öffentlichen Events kennen](/events/), schreiben Sie mir eine [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Interesse%20am%20Angebot%20"Schätze%20unserer%20Erde"%20auf%20spyingonscience.com), oder melden Sie sich per Telefon/WhatsApp (+49 160 9627 2988).  
-Ich freue mich! 
+Haben Sie Interesse an dem Angebot oder direkt Fragen an uns?  
+[Lernen wir uns unverbindlich bei einem der öffentlichen Events kennen](/events/), schreiben Sie uns eine [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Interesse%20am%20Angebot%20"Schätze%20unserer%20Erde"%20auf%20spyingonscience.com), oder melden Sie sich per Telefon/WhatsApp (+49 160 9627 2988).  
  
  
+
+ <br> <br> 
 <br> <br> 
 <br> <br> 
-<br> <br> 
-![spyingonscience.com.](/images/gallerie_footer_2026_.png "Diese coolen Dinge darf ich bei meiner Arbeit machen!")
+![spyingonscience.com.](/images/gallerie_footer_2026_.png "Diese coolen Dinge dürfeb wir bei der Arbeit machen!")
 
 <br> <br> 
 <br> <br> 
@@ -55,15 +55,12 @@ Ich freue mich!
 <br> <br> 
 <br> <br> 
 
->Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
+* Auf [Mission](/ueber/) für Wasser & Wissen. 💚 
+* [Limnologie](/limnologie/) & [Bildungsarbeit](/wisskomm/) aus einer Hand. 🌍 
+* Projekte [in MUC](/archive/) & [bundesweit](/references/). 🔬  
+* [Ihr Kontakt zu uns](/events/), z.B. gerne auch via [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988). 🤝   
+* Jetzt reinhören in unseren Beitrag zum ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 🎧 
 
->* Biologin auf [Mission](/ueber/) für Wasser & Wissen. 💚 
->* [Limnologie](/limnologie/) & [Bildungsarbeit](/wisskomm/) aus einer Hand. 🌍 
->* Projekte [in MUC](/archive/) & [bundesweit](/references/). 🔬  
->* [Lernen wir uns kennen](/events/), z.B. gerne auch via [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988). 🤝   
->* Weitere Einblicke: [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/), [instagram](https://www.instagram.com/spyingonscience/), [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448). 👀 
-
->* Jetzt reinhören in den ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 🎧 
-
+###### Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience 
 
 ![spyingonscience.com.](/images/logo-375.png "Logo von spyingonscience.com.")

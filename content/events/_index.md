@@ -6,8 +6,6 @@ draft: false
 image: "images/kalender.png"
 ---
 
-![Scenario 1: Across columns](/images/kalender.png)
-
 # Events. 
 ___ 
 

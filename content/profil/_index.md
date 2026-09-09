@@ -5,7 +5,7 @@ draft: false
 image: "scicomm.png"
 ---
 
-![spyingonscience.com.](/images/me-smile.png "Wir freuen uns sehr über das Interesse und auf die zukünftige Zusammenarbeit!") 
+![spyingonscience.com.](/images/wasser-welt-wissen.png "Wir freuen uns sehr über das Interesse und auf die zukünftige Zusammenarbeit!") 
 
 # **Unsere Passion und Mission.** 
 ___ 
@@ -65,7 +65,7 @@ Andrea Koplitz-Weißgerber, M. Sc. Biologie
 
 <br> <br> 
 
-**Fachbereiche.** 
+**Fachbereiche.**   
 Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Kooperationen in den Bereichen:   
 * Diatomeentaxonomie 
 * Fachgutachten 

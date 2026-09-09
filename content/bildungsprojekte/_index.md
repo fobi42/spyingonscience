@@ -5,6 +5,9 @@ draft: false
 image: "diatoms.png"
 ---
 
+![spyingonscience.com.](/images/scicomm.png "Wir freuen uns über Ihr Interesse an wissenschaftlicher, faktengestützter Umweltbildung!")
+
+
 # **Umweltbildungsprojekt "SpyingOnScience".** 
 ___
 #### Fachlich fundierte Bewertung von Süßgewässern: Von der Probenahme und biologischen Untersuchung bis zur fachgutachterlichen Einordnung.  
@@ -72,9 +75,9 @@ u.v.a.
 ___ 
 
 #### Qualifikation.  
-xxxx 
-▶︎ Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF).   
-▶︎ Eine Übersicht ausgewählter vergangener Projekte finden Sie hier im chaotischen Veranstaltungsarchiv. 
+Wir überzeugen durch unsere über fünf Jahre Efahrung in der Umweltbildungsarbeit mit diversen Gruppen und stetige Fortbildungen. 
+▶︎ [Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF).](/images/HYDROBIOLOGIE-KOPLITZ-Info.pdf).    
+▶︎ [Eine Übersicht ausgewählter vergangener Projekte finden Sie hier im chaotischen Veranstaltungsarchiv](/archive/). 
 
 
 ___

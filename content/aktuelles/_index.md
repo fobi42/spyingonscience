@@ -6,7 +6,7 @@ draft: false
 image: "images/kalender.png"
 ---
 
-![spyingonscience.com.](/images/me-hä.png "Hä, diese coolen Dinge kann man machen?")
+![spyingonscience.com.](/images/kalender.png "Hä, diese coolen Dinge kann man machen?")
 
 # **Aktuelles und Termine.**  
 

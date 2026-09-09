@@ -4,7 +4,7 @@ date: 2025-05-08T20:52:58+02:00
 draft: false
 image: "diatoms.png"
 ---
-![spyingonscience.com.](/images/me-thinking.png "Welche Achnanthidium-Art haben wir hier gleich wieder?")
+![spyingonscience.com.](/images/diatoms.png "Welche Achnanthidium-Art haben wir hier gleich wieder?")
 
 # **Hydrobiologische Untersuchungen und Gewässerfachgutachten.** 
 ___
@@ -104,7 +104,7 @@ ___
 
 #### Qualifikation.  
 Mit großer Begeisterung etablieren wir uns im Bereich der Gewässeruntersuchung mit besonderem Augenmerk auf Gewässerbotanik inkl. Phykologie mit Expertise in der Diatomeentaxonomie. Die Mitarbeitenden werden kontinuierlich fortgebildet.  
-▶︎ [Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF)](/HYDROBIOLOGIE-KOPLITZ-Info.pdf). 
+▶︎ [Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF)](/images/HYDROBIOLOGIE-KOPLITZ-Info.pdf). 
 
 ___ 
 
@@ -114,7 +114,7 @@ Unsere Expertise wenden wir erfolgreich seit 2022 an. Somit waren wir neben unse
 * Landesamt für Natur, Umwelt und Klima NRW (LANUK)
 * Landesamt für Umwelt Rheinland-Pfalz 
 * Wasserwirtschaftsamt Ansbach (Bayern).  
-▶︎ [Eine Übersicht ausgewählter vergangener Projekte finden Sie hier (PDF)](/HYDROBIOLOGIE-KOPLITZ-Referenzen.pdf). 
+▶︎ [Eine Übersicht ausgewählter vergangener Projekte finden Sie hier (PDF)](/images/HYDROBIOLOGIE-KOPLITZ-Referenzen.pdf). 
 
 ___
 
