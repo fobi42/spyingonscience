@@ -123,9 +123,13 @@ Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer L
 ▶︎ [Das Portfolio inkl. Leistungen, Erfahrungen und Qualifikationen rund um unser Umweltbildungsprojekt „SpyingOnScience“ finden Sie hier](/bildungsprojekte). 
 
 <br> <br> 
+
+<br> <br> 
+
 <br> <br> 
 <br> <br> 
-![spyingonscience.com.](/images/gallerie_footer_2026_.png "Diese coolen Dinge dürfeb wir bei der Arbeit machen!")
+<br> <br> 
+![spyingonscience.com.](/images/gallerie_footer_2026_.png "Diese coolen Dinge dürfen wir bei der Arbeit machen!")
 
 <br> <br> 
 <br> <br> 
@@ -134,11 +138,12 @@ Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer L
 <br> <br> 
 <br> <br> 
 
-* Auf [Mission](/ueber/) für Wasser & Wissen. 💚 
-* [Limnologie](/limnologie/) & [Bildungsarbeit](/wisskomm/) aus einer Hand. 🌍 
-* Projekte [in MUC](/archive/) & [bundesweit](/references/). 🔬  
+* Auf [Mission für Wasser & Wissen](/profil/). 💚 
+* [Limnologie](/hydrobiologie/) & [Bildungsarbeit](/bildungsprojekte/) aus einer Hand. 🌍 
+* Projekte in MUC & bundesweit. 🔬  
 * [Ihr Kontakt zu uns](/events/), z.B. gerne auch via [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988). 🤝   
 * Jetzt reinhören in unseren Beitrag zum ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 🎧 
+* Social Media: [instagram @SpyingOnScience](https://www.instagram.com/spyingonscience/)
 
 ###### Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience 
 

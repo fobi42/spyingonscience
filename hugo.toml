@@ -61,7 +61,7 @@ pagerSize = 9
 
 [[menu.main]]
     name = "  Aktuelles  "
-    url = "/news/"
+    url = "/aktuelles/"
     weight = 2
 
 [[menu.main]]
