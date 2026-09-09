@@ -46,7 +46,6 @@ Für besonders wichtig halten wir dabei auch den Bezug zum Menschen herzustellen
 
 Weiterführende Links:   
 ▶︎ [Flugdaten des "OAG: Flight Database & Statistics".](https://www.oag.com/airline-frequency-and-capacity-statistics#:~:text=SCHEDULED%20FLIGHT%20COUNTER&text=With%2014%2C098%2C739%20flights%20in%20total,flights%20per%20day%20is%20100%2C705.)   
-
 ▶︎ [Bildung für nachhaltige Entwicklung bis 2030.](https://www.bne-portal.de/bne/de/nationaler-aktionsplan/bildung-fuer-nachhaltige-entwicklung-bis-2030/bildung-fuer-nachhaltige-entwicklung-bis-2030.html)
 
 ___ 
@@ -56,10 +55,9 @@ Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie & Limnologie an.
 Zudem engagieren wir uns in unserem Umfeld für naturwissenschaftliche Bildung für alle Zielgruppen durch unser Umweltbildungsprojekt „SpyingOnScience“.   
 
 ##### Institutsleitung.  
-* Andrea Koplitz-Weißgerber   
-M. Sc. Biologie   
-Fachbereiche: Diatomeentaxonomie, Fachgutachten, Feldarbeit, Gewässerkartierung  
+Andrea Koplitz-Weißgerber, M. Sc. Biologie
 *„Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme, denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.“*   
+▶︎ [Details und Vita sind hier auf LinkedIn einsehbar](https://www.linkedin.com/in/andrea-koplitz-weissgerber/).
 
 <br> <br> 
 

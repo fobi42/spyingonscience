@@ -21,16 +21,16 @@ Wir entwicken und gestalten außerschulische Bildungsangebote. Wir machen Wissen
 Wir ...   
 <br> <br> 
   
-##### ... BESPIELEN Aktionsraum mit forschenden Umwelt-Spaß-Veranstaltungen.  
+**... BESPIELEN Aktionsraum mit forschenden Umwelt-Spaß-Veranstaltungen.** 
 Gemeinsam mit Ihnen oder auch in Ihrem Auftrag entwickeln wir Bildungsformate zu spannenden Inhalten im Bereich der Umweltwissenschaften; von Grundkonzepten aus der Biologie über Klima bis hin zum Themenkomplex Nachhaltigkeit. Ob neue Workshops, interaktive Projekte, Messestände oder ganze Veranstaltungsreihen: Wir unterstützen Sie bei der Konzeption, stehen beratend zur Seite und sorgen dafür, dass Ihre Inhalte verständlich, greifbar und mitreißend vermittelt werden - gerne auch auf dem Event selbst. Freuen Sie sich auf Formate, die Neugier wecken, Begeisterung entfachen und langfristig in den Köpfen bleiben. Lassen Sie uns gemeinsam Bildungsprojekte gestalten, die inspirieren, bewegen und wirken!  
 <br> <br> 
 
-##### ... BEWANTWORTEN brennende Fragen und finden dabei spannende Lösungen oder neue Ideenansätze.   
+**... BEWANTWORTEN brennende Fragen und finden dabei spannende Lösungen oder neue Ideenansätze.**   
 Veranstaltungen, die Wissen greifbar machen, Neugier wecken und Begeisterung entfachen gestalten wir mit Herzblut. Ob in Ihrem Unternehmen, Ihrem Wohnzimmer, im Klassenzimmer, im Museum oder draußen in der Natur – jede Veranstaltung wird individuell auf Ihr Publikum, Ihre Ziele & Ihre Umgebung abgestimmt. Freuen Sie sich auf ein spannendes, interaktives Erlebnis mit Raum für Fragen, für Diskussionen und für Aha-Momente.  
 Lassen Sie uns gemeinsam etwas bewegen – wir freuen uns auf Ihre Ideen & darauf, diese gemeinsam mit Ihnen zu beleben!  
 <br> <br>  
 
-##### ... BEWIRKEN Begeisterung für die belebte Umwelt und koppeln Empathie mit Neugier für Umweltthemen.   
+**... BEWIRKEN Begeisterung für die belebte Umwelt und koppeln Empathie mit Neugier für Umweltthemen.**   
 Als Teil eines großartigen museumspädagogischen Teams führen wir Workshops und Führungen rund um Mensch, Umwelt, Naturwissenschaft und Nachhaltigkeit in Zusammenarbeit mit den Einrichtungen der SNSB in München durch.  
 Klicken Sie sich doch mal durch die Internetpräsenzen des Museums Mensch und Natur im Nymphenburger Schloss und des BIOTOPIA Labs im Botanischen Garten. Wir freuen uns, wenn Sie hier fündig werden! Vielleicht sieht man sich ja!  
 Weiterführende Links:   
@@ -38,7 +38,8 @@ Weiterführende Links:
 ▶︎ [Museum Mensch und Natur](https://mmn-muenchen.snsb.de/fuehrungen-mehr/).  
 ▶︎ [BIOTOPIA Lab](https://biotopialab.snsb.de/programme/).   
 <br> <br> 
-##### ... BEFÜRWORTEN einen freien Zugang zu Bildungsangeboten für alle Menschen. 
+
+**... BEFÜRWORTEN einen freien Zugang zu Bildungsangeboten für alle Menschen.**   
 Deshalb nehmen wir Aufträge für ein Publikum allen Alters und allen Hintergrunds an. Im Sinne demokratischer Werte und der Wertschätzung der Menschenrechte, setzen wir uns für eine offene, vielfältige und tolerante Gesellschaft ein und stellen uns gegen Extremismus und Ausgrenzung.  
 Beispiele für Gruppen, die wir bereits erfolgreich betreut haben sind: 
 * Kitas, Kindergärten
