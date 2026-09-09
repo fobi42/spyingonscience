@@ -13,7 +13,10 @@ Fließgewässer und Seen sind komplexe Ökosysteme. Die besiedelnde biologische 
 
 HYDROBIOLOGIE KOPLITZ untersucht diese Zusammenhänge mit etablierter und modernster Technik und übersetzt messbare biologische Daten in belastbare fachliche Aussagen.  
 
-Unser Workflow: Wir führen entsprechend der europa- und landesweiten Standards professionelle Gewässerkartierungen mit moderner Technik vor Ort durch. Wissenschaftlich fundiert werden die Diatomeengesellschaften morphologisch analysiert. Die taxonomischen Ergebnisse werden mit gängigen Bewertungstools, abgerundet durch gutachterliche Expertise, in einem prägnanten Bericht zusammengefasst.  
+Unser Workflow in drei Sätzen:  
+Wir führen entsprechend der europa- und landesweiten Standards professionelle Gewässerkartierungen mit moderner Technik vor Ort durch.  
+Wissenschaftlich fundiert werden die Diatomeengesellschaften morphologisch analysiert.   
+Die taxonomischen Ergebnisse werden mit gängigen Bewertungstools, abgerundet durch gutachterliche Expertise, in einem prägnanten Bericht zusammengefasst.  
 
 ___
 #### Leistungskatalog.  
@@ -24,7 +27,7 @@ Wir ...
 * Kartierungsprotokollierung entsprechend des gewünschten Formulars
 * Kartierung von Substraten, Gewässerstruktur, Schüttung und Wasserkörper, Vegetiation, Zugägnlichkeit uvm. 
 
-##### ... BEPROBEN nach Verfahrensanleitung und mit modernster Ausrüstung. .  
+##### ... BEPROBEN nach Verfahrensanleitung und mit modernster Ausrüstung.   
 * Biologische Qualitätskomponenten: Diatomeen, Phytobenthos ohne Diatomeen (PoD) und Makrophyten inkl. Moose
 * Kartierungsprotokollierung entsprechend des gewünschten Formulars
 * Hydrophysiologische Messungen mit moderner Ausrüstung (Multiparameter Messgerät HANNA Instruments HI98494)
@@ -49,7 +52,7 @@ Wir ...
 * fachliche Stellungnahmen 
 * gewässerökologische Fachbeiträge  
 
-##### BERATEN persönlich bei individuellen Fragestellungen. 
+##### ... BERATEN persönlich bei individuellen Fragestellungen. 
 * allgemeine Fragestellungen in der Gewässerökologie 
 * Ausarbeitung von Monitoringkonzepten 
 * Innovatives, angepasstes und bewährtes Untersuchungsdesign 
@@ -102,12 +105,12 @@ ___
 
 #### Umwelt verstehen. Wissenschaft sichtbar machen. Zukunft gestalten.
 Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer Lebensräume bis hin zur verständlichen Kommunikation von Umwelttthemen und Wissenschaft. Einzigartig verbinden wir limnologische, ökologische und biologische Expertise zuweilen auch mit langjähriger Erfahrung in praxisnaher Wissensvermittlung. Informieren Sie sich gerne auch über dieses weitere Tätigkeitsfeld.  
-▶︎ Das Portfolio inkl. Leistungen, Erfahrungen und Qualifikationen rund um unser Umweltbildungsprojekt „SpyingOnScience“ finden Sie hier. 
+▶︎ [Das Portfolio inkl. Leistungen, Erfahrungen und Qualifikationen rund um unser Umweltbildungsprojekt „SpyingOnScience“ finden Sie hier](/bildungsprojekte/). 
 
 <br> <br> 
 <br> <br> 
 <br> <br> 
-![spyingonscience.com.](/images/gallerie_footer_2026_.png "Diese coolen Dinge darf ich bei meiner Arbeit machen!")
+![spyingonscience.com.](/images/gallerie_footer_2026_.png "Diese coolen Dinge dürfeb wir bei der Arbeit machen!")
 
 <br> <br> 
 <br> <br> 
@@ -116,15 +119,12 @@ Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer L
 <br> <br> 
 <br> <br> 
 
->Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
+* Auf [Mission](/ueber/) für Wasser & Wissen. 💚 
+* [Limnologie](/limnologie/) & [Bildungsarbeit](/wisskomm/) aus einer Hand. 🌍 
+* Projekte [in MUC](/archive/) & [bundesweit](/references/). 🔬  
+* [Ihr Kontakt zu uns](/events/), z.B. gerne auch via [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988). 🤝   
+* Jetzt reinhören in unseren Beitrag zum ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 🎧 
 
->* Biologin auf [Mission](/ueber/) für Wasser & Wissen. 💚 
->* [Limnologie](/limnologie/) & [Bildungsarbeit](/wisskomm/) aus einer Hand. 🌍 
->* Projekte [in MUC](/archive/) & [bundesweit](/references/). 🔬  
->* [Lernen wir uns kennen](/events/), z.B. gerne auch via [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988). 🤝   
->* Weitere Einblicke: [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/), [instagram](https://www.instagram.com/spyingonscience/), [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448). 👀 
-
->* Jetzt reinhören in den ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 🎧 
-
+###### Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience 
 
 ![spyingonscience.com.](/images/logo-375.png "Logo von spyingonscience.com.")
