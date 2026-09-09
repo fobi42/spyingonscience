@@ -64,17 +64,25 @@ ___
 #### Netzwerk. 
 
 Wir arbeiten mit renommierten, erfahrenen Personen und Büros aktiv an Projekten und im fachlichen Austausch zusammen. Darunter sind u. A. (alphabetisch): 
-* AGLHH - Arbeitsgemeinschaft Limnologie und Hydrologie in Hessen (Dr. Marcus Werum): Diatomeentaxonomie, Makrophyten (Moose), Kartierungen, Fachgutachten  
+* AGLHH - Arbeitsgemeinschaft Limnologie und Hydrologie in Hessen (Dr. Marcus Werum):   
+Diatomeentaxonomie, Makrophyten (Moose), Kartierungen, Fachgutachten  
 ▶︎ [Zur Webseite AGLHH](https://www.aglhh.de/)
-* ASAF-BIOSCIENCE (Titus Sparna): Diatomeenpräparation, Labordienstleistungen
-* Gewässerbewertung Goos (Dr. Cornelia Goos): Diatomeentaxonomie  
+* ASAF-BIOSCIENCE (Titus Sparna):  
+Diatomeenpräparation, Labordienstleistungen
+* Gewässerbewertung Goos (Dr. Cornelia Goos):  
+Diatomeentaxonomie  
 ▶︎ [Zur Webseite Gewässerbewertung Goos](https://gewaesserbewertung.goos.de/)
-* Gutachterbüro Bernd Humberg (WATERWORLD-CONSULT): PoD-Taxonomie, Makrophyten-Taxonomie, Fachgutachten, Kartierungen  
+* Gutachterbüro Bernd Humberg (WATERWORLD-CONSULT):  
+PoD-Taxonomie, Makrophyten-Taxonomie, Fachgutachten, Kartierungen, Feldansprache von PoD und Makrophyten (inkl. Moose).   
 ▶︎ [Zur Webseite WATERWORLD-CONSULT](https://www.waterworld-consult.de/)
-* Limnologie-Phykologie-Diatomologie (Dr. Lydia King): Diatomeentaxonomie 
-* Ökologische Gutachten Matthias Beck: Kartierung, Feldansprache von PoD und Makrophyten (inkl. Moose)
-* [µHoch3] – Sachverständigenbüro für Mykologie, Ökologie und Kryptogamentaxonomie (Dr. Manuel M. Striegel): Kartierung, Feldansprache von PoD und Makrophyten (inkl. Moose), Makophyten-Taxonomie, Fachgutachten 
-* Umweltplanung A. Hofmann (Dr. Andrea Hofmann): Diatomeentaxonomie
+* Limnologie-Phykologie-Diatomologie (Dr. Lydia King):  
+Diatomeentaxonomie, PoD-Fachkurse 
+* Ökologische Gutachten Matthias Beck:  
+Kartierung, Feldansprache von PoD und Makrophyten (inkl. Moose)
+* [µHoch3] – Sachverständigenbüro für Mykologie, Ökologie und Kryptogamentaxonomie (Dr. Manuel M. Striegel):  
+Kartierung, Feldansprache von PoD und Makrophyten (inkl. Moose), Makophyten-Taxonomie, Fachgutachten 
+* Umweltplanung A. Hofmann (Dr. Andrea Hofmann):  
+Diatomeentaxonomie
 ___ 
 
 #### Qualifikation.  
