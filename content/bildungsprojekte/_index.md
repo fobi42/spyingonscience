@@ -10,7 +10,7 @@ image: "diatoms.png"
 
 # **Umweltbildungsprojekt "SpyingOnScience".** 
 ___
-#### Fachlich fundierte Bewertung von Süßgewässern: Von der Probenahme und biologischen Untersuchung bis zur fachgutachterlichen Einordnung.  
+#### Motivierende Vermittlung von Umwelt- und Naturthemen: Von der didaktischen Konzeption und zielgruppengerechten Aufbereitung bis zur praxisnahen Bildungsveranstaltung oder Ausstellung. 
 
 Naturwissenschaftliche Inhalte direkt an den Menschen bringen und dadurch nachhaltig Umweltkompetenz zu vermitteln, zu fördern und zu stärken ist uns ein besonderes Anliegen. Wir betreiben nicht "einfach nur ein bisschen Wissenschschaftskommunikation nebenher". Wir erarbeiten Bildungskonzepte und bieten personalisierte Bildungs- und Umwelt-Spaß-Veranstaltungen an.   
 HYDROBIOLOGIE KOPLITZ hat 2021 das unabhängige Umweltbildungsprojekt "#SpyingOnScience" ins Leben gerufen und gestaltet seitdem erfolgreich unter diesem Slogan diverse Bildungsräume in und um München aktiv mit. 

@@ -15,13 +15,13 @@ Fließgewässer und Seen sind komplexe Ökosysteme. Die besiedelnde biologische 
 HYDROBIOLOGIE KOPLITZ untersucht diese Zusammenhänge mit etablierter und modernster Technik und übersetzt messbare biologische Daten in belastbare fachliche Aussagen.  
 
 Unser Workflow in drei Sätzen:  
-Wir führen entsprechend der europa- und landesweiten Standards professionelle Gewässerkartierungen mit moderner Technik vor Ort durch.  
-Wissenschaftlich fundiert werden die Diatomeengesellschaften morphologisch analysiert.   
-Die taxonomischen Ergebnisse werden mit gängigen Bewertungstools, abgerundet durch gutachterliche Expertise, in einem prägnanten Bericht zusammengefasst.  
+Wir führen entsprechend der europa- und landesweiten Standards professionelle Gewässerkartierungen mit moderner Technik vor Ort durch. Wissenschaftlich fundiert werden die Diatomeengesellschaften morphologisch analysiert. Die taxonomischen Ergebnisse werden mit gängigen Bewertungstools, abgerundet durch gutachterliche Expertise, in einem prägnanten Bericht zusammengefasst.  
 
 ___
 #### Leistungskatalog.  
 Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie & Gewässerökologie an.  
+<br> <br>   
+
 Wir ...  
 
 <br> <br> 
@@ -83,15 +83,15 @@ ___
 Wir arbeiten mit renommierten, erfahrenen Personen und Büros aktiv an Projekten und im fachlichen Austausch zusammen. Darunter sind u. A. (alphabetisch): 
 * AGLHH - Arbeitsgemeinschaft Limnologie und Hydrologie in Hessen (Dr. Marcus Werum):   
 Diatomeentaxonomie, Makrophyten (Moose), Kartierungen, Fachgutachten  
-▶︎ [Zur Webseite AGLHH](https://www.aglhh.de/)
+▶︎ [Zur Webseite AGLHH](https://www.aglhh.de/).
 * ASAF-BIOSCIENCE (Titus Sparna):  
 Diatomeenpräparation, Labordienstleistungen
 * Gewässerbewertung Goos (Dr. Cornelia Goos):  
 Diatomeentaxonomie  
-▶︎ [Zur Webseite Gewässerbewertung Goos](https://gewaesserbewertung.goos.de/)
+▶︎ [Zur Webseite Gewässerbewertung Goos](https://gewaesserbewertung.goos.de/).
 * Gutachterbüro Bernd Humberg (WATERWORLD-CONSULT):  
 PoD-Taxonomie, Makrophyten-Taxonomie, Fachgutachten, Kartierungen, Feldansprache von PoD und Makrophyten (inkl. Moose).   
-▶︎ [Zur Webseite WATERWORLD-CONSULT](https://www.waterworld-consult.de/)
+▶︎ [Zur Webseite WATERWORLD-CONSULT](https://www.waterworld-consult.de/).
 * Limnologie-Phykologie-Diatomologie (Dr. Lydia King):  
 Diatomeentaxonomie, PoD-Fachkurse 
 * Ökologische Gutachten Matthias Beck:  
@@ -113,7 +113,8 @@ Unsere Expertise wenden wir erfolgreich seit 2022 an. Somit waren wir neben unse
 * Technische Universität München
 * Landesamt für Natur, Umwelt und Klima NRW (LANUK)
 * Landesamt für Umwelt Rheinland-Pfalz 
-* Wasserwirtschaftsamt Ansbach (Bayern).  
+* Wasserwirtschaftsamt Ansbach (Bayern).   
+
 ▶︎ [Eine Übersicht ausgewählter vergangener Projekte finden Sie hier (PDF)](/images/HYDROBIOLOGIE-KOPLITZ-Referenzen.pdf). 
 
 ___
