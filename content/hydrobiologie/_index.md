@@ -17,12 +17,13 @@ Unser Workflow: Wir führen entsprechend der europa- und landesweiten Standards 
 
 ___
 #### Leistungskatalog.  
+  
 
-###### BEGUTACHTEN: Gewässerkartierung vor Ort. 
+##### BEGUTACHTEN: Gewässerkartierung vor Ort. 
 * Kartierungsprotokollierung entsprechend des gewünschten Formulars
 * Kartierung von Substraten, Gewässerstruktur, Schüttung und Wasserkörper, Vegetiation, Zugägnlichkeit uvm. 
 
-###### BEPROBEN: Feldarbeit und Monitoring an Fließgewässern vor Ort.  
+##### BEPROBEN: Feldarbeit und Monitoring an Fließgewässern vor Ort.  
 * Biologische Qualitätskomponenten: Diatomeen, Phytobenthos ohne Diatomeen (PoD) und Makrophyten inkl. Moose
 * Kartierungsprotokollierung entsprechend des gewünschten Formulars
 * Hydrophysiologische Messungen mit moderner Ausrüstung (Multiparameter Messgerät HANNA Instruments HI98494)
@@ -30,7 +31,7 @@ ___
 * Probenahme im Gelände und Probenbearbeitung im Feldlabor
 * Mobilität: Führerscheine B/BE und SBF-Binnen/-See, eigener PKW  
 
-###### BEWERTEN: Diatomeentaxonomie von Phytobenthosproben aus Seen und  Fließgewässern.  
+##### BEWERTEN: Diatomeentaxonomie von Phytobenthosproben aus Seen und  Fließgewässern.  
 * Vorgehen gemäß Angaben der WRRL 
 * Analyse der Diatomeenzusammensetzung eines fixierten Diatomeenpräparats
  * Zeiss Axiolab 5 (mobil, auch vor Ort): aplan.-achrom. Kondensor, Objektiv EC Plan-Neofluar 100x/1,3 Oil Ph3 M27 mit Zeiss Immersol 518 N. 
@@ -40,14 +41,14 @@ ___
 * Aufbereitung der Taxalisten in Microsoft Excel, RStudio entsprechend aktuellen Bundestaxalisten bzw. Zieleingabeprogrammen (BOG, PERLA, Phylib)
 * Eingabe in Zieleingabeprogramme (BOG, PERLA, Phylib)  
 
-###### BERICHTEN: Gutachterliche Berichte und taxonomische Datenauswertung.  
+##### BERICHTEN: Gutachterliche Berichte und taxonomische Datenauswertung.  
 * Erstellung von Gutachten auf Grundlage erhobener biologischer und gewässerökologischer Daten
 * Auswertung, Plausibilisierung und fachliche Interpretation taxonomischer Daten 
 * Aufbereitung und gutachterliche Bewertung der (PHYLIB-) Ergebnisse für die Dokumentation und Beurteilung des Gewässerzustands
 * fachliche Stellungnahmen 
 * gewässerökologische Fachbeiträge  
 
-###### BERATEN: Wir unterstützen Sie mit Expertise bei weitreichenden gewässerökologischen Inhalten. 
+##### BERATEN: Wir unterstützen Sie mit Expertise bei weitreichenden gewässerökologischen Inhalten. 
 * allgemeine Fragestellungen in der Gewässerökologie 
 * Ausarbeitung von Monitoringkonzepten 
 * Innovatives, angepasstes und bewährtes Untersuchungsdesign 

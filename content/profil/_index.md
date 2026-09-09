@@ -44,22 +44,25 @@ Aber was heißt das jetzt genau? Hier ist der Knackpunkt: Bildung ist der Schlü
 Durch unseren Tätigkeitsschwerpunkt in den Umweltwissenschaften forschen wir über Arten, Ökosysteme und deren Wechselwirkungen. Dieses Wissen müssen wir teilen. Denn nicht alle haben die Möglichkeit und Voraussetzungen, in ihrem Alltag unsere Umwelt so tief verstehen zu lernen. An genau dieser Schnittstelle braucht es jetzt Kommunikation und Interaktion! Das große Ziel ist, unsere Begeisterung für bio- und geowissenschaftliche Systeme teilen und zu eigenem, verantwortungsbewusstem Handeln inspirieren und motivieren. Seit 2021 schaffen wir es erfolgreich komplexe Umweltzusammenhänge anschaulich zu vermitteln und erlebbar zu machen.  
 Für besonders wichtig halten wir dabei auch den Bezug zum Menschen herzustellen und dessen Einwirkung auf diese Systeme aufzuzeigen und nachempfindbar zu machen. Wir möchten Neugier wecken, Hemmschwellen überschreiten, Verständnis fördern und Menschen dazu befähigen, aktiv zu einer nachhaltigen Entwicklung unseres Planeten und unserer Gesellschaft beizutragen. Wir haben vor diesem Hintergrund bereits vielfältige Bildungsformate mitgestaltet und (weiter-)entwickelt.  
 
+Weiterführende Links: 
 ▶︎ [Flugdaten des "OAG: Flight Database & Statistics".](https://www.oag.com/airline-frequency-and-capacity-statistics#:~:text=SCHEDULED%20FLIGHT%20COUNTER&text=With%2014%2C098%2C739%20flights%20in%20total,flights%20per%20day%20is%20100%2C705.)  
 ▶︎ [Bildung für nachhaltige Entwicklung bis 2030.](https://www.bne-portal.de/bne/de/nationaler-aktionsplan/bildung-fuer-nachhaltige-entwicklung-bis-2030/bildung-fuer-nachhaltige-entwicklung-bis-2030.html)
 
 ___ 
 
 #### Aktionsstruktur. 
+  
 
 ##### Institutsleitung.
 Andrea Koplitz-Weißgerber  
 M. Sc. Biologie  
-
 Fachbereiche: Diatomeentaxonomie · Fachgutachten · Feldarbeit · Gewässerkartierung  
 
-*„Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme, denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.“*  
+*„Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme, denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.“*   
 
-###### Fachbereiche. 
+  
+
+##### Fachbereiche. 
 
 Unsere institutionelle Kompetenz wird gestärkt durch fachliche Kooperationen in den Bereichen: 
 
