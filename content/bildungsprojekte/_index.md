@@ -10,7 +10,6 @@ ___
 #### Fachlich fundierte Bewertung von Süßgewässern: Von der Probenahme und biologischen Untersuchung bis zur fachgutachterlichen Einordnung.  
 
 Naturwissenschaftliche Inhalte direkt an den Menschen bringen und dadurch nachhaltig Umweltkompetenz zu vermitteln, zu fördern und zu stärken ist uns ein besonderes Anliegen. Wir betreiben nicht "einfach nur ein bisschen Wissenschschaftskommunikation nebenher". Wir erarbeiten Bildungskonzepte und bieten personalisierte Bildungs- und Umwelt-Spaß-Veranstaltungen an.   
-
 HYDROBIOLOGIE KOPLITZ hat 2021 das unabhängige Umweltbildungsprojekt "#SpyingOnScience" ins Leben gerufen und gestaltet seitdem erfolgreich unter diesem Slogan diverse Bildungsräume in und um München aktiv mit. 
 
 ___
@@ -21,7 +20,7 @@ Wir entwicken und gestalten außerschulische Bildungsangebote. Wir machen Wissen
 Wir ...   
 <br> <br> 
   
-**... BESPIELEN Aktionsraum mit forschenden Umwelt-Spaß-Veranstaltungen.** 
+**... BESPIELEN Aktionsraum mit forschenden Umwelt-Spaß-Veranstaltungen.**   
 Gemeinsam mit Ihnen oder auch in Ihrem Auftrag entwickeln wir Bildungsformate zu spannenden Inhalten im Bereich der Umweltwissenschaften; von Grundkonzepten aus der Biologie über Klima bis hin zum Themenkomplex Nachhaltigkeit. Ob neue Workshops, interaktive Projekte, Messestände oder ganze Veranstaltungsreihen: Wir unterstützen Sie bei der Konzeption, stehen beratend zur Seite und sorgen dafür, dass Ihre Inhalte verständlich, greifbar und mitreißend vermittelt werden - gerne auch auf dem Event selbst. Freuen Sie sich auf Formate, die Neugier wecken, Begeisterung entfachen und langfristig in den Köpfen bleiben. Lassen Sie uns gemeinsam Bildungsprojekte gestalten, die inspirieren, bewegen und wirken!  
 <br> <br> 
 
@@ -62,13 +61,13 @@ ___
 
 #### Netzwerk. 
 
-Wir arbeiten mit renommierten, erfahrenen privaten und öffentlichen Institutionen, Trägern und Auftraggebenden aktiv an Projekten und im fachlichen Austausch zusammen. Darunter sind u. A. (alphabetisch): 
+Wir arbeiten mit privaten und öffentlichen Institutionen, Trägern und Auftraggebenden aktiv an Projekten und im fachlichen Austausch zusammen. Darunter sind u. A.: 
 * jährlich über 50 Schulen, Bildungs- und Sozialeinrichtungen in München & Europa
 * Stadtjugendamt München, Landeshauptstadt München
 * [SNSB – Staatliche Naturwissenschaftliche Sammlungen Bayerns](https://snsb.de/) 
   * [Museum Mensch und Natur](https://mmn-muenchen.snsb.de/)
   * [Biotopia Lab](https://biotopialab.snsb.de/)
-* Deutsches Museum (Museumsinsel) als Junior MComm in Anstellung
+* Deutsches Museum (Museumsinsel)
 u.v.a. 
 ___ 
 
@@ -82,7 +81,7 @@ ___
 
 #### Gewässer verstehen. Ressourcen schützen. Zukunft gestalten.
 Einzigartig verbinden wir limnologische, ökologische und biologische Expertise zuweilen auch mit der langjährigen Erfahrung in praxisnaher Wissensvermittlung. Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer Lebensräume bis hin zur fachgutachterlichen Berichterstattung gewässerökologischer Forschung. Informieren Sie sich gerne auch über dieses weitere Tätigkeitsfeld.  
-▶︎ [Das Portfolio inkl. Leistungen, Erfahrungen und Qualifikationen rund um unser Umweltbildungsprojekt „SpyingOnScience“ finden Sie hier](/hydrobiologie/). 
+▶︎ [Das Portfolio inkl. Leistungen, Erfahrungen und Qualifikationen rund um Hydrobiologie und Gewässerfachgutachten  finden Sie hier](/hydrobiologie/). 
 
 <br> <br> 
 <br> <br> 

@@ -11,12 +11,12 @@ image: "images/kalender.png"
 # Events. 
 ___ 
 
-Nutzen Sie die Gelegenheit mich persönlich kennenzulernen!  
-Viele Veranstaltungen können dank meinen Partnerinstitutionen oft zu einem **geringen Beitrag oder gar ganz kostenlos** besucht werden!    
+Nutzen Sie die Gelegenheit uns persönlich kennenzulernen!  
+Viele Veranstaltungen können dank unseren Partnerinstitutionen oft zu einem **geringen Beitrag oder gar ganz kostenlos** besucht werden!    
 ___
 
-#### 📣📣📣 ANMELDUNG ZUR ONLINE-VERANSTALTUNG IM SEPTEMBER & OKTOBER jetzt geöffnet. 
-Im Rahmen der Deutschen Aktionstage Nachhaltigkeit & passend zum Fokusthema Wasser nehme ich teil & biete euch kostenlos seltene Einblicke!  
+#### 📣📣📣 ANMELDUNG ZUR ONLINE-VERANSTALTUNG IM SEPTEMBER UND OKTOBER AB SOFORT. 
+Im Rahmen der Deutschen Aktionstage Nachhaltigkeit und passend zum Fokusthema Wasser nehmen wir teil und bieten Ihnen kostenlos seltene Einblicke!  
 "Das lebt in meinem Wasser: Live-Mikroskopie mit einer Gewässerökologin".   
 ▶︎ [Hier geht's weiter zur Anmeldung](/anmeldung/).   
 
@@ -30,7 +30,7 @@ Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB).
 <br> <br> 
 
 Deutsches Museum (München Praterinsel).  
-▶︎ [Öffentliche Programme für Familien & Interessierte](/events-dm/). 
+▶︎ [Öffentliche Programme für Familien und Interessierte](/events-dm/). 
 
 <br> <br> 
 
@@ -131,10 +131,10 @@ ___
 <br> <br> 
 
   
+
 <br> <br> 
 <br> <br> 
-<br> <br> 
-![spyingonscience.com.](/images/gallerie_footer_2026_.png "Diese coolen Dinge darf ich bei meiner Arbeit machen!")
+![spyingonscience.com.](/images/gallerie_footer_2026_.png "Diese coolen Dinge dürfen wir bei der Arbeit machen!")
 
 <br> <br> 
 <br> <br> 
@@ -143,15 +143,12 @@ ___
 <br> <br> 
 <br> <br> 
 
->Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
+* Auf [Mission](/ueber/) für Wasser & Wissen. 💚 
+* [Limnologie](/limnologie/) & [Bildungsarbeit](/wisskomm/) aus einer Hand. 🌍 
+* Projekte [in MUC](/archive/) & [bundesweit](/references/). 🔬  
+* [Ihr Kontakt zu uns](/events/), z.B. gerne auch via [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988). 🤝   
+* Jetzt reinhören in unseren Beitrag zum ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 🎧 
 
->* Biologin auf [Mission](/ueber/) für Wasser & Wissen. 💚 
->* [Limnologie](/limnologie/) & [Bildungsarbeit](/wisskomm/) aus einer Hand. 🌍 
->* Projekte [in MUC](/archive/) & [bundesweit](/references/). 🔬  
->* [Lernen wir uns kennen](/events/), z.B. gerne auch via [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988). 🤝   
->* Weitere Einblicke: [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/), [instagram](https://www.instagram.com/spyingonscience/), [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448). 👀 
-
->* Jetzt reinhören in den ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 🎧 
-
+###### Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience 
 
 ![spyingonscience.com.](/images/logo-375.png "Logo von spyingonscience.com.")

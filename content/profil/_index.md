@@ -5,6 +5,8 @@ draft: false
 image: "scicomm.png"
 ---
 
+![spyingonscience.com.](/images/me-smile.png "Wir freuen uns sehr über das Interesse und auf die zukünftige Zusammenarbeit!") 
+
 # **Unsere Passion und Mission.** 
 ___ 
 
@@ -45,7 +47,7 @@ Durch unseren Tätigkeitsschwerpunkt in den Umweltwissenschaften forschen wir ü
 Für besonders wichtig halten wir dabei auch den Bezug zum Menschen herzustellen und dessen Einwirkung auf diese Systeme aufzuzeigen und nachempfindbar zu machen. Wir möchten Neugier wecken, Hemmschwellen überschreiten, Verständnis fördern und Menschen dazu befähigen, aktiv zu einer nachhaltigen Entwicklung unseres Planeten und unserer Gesellschaft beizutragen. Wir haben vor diesem Hintergrund bereits vielfältige Bildungsformate mitgestaltet und (weiter-)entwickelt.  
 
 Weiterführende Links:   
-▶︎ [Flugdaten des "OAG: Flight Database & Statistics".](https://www.oag.com/airline-frequency-and-capacity-statistics#:~:text=SCHEDULED%20FLIGHT%20COUNTER&text=With%2014%2C098%2C739%20flights%20in%20total,flights%20per%20day%20is%20100%2C705.)   
+▶︎ [Flugdaten des "OAG: Flight Database & Statistics".](https://www.oag.com/airline-frequency-and-capacity-statistics#:~:text=SCHEDULED%20FLIGHT%20COUNTER&text=With%2014%2C098%2C739%20flights%20in%20total,flights%20per%20day%20is%20100%2C705.)  
 ▶︎ [Bildung für nachhaltige Entwicklung bis 2030.](https://www.bne-portal.de/bne/de/nationaler-aktionsplan/bildung-fuer-nachhaltige-entwicklung-bis-2030/bildung-fuer-nachhaltige-entwicklung-bis-2030.html)
 
 ___ 
@@ -54,28 +56,38 @@ ___
 Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie & Limnologie an. 
 Zudem engagieren wir uns in unserem Umfeld für naturwissenschaftliche Bildung für alle Zielgruppen durch unser Umweltbildungsprojekt „SpyingOnScience“.   
 
-##### Institutsleitung.  
-Andrea Koplitz-Weißgerber, M. Sc. Biologie
+<br> <br> 
+
+**Institutsleitung.**  
+Andrea Koplitz-Weißgerber, M. Sc. Biologie   
 *„Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme, denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.“*   
 ▶︎ [Details und Vita sind hier auf LinkedIn einsehbar](https://www.linkedin.com/in/andrea-koplitz-weissgerber/).
 
 <br> <br> 
 
-##### Fachbereiche. 
+**Fachbereiche.** 
 Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Kooperationen in den Bereichen:   
 * Diatomeentaxonomie 
 * Fachgutachten 
 * Feldarbeit 
 * Gewässerkartierung 
+* Museumspädagogik
 * Labordienstleistungen 
 * Makrophyten-Taxonomie (inkl. Moose) 
 * PoD-Taxonomie    
 ▶︎ [Weitere Informationen zu unseren Netzwerkpartnern finden Sie hier](/hydrobiologie/). 
- 
+
+___ 
+
+#### Leistungsportfolio. 
+Einzigartig verbinden wir limnologische, ökologische und biologische Expertise zuweilen auch mit der langjährigen Erfahrung in praxisnaher Wissensvermittlung. Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer Lebensräume bis hin zur fachgutachterlichen Berichterstattung gewässerökologischer Forschung.  
+▶︎ [Hydrobiologie und Gewässerfachgutachten](/hydrobiologie/).   
+▶︎ [Umweltbildungsprojekt „SpyingOnScience“](/bildungsprojekte).  
+
 <br> <br> 
 <br> <br> 
 <br> <br> 
-![spyingonscience.com.](/images/gallerie_footer_2026_.png "Diese coolen Dinge darf ich bei meiner Arbeit machen!")
+![spyingonscience.com.](/images/gallerie_footer_2026_.png "Diese coolen Dinge dürfen wir bei der Arbeit machen!")
 
 <br> <br> 
 <br> <br> 
@@ -84,15 +96,12 @@ Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Koo
 <br> <br> 
 <br> <br> 
 
->Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience mit Andrea.  
+* Auf [Mission](/ueber/) für Wasser & Wissen. 💚 
+* [Limnologie](/limnologie/) & [Bildungsarbeit](/wisskomm/) aus einer Hand. 🌍 
+* Projekte [in MUC](/archive/) & [bundesweit](/references/). 🔬  
+* [Ihr Kontakt zu uns](/events/), z.B. gerne auch via [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988). 🤝   
+* Jetzt reinhören in unseren Beitrag zum ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 🎧 
 
->* Biologin auf [Mission](/ueber/) für Wasser & Wissen. 💚 
->* [Limnologie](/limnologie/) & [Bildungsarbeit](/wisskomm/) aus einer Hand. 🌍 
->* Projekte [in MUC](/archive/) & [bundesweit](/references/). 🔬  
->* [Lernen wir uns kennen](/events/), z.B. gerne auch via [E-Mail (spyingonscience@posteo.com)](mailto:spyingonscience@posteo.com?subject=Kontaktaufnahme%20über%20die%20Webseite%20spyingonscience.com) oder Telefon/WhatsApp (+49 160 9627 2988). 🤝   
->* Weitere Einblicke: [LinkedIn](https://www.linkedin.com/in/andrea-koplitz-weissgerber/), [instagram](https://www.instagram.com/spyingonscience/), [researchgate](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber), [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-8429-5448). 👀 
-
->* Jetzt reinhören in den ["Doktopus - Der Wissenspodcast mit Dora und Dominic: Wichtige Winzlinge: Kieselalgen sind überall!"](https://wissenschaftspodcasts.de/podcasts/doktopus-der-wissenspodcast-mit-dora-und-dominic/wichtige-winzlinge-kieselalgen-sind-ueberall-10088045/). 🎧 
-
+###### Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus! #SpyingOnScience 
 
 ![spyingonscience.com.](/images/logo-375.png "Logo von spyingonscience.com.")

@@ -4,6 +4,7 @@ date: 2025-05-08T20:52:58+02:00
 draft: false
 image: "diatoms.png"
 ---
+![spyingonscience.com.](/images/me-thinking.png "Welche Achnanthidium-Art haben wir hier gleich wieder?")
 
 # **Hydrobiologische Untersuchungen und Gewässerfachgutachten.** 
 ___
@@ -23,11 +24,15 @@ ___
 Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie & Gewässerökologie an.  
 Wir ...  
 
-##### ... BEGUTACHTEN die Gewässerstruktur vor Ort systematisch und methodisiert.  
+<br> <br> 
+
+**... BEGUTACHTEN die Gewässerstruktur vor Ort systematisch und methodisiert.**  
 * Kartierungsprotokollierung entsprechend des gewünschten Formulars
 * Kartierung von Substraten, Gewässerstruktur, Schüttung und Wasserkörper, Vegetiation, Zugägnlichkeit uvm. 
 
-##### ... BEPROBEN nach Verfahrensanleitung und mit modernster Ausrüstung.   
+<br> <br> 
+
+**... BEPROBEN nach Verfahrensanleitung und mit modernster Ausrüstung.**   
 * Biologische Qualitätskomponenten: Diatomeen, Phytobenthos ohne Diatomeen (PoD) und Makrophyten inkl. Moose
 * Kartierungsprotokollierung entsprechend des gewünschten Formulars
 * Hydrophysiologische Messungen mit moderner Ausrüstung (Multiparameter Messgerät HANNA Instruments HI98494)
@@ -35,7 +40,9 @@ Wir ...
 * Probenahme im Gelände und Probenbearbeitung im Feldlabor
 * Mobilität: Führerscheine B/BE und SBF-Binnen/-See, eigener PKW  
 
-##### ... BEWERTEN Diatomeengesellschaften wissenschaftlich fundiert.   
+<br> <br> 
+
+**... BEWERTEN Diatomeengesellschaften wissenschaftlich fundiert.**   
 * Vorgehen gemäß Angaben der WRRL 
 * Analyse der Diatomeenzusammensetzung eines fixierten Diatomeenpräparats
     * Zeiss Axiolab 5 (mobil, auch vor Ort): aplan.-achrom. Kondensor, Objektiv EC Plan-Neofluar 100x/1,3 Oil Ph3 M27 mit Zeiss Immersol 518 N. 
@@ -45,14 +52,18 @@ Wir ...
 * Aufbereitung der Taxalisten in Microsoft Excel, RStudio entsprechend aktuellen Bundestaxalisten bzw. Zieleingabeprogrammen (BOG, PERLA, Phylib)
 * Eingabe in Zieleingabeprogramme (BOG, PERLA, Phylib)  
 
-##### ... BERICHTEN prägnant und mit hydrobiologischer Expertise.  
+<br> <br> 
+
+**... BERICHTEN prägnant und mit hydrobiologischer Expertise.**  
 * Erstellung von Gutachten auf Grundlage erhobener biologischer und gewässerökologischer Daten
 * Auswertung, Plausibilisierung und fachliche Interpretation taxonomischer Daten 
 * Aufbereitung und gutachterliche Bewertung der (PHYLIB-) Ergebnisse für die Dokumentation und Beurteilung des Gewässerzustands
 * fachliche Stellungnahmen 
 * gewässerökologische Fachbeiträge  
 
-##### ... BERATEN persönlich bei individuellen Fragestellungen. 
+<br> <br> 
+
+**... BERATEN persönlich bei individuellen Fragestellungen.** 
 * allgemeine Fragestellungen in der Gewässerökologie 
 * Ausarbeitung von Monitoringkonzepten 
 * Innovatives, angepasstes und bewährtes Untersuchungsdesign 
@@ -93,19 +104,23 @@ ___
 
 #### Qualifikation.  
 Mit großer Begeisterung etablieren wir uns im Bereich der Gewässeruntersuchung mit besonderem Augenmerk auf Gewässerbotanik inkl. Phykologie mit Expertise in der Diatomeentaxonomie. Die Mitarbeitenden werden kontinuierlich fortgebildet.  
-▶︎ Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF). 
+▶︎ [Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF)](/HYDROBIOLOGIE-KOPLITZ-Info.pdf). 
 
 ___ 
 
 #### Referenzen. 
-Unsere Expertise wenden wir erfolgreich seit 2022 an. Somit waren wir neben unseren aktuellen Netzwerkkooperationen bereits tätig für die Technische Universität München, das Landesamt für Natur, Umwelt und Klima NRW, das Landesamt für Umwelt Rheinland-Pfalz und das Wasserwirtschaftsamt Ansbach (Bayern).  
-▶︎ Eine Übersicht ausgewählter vergangener Projekte finden Sie hier (PDF). 
+Unsere Expertise wenden wir erfolgreich seit 2022 an. Somit waren wir neben unseren aktuellen Netzwerkkooperationen bereits tätig für:
+* Technische Universität München
+* Landesamt für Natur, Umwelt und Klima NRW (LANUK)
+* Landesamt für Umwelt Rheinland-Pfalz 
+* Wasserwirtschaftsamt Ansbach (Bayern).  
+▶︎ [Eine Übersicht ausgewählter vergangener Projekte finden Sie hier (PDF)](/HYDROBIOLOGIE-KOPLITZ-Referenzen.pdf). 
 
 ___
 
 #### Umwelt verstehen. Wissenschaft sichtbar machen. Zukunft gestalten.
 Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer Lebensräume bis hin zur verständlichen Kommunikation von Umwelttthemen und Wissenschaft. Einzigartig verbinden wir limnologische, ökologische und biologische Expertise zuweilen auch mit langjähriger Erfahrung in praxisnaher Wissensvermittlung. Informieren Sie sich gerne auch über dieses weitere Tätigkeitsfeld.  
-▶︎ [Das Portfolio inkl. Leistungen, Erfahrungen und Qualifikationen rund um unser Umweltbildungsprojekt „SpyingOnScience“ finden Sie hier](/bildungsprojekte/). 
+▶︎ [Das Portfolio inkl. Leistungen, Erfahrungen und Qualifikationen rund um unser Umweltbildungsprojekt „SpyingOnScience“ finden Sie hier](/bildungsprojekte). 
 
 <br> <br> 
 <br> <br> 
