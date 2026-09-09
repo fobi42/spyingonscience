@@ -56,20 +56,23 @@ Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie & Limnologie an.
 Zudem engagieren wir uns in unserem Umfeld für naturwissenschaftliche Bildung für alle Zielgruppen durch unser Umweltbildungsprojekt „SpyingOnScience“.   
 
 ##### Institutsleitung.  
-
->> Andrea Koplitz-Weißgerber  
->> M. Sc. Biologie  
->> Fachbereiche: Diatomeentaxonomie · Fachgutachten · Feldarbeit · Gewässerkartierung  
-
-###### *„Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme, denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.“*   
+* Andrea Koplitz-Weißgerber   
+M. Sc. Biologie   
+Fachbereiche: Diatomeentaxonomie, Fachgutachten, Feldarbeit, Gewässerkartierung  
+*„Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme, denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.“*   
 
 <br> <br> 
 
 ##### Fachbereiche. 
-
->Unsere institutionelle Kompetenz wird gestärkt durch fachliche Kooperationen in den Bereichen:   
->Diatomeentaxonomie · Fachgutachten · Feldarbeit · Gewässerkartierung · Labordienstleistungen · Makrophyten-Taxonomie (inkl. Moose) · PoD-Taxonomie    
->▶︎ [Weitere Informationen zu unseren Partnerinstitutionen finden Sie hier](/hydrobiologie/). 
+Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Kooperationen in den Bereichen:   
+* Diatomeentaxonomie 
+* Fachgutachten 
+* Feldarbeit 
+* Gewässerkartierung 
+* Labordienstleistungen 
+* Makrophyten-Taxonomie (inkl. Moose) 
+* PoD-Taxonomie    
+▶︎ [Weitere Informationen zu unseren Netzwerkpartnern finden Sie hier](/hydrobiologie/). 
  
 <br> <br> 
 <br> <br> 

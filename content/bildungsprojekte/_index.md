@@ -16,11 +16,11 @@ HYDROBIOLOGIE KOPLITZ hat 2021 das unabhängige Umweltbildungsprojekt "#SpyingOn
 ___
 #### Leistungskatalog.  
 Wir entwicken und gestalten außerschulische Bildungsangebote. Wir machen Wissen praxisnah erlebbar und eröffnen neue Lernräume. Gerne passen wir das Angebot an Ihre Wünsche und Gruppengröße an.  
-<br> <br> 
+<br> <br>   
 
-Wir ...  
+Wir ...   
 <br> <br> 
-
+  
 ##### ... BESPIELEN Aktionsraum mit forschenden Umwelt-Spaß-Veranstaltungen.  
 Gemeinsam mit Ihnen oder auch in Ihrem Auftrag entwickeln wir Bildungsformate zu spannenden Inhalten im Bereich der Umweltwissenschaften; von Grundkonzepten aus der Biologie über Klima bis hin zum Themenkomplex Nachhaltigkeit. Ob neue Workshops, interaktive Projekte, Messestände oder ganze Veranstaltungsreihen: Wir unterstützen Sie bei der Konzeption, stehen beratend zur Seite und sorgen dafür, dass Ihre Inhalte verständlich, greifbar und mitreißend vermittelt werden - gerne auch auf dem Event selbst. Freuen Sie sich auf Formate, die Neugier wecken, Begeisterung entfachen und langfristig in den Köpfen bleiben. Lassen Sie uns gemeinsam Bildungsprojekte gestalten, die inspirieren, bewegen und wirken!  
 <br> <br> 
