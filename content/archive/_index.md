@@ -8,7 +8,7 @@ draft: false
 # Veranstaltungsarchiv. 
 ___
 
-Zu meinen Arbeitgebenden, Auftraggebenden & Kooperationen zählen u. A. 
+Zu unseren Arbeitgebenden, Auftraggebenden & Kooperationen zählen u. a. 
 * jährlich über 50 Schulen, Bildungs- & Sozialeinrichtungen in München & Europa
 * Stadtjugendamt München, Landeshauptstadt München
 * [SNSB – Staatliche Naturwissenschaftliche Sammlungen Bayerns](https://snsb.de/) 
@@ -17,7 +17,7 @@ Zu meinen Arbeitgebenden, Auftraggebenden & Kooperationen zählen u. A.
 * [Deutsches Museum (Museumsinsel)](https://www.deutsches-museum.de/museum/ueber-uns/bildung/tinkering)  
 u.v.a. 
 ___
-Hier finden Sie eine chronologische Übersicht vergangener öffentlicher Veranstaltungen – als Einblick in meine bisherige Arbeit. 
+Hier finden Sie eine chronologische, wenn auch ein wenig unformatierte, Übersicht vergangener öffentlicher Veranstaltungen – als Einblick in unsere bisherige Arbeit. 
 ___
 
 

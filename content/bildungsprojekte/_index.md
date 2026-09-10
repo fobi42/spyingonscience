@@ -12,12 +12,12 @@ image: "diatoms.png"
 ___
 #### Motivierende Vermittlung von Umwelt- und Naturthemen: Von der didaktischen Konzeption und zielgruppengerechten Aufbereitung bis zur praxisnahen Bildungsveranstaltung oder Ausstellung. 
 
-Naturwissenschaftliche Inhalte direkt an den Menschen bringen und dadurch nachhaltig Umweltkompetenz zu vermitteln, zu fördern und zu stärken ist uns ein besonderes Anliegen. Wir betreiben nicht "einfach nur ein bisschen Wissenschschaftskommunikation nebenher". Wir erarbeiten Bildungskonzepte und bieten personalisierte Bildungs- und Umwelt-Spaß-Veranstaltungen an.   
+Es ist uns ein besonderes Anliegen, naturwissenschaftliche Inhalte direkt zu den Menschen zu bringen und dadurch Umweltkompetenz nachhaltig zu vermitteln und zu stärken. Wir betreiben nicht "einfach nur ein bisschen Wissenschaftskommunikation nebenher". Wir erarbeiten Bildungskonzepte und bieten personalisierte Bildungs- und Umwelt-Spaß-Veranstaltungen an.   
 HYDROBIOLOGIE KOPLITZ hat 2021 das unabhängige Umweltbildungsprojekt "#SpyingOnScience" ins Leben gerufen und gestaltet seitdem erfolgreich unter diesem Slogan diverse Bildungsräume in und um München aktiv mit. 
 
 ___
 #### Leistungskatalog.  
-Wir entwicken und gestalten außerschulische Bildungsangebote. Wir machen Wissen praxisnah erlebbar und eröffnen neue Lernräume. Gerne passen wir das Angebot an Ihre Wünsche und Gruppengröße an.  
+Wir entwickeln und gestalten außerschulische Bildungsangebote. Wir machen Wissen praxisnah erlebbar und eröffnen neue Lernräume. Gerne passen wir das Angebot an Ihre Wünsche und Gruppengröße an.  
 <br> <br>   
 
 Wir ...   
@@ -27,9 +27,9 @@ Wir ...
 Gemeinsam mit Ihnen oder auch in Ihrem Auftrag entwickeln wir Bildungsformate zu spannenden Inhalten im Bereich der Umweltwissenschaften; von Grundkonzepten aus der Biologie über Klima bis hin zum Themenkomplex Nachhaltigkeit. Ob neue Workshops, interaktive Projekte, Messestände oder ganze Veranstaltungsreihen: Wir unterstützen Sie bei der Konzeption, stehen beratend zur Seite und sorgen dafür, dass Ihre Inhalte verständlich, greifbar und mitreißend vermittelt werden - gerne auch auf dem Event selbst. Freuen Sie sich auf Formate, die Neugier wecken, Begeisterung entfachen und langfristig in den Köpfen bleiben. Lassen Sie uns gemeinsam Bildungsprojekte gestalten, die inspirieren, bewegen und wirken!  
 <br> <br> 
 
-**... BEWANTWORTEN brennende Fragen und finden dabei spannende Lösungen oder neue Ideenansätze.**   
-Veranstaltungen, die Wissen greifbar machen, Neugier wecken und Begeisterung entfachen gestalten wir mit Herzblut. Ob in Ihrem Unternehmen, Ihrem Wohnzimmer, im Klassenzimmer, im Museum oder draußen in der Natur – jede Veranstaltung wird individuell auf Ihr Publikum, Ihre Ziele & Ihre Umgebung abgestimmt. Freuen Sie sich auf ein spannendes, interaktives Erlebnis mit Raum für Fragen, für Diskussionen und für Aha-Momente.  
-Lassen Sie uns gemeinsam etwas bewegen – wir freuen uns auf Ihre Ideen & darauf, diese gemeinsam mit Ihnen zu beleben!  
+**... BEANTWORTEN brennende Fragen und finden dabei spannende Lösungen oder neue Ideenansätze.**   
+Veranstaltungen, die Wissen greifbar machen, Neugier wecken und Begeisterung entfachen, gestalten wir mit Herzblut. Ob in Ihrem Unternehmen, Ihrem Wohnzimmer, im Klassenzimmer, im Museum oder draußen in der Natur – jede Veranstaltung wird individuell auf Ihr Publikum, Ihre Ziele und Ihre Umgebung abgestimmt. Freuen Sie sich auf ein spannendes, interaktives Erlebnis mit Raum für Fragen, für Diskussionen und für Aha-Momente.  
+Lassen Sie uns gemeinsam etwas bewegen – wir freuen uns auf Ihre Ideen und darauf, diese gemeinsam mit Ihnen zu beleben!  
 <br> <br>  
 
 **... BEWIRKEN Begeisterung für die belebte Umwelt und koppeln Empathie mit Neugier für Umweltthemen.**   
@@ -42,8 +42,8 @@ Weiterführende Links:
 <br> <br> 
 
 **... BEFÜRWORTEN einen freien Zugang zu Bildungsangeboten für alle Menschen.**   
-Deshalb nehmen wir Aufträge für ein Publikum allen Alters und allen Hintergrunds an. Im Sinne demokratischer Werte und der Wertschätzung der Menschenrechte, setzen wir uns für eine offene, vielfältige und tolerante Gesellschaft ein und stellen uns gegen Extremismus und Ausgrenzung.  
-Beispiele für Gruppen, die wir bereits erfolgreich betreut haben sind: 
+Deshalb nehmen wir Aufträge für ein Publikum jeden Alters und jedes Hintergrunds an. Im Sinne demokratischer Werte und der Wertschätzung der Menschenrechte, setzen wir uns für eine offene, vielfältige und tolerante Gesellschaft ein und stellen uns gegen Extremismus und Ausgrenzung.  
+Beispiele für Gruppen, die wir bereits erfolgreich betreut haben, sind: 
 * Kitas, Kindergärten
 * (Grund-/Berufs-/Real-/Hoch-/Mittel-) Schulen, Gymnasien
 * Universitäten
@@ -57,7 +57,7 @@ ___
 
 #### Preise. 
 Die Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung für freie Limnologen zzgl. laufende Kosten, Material & Anfahrt/Logis. Weiterhin lehnen wir unsere Preise für Führungen und Workshops an den Preiskatalog unserer vermittelnden Kooperationspartner an.   
-▶︎ [Leistungsverzeichnis für Limnologie (LVLIM) - Gewässerökolgische Untersuchungen (2012)](https://limnologen.com/honorarermittlung/).   
+▶︎ [Leistungsverzeichnis für Limnologie (LVLIM) - Gewässerökologische Untersuchungen (2012)](https://limnologen.com/honorarermittlung/).   
 ▶︎ [Das aktuelle Angebot für die Grundschule (3./4. Klasse, 1,5 Std.) finden Sie hier](/angebot/).  
 
 ___ 
@@ -75,7 +75,7 @@ u.v.a.
 ___ 
 
 #### Qualifikation.  
-Wir überzeugen durch unsere über fünf Jahre Efahrung in der Umweltbildungsarbeit mit diversen Gruppen und stetige Fortbildungen. 
+Wir überzeugen durch unsere über fünf Jahre Erfahrung in der Umweltbildungsarbeit mit diversen Gruppen und kontinuierliche Fortbildungen.   
 ▶︎ [Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF).](/images/HYDROBIOLOGIE-KOPLITZ-Info.pdf).    
 ▶︎ [Eine Übersicht ausgewählter vergangener Projekte finden Sie hier im chaotischen Veranstaltungsarchiv](/archive/). 
 

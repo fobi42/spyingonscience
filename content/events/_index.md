@@ -9,8 +9,8 @@ image: "images/kalender.png"
 # Events. 
 ___ 
 
-Nutzen Sie die Gelegenheit uns persönlich kennenzulernen!  
-Viele Veranstaltungen können dank unseren Partnerinstitutionen oft zu einem **geringen Beitrag oder gar ganz kostenlos** besucht werden!    
+Nutzen Sie die Gelegenheit, uns persönlich kennenzulernen!  
+Viele Veranstaltungen können dank unserer Partnerinstitutionen oft für einen **geringen Beitrag oder sogar kostenlos** besucht werden!    
 ___
 
 #### 📣📣📣 ANMELDUNG ZUR ONLINE-VERANSTALTUNG IM SEPTEMBER UND OKTOBER AB SOFORT. 
@@ -43,7 +43,7 @@ ___
 <br> <br> 
 
 #### Terminkalender.
-Klicken Sie auf die **hervogehobenen** Termine für genauere Informationen. 
+Klicken Sie auf die **hervorgehobenen** Termine für genauere Informationen. 
 ___ 
 
 

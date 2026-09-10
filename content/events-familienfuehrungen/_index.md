@@ -12,7 +12,7 @@ ___
 <br> <br> 
 
 #### Familienführungen im Museum Mensch und Natur.  
-Immer Freitags um 15:00-16:00 Uhr.   
+Immer freitags um 15:00-16:00 Uhr.   
 Der Preis ist im Museumseintritt enthalten.   
 ▶︎ [Weitere Termine & Infos zu den Familienführungen.](https://mmn-muenchen.snsb.de/familienfuehrungen/)  
 

@@ -28,14 +28,14 @@ Wir ...
 
 **... BEGUTACHTEN die Gewässerstruktur vor Ort systematisch und methodisiert.**  
 * Kartierungsprotokollierung entsprechend des gewünschten Formulars
-* Kartierung von Substraten, Gewässerstruktur, Schüttung und Wasserkörper, Vegetiation, Zugägnlichkeit uvm. 
+* Kartierung von Substraten, Gewässerstruktur, Schüttung und Wasserkörper, Vegetation, Zugänglichkeit uvm. 
 
 <br> <br> 
 
 **... BEPROBEN nach Verfahrensanleitung und mit modernster Ausrüstung.**   
 * Biologische Qualitätskomponenten: Diatomeen, Phytobenthos ohne Diatomeen (PoD) und Makrophyten inkl. Moose
 * Kartierungsprotokollierung entsprechend des gewünschten Formulars
-* Hydrophysiologische Messungen mit moderner Ausrüstung (Multiparameter Messgerät HANNA Instruments HI98494)
+* Hydrophysiologische Messungen mit moderner Ausrüstung (Multiparametermessgerät HANNA Instruments HI98494)
 * Fotodokumentation von emers und submers siedelnden Organismen (OM SYSTEM Tough TG-7)
 * Probenahme im Gelände und Probenbearbeitung im Feldlabor
 * Mobilität: Führerscheine B/BE und SBF-Binnen/-See, eigener PKW  
@@ -49,7 +49,7 @@ Wir ...
     * Zeiss Axioscope 5 (Standort München): aplan.-achrom. Kondensor, Objektiv Plan-Apochromat 100x/1,4 Oil DIC M27 (a=0,17mm) mit Zeiss Immersol 518 F. 
 * Fotodokumentation: Euromex Ultra HD/ 4k Stand Alone Kamera (VC.3042)
 * Software: ImageFocusAlpha (Euromex)
-* Aufbereitung der Taxalisten in Microsoft Excel, RStudio entsprechend aktuellen Bundestaxalisten bzw. Zieleingabeprogrammen (BOG, PERLA, Phylib)
+* Aufbereitung der Taxalisten in Microsoft Excel und RStudio entsprechend den aktuellen Bundestaxalisten bzw. Zieleingabeprogrammen (BOG, PERLA, Phylib)
 * Eingabe in Zieleingabeprogramme (BOG, PERLA, Phylib)  
 
 <br> <br> 
@@ -74,13 +74,13 @@ ___
 
 #### Preise. 
 Die Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung für freie Limnologen zzgl. laufende Kosten, Material & Anfahrt/Logis.  
-▶︎ [Leistungsverzeichnis für Limnologie (LVLIM) - Gewässerökolgische Untersuchungen (2012)](https://limnologen.com/honorarermittlung/). 
+▶︎ [Leistungsverzeichnis für Limnologie (LVLIM) - Gewässerökologische Untersuchungen (2012)](https://limnologen.com/honorarermittlung/). 
 
 ___ 
 
 #### Netzwerk. 
 
-Wir arbeiten mit renommierten, erfahrenen Personen und Büros aktiv an Projekten und im fachlichen Austausch zusammen. Darunter sind u. A. (alphabetisch): 
+Wir arbeiten mit renommierten, erfahrenen Personen und Büros aktiv an Projekten und im fachlichen Austausch zusammen. Darunter sind u. a. (alphabetisch): 
 * AGLHH - Arbeitsgemeinschaft Limnologie und Hydrologie in Hessen (Dr. Marcus Werum):   
 Diatomeentaxonomie, Makrophyten (Moose), Kartierungen, Fachgutachten  
 ▶︎ [Zur Webseite AGLHH](https://www.aglhh.de/).
@@ -97,13 +97,13 @@ Diatomeentaxonomie, PoD-Fachkurse
 * Ökologische Gutachten Matthias Beck:  
 Kartierung, Feldansprache von PoD und Makrophyten (inkl. Moose)
 * [µHoch3] – Sachverständigenbüro für Mykologie, Ökologie und Kryptogamentaxonomie (Dr. Manuel M. Striegel):  
-Kartierung, Feldansprache von PoD und Makrophyten (inkl. Moose), Makophyten-Taxonomie, Fachgutachten 
+Kartierung, Feldansprache von PoD und Makrophyten (inkl. Moose), Makrophyten-Taxonomie, Fachgutachten 
 * Umweltplanung A. Hofmann (Dr. Andrea Hofmann):  
 Diatomeentaxonomie
 ___ 
 
 #### Qualifikation.  
-Mit großer Begeisterung etablieren wir uns im Bereich der Gewässeruntersuchung mit besonderem Augenmerk auf Gewässerbotanik inkl. Phykologie mit Expertise in der Diatomeentaxonomie. Die Mitarbeitenden werden kontinuierlich fortgebildet.  
+Mit großer Begeisterung sind wir im Bereich der Gewässeruntersuchung tätig, mit besonderem Augenmerk auf Gewässerbotanik inkl. Phykologie mit Expertise in der Diatomeentaxonomie. Die Mitarbeitenden werden kontinuierlich fortgebildet.  
 ▶︎ [Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF)](/images/HYDROBIOLOGIE-KOPLITZ-Info.pdf). 
 
 ___ 
@@ -120,7 +120,7 @@ Unsere Expertise wenden wir erfolgreich seit 2022 an. Somit waren wir neben unse
 ___
 
 #### Umwelt verstehen. Wissenschaft sichtbar machen. Zukunft gestalten.
-Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer Lebensräume bis hin zur verständlichen Kommunikation von Umwelttthemen und Wissenschaft. Einzigartig verbinden wir limnologische, ökologische und biologische Expertise zuweilen auch mit langjähriger Erfahrung in praxisnaher Wissensvermittlung. Informieren Sie sich gerne auch über dieses weitere Tätigkeitsfeld.  
+Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer Lebensräume bis hin zur verständlichen Kommunikation von Umweltthemen und Wissenschaft. Einzigartig verbinden wir limnologische, ökologische und biologische Expertise zuweilen auch mit langjähriger Erfahrung in praxisnaher Wissensvermittlung. Informieren Sie sich gerne auch über dieses weitere Tätigkeitsfeld.  
 ▶︎ [Das Portfolio inkl. Leistungen, Erfahrungen und Qualifikationen rund um unser Umweltbildungsprojekt „SpyingOnScience“ finden Sie hier](/bildungsprojekte). 
 
 <br> <br> 

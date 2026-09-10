@@ -8,33 +8,33 @@ image: "wisskomm.png"
 
 # Aktuelles Paketangebot.  
 ___  
-Gerne passen wir Angebot an Ihre Wünsche & Gruppengröße an.   
+Gerne passen wir das Angebot an Ihre Wünsche & Gruppengröße an.   
 ▶︎ [Eine Übersicht aller Leistungen finden Sie hier.](/bildungsprojekte/)
 ___  
 
 #### "Die Schätze unserer Erde verstehen & schützen."  
-In dieser spannenden Mitmach-Doppelstunde gehen wir gemeinsam auf Schatzsuche. Wir finden heraus, was unser „Blaues Gold“ ist, erforschen kleine & große Naturschätze (in max. 9 Gruppen) unter dem tragbaren Mitmach-Mikroskop & treffen winzige Wasserflöhe, die uns verdeutlichen, wie wichtig sauberes Wasser ist. Mit einer kurzen Lesereise begleiten wir die „Flusspiraten“ bei ihren Aha-Momenten rund um’s Thema Wasser & entdecken dabei, wie wertvoll die Schätze unserer Erde für uns sind.  
+In dieser spannenden Mitmach-Doppelstunde gehen wir gemeinsam auf Schatzsuche. Wir finden heraus, was unser „Blaues Gold“ ist, erforschen kleine und große Naturschätze (in max. 9 Gruppen) unter dem tragbaren Mitmach-Mikroskop und treffen winzige Wasserflöhe, die uns verdeutlichen, wie wichtig sauberes Wasser ist. Mit einer kurzen Lesereise begleiten wir die „Flusspiraten“ bei ihren Aha-Momenten rund ums Thema Wasser und entdecken dabei, wie wertvoll die Schätze unserer Erde für uns sind.  
 
-* **Zielgruppe**: Dieses Angebot ist für Kinder der 3.-4. Klasse Grundschule konzipiert kann aber nach Rücksprache für Jüngere/Ältere angepasst werden.  
+* **Zielgruppe**: Dieses Angebot ist für Kinder der 3.-4. Klasse Grundschule konzipiert, kann aber nach Rücksprache für Jüngere/Ältere angepasst werden.  
 * **Dauer**: Gesamt ca. 1:30 Std. (ca. 75 min Programm + 15 min Puffer/Fragen).   
-* **Themenkern**: Definition „Schatz/Wert“, Ressource „Süßwasser“ als Grundlage des Lebens auf der Erde, Umweltschutz & Nachhaltigkeitsziele.   
+* **Themenkern**: Definition „Schatz/Wert“, Ressource „Süßwasser“ als Grundlage des Lebens auf der Erde, Umweltschutz und Nachhaltigkeitsziele.   
 * **Praxiskern**: Mikroskopieren, Empathie für die (belebte) Umwelt (Handhabung Wasserfloh, Ökosystemdienstleistungen).  
 
 **Paketversion 1: Bildungs-/Sozialeinrichtung.**   
-Paketpreis: 150-185€ (inkl.19% MwSt.) 
+Paketpreis: 150-185€ (inkl. 19% MwSt.) 
 * idealerweise für 1-2 Schulklassen (max. 9 Gruppen à 4 Kinder, Absprache möglich).   
 * inkl. Anfahrt im Raum München, 20 min Vorlauf zum Aufbau & Material.
-* Prüfung auf "dem Schul- & Bildungszweck dienende Unterrichtsleistung steuerbefreit nach UStG § 4 Nr. 21" zum Erlass der MwSt (Endpreis ca. 150€).
+* Vorbehaltlich der steuerrechtlichen Prüfung kann die Leistung als dem Schul- und Bildungszweck dienende Unterrichtsleistung nach § 4 Nr. 21 UStG umsatzsteuerbefreit sein (Endpreis ca. 150€).
 
 
 **Paketversion 2: Kindergeburtstag/Privatveranstaltung.**  
-Paketpreis: 185€ (inkl.19% MwSt.) 
-* idealerweise für 9 Kinder (weitere Absprache möglich, z. B. 18 Kinder in 2-er Gruppen erfordert eine Anpassung der Materialpauschale).  
+Paketpreis: 185€ (inkl. 19% MwSt.) 
+* idealerweise für 9 Kinder (weitere Absprache möglich, z. B. 18 Kinder in Zweier Gruppen erfordert eine Anpassung der Materialpauschale).  
 * inkl. Anfahrt im Raum München, 20 min Vorlauf zum Aufbau & Material.
 
 ___
 
-**HINWEIS: Die Aufsicht obliegt vor, während & nach der Veranstaltung der buchenden Person, der Lehrkraft oder dem Elternteil. Wir übernehmen keine Aufsichtspflicht oder Verantwortung für die Kinder. Danke für das Verständnis.**
+**HINWEIS: Die Aufsicht obliegt vor, während und nach der Veranstaltung der buchenden Person, der Lehrkraft oder dem Elternteil. Wir übernehmen keine Aufsichtspflicht oder Verantwortung für die Kinder. Danke für das Verständnis.**
 
 ___
 

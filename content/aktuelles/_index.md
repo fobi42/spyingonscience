@@ -15,13 +15,13 @@ ___
 <br> <br> 
 
 #### Events. 
-Offene Mit-mach-Aktionen, Museumsevents und vieles mehr, bieten die Gelegenheit sich gerne mal persönlich kennenzulernen. Viele Events können dank unseren Partnerinstitutionen oft zu einem **geringen Beitrag oder gar ganz kostenlos** besucht werden! Informieren Sie sich gerne.  
+Offene Mit-mach-Aktionen, Museumsevents und vieles mehr bieten die Gelegenheit, sich gerne mal persönlich kennenzulernen. Viele Events können dank unserer Partnerinstitutionen oft für einen **geringen Beitrag oder sogar kostenlos** besucht werden! Informieren Sie sich gerne.  
 ▶︎ [Hier geht's zum Terminkalender.](/events/)  
 <br> <br>
 ___
 
 #### 📣📣📣 ANMELDUNG ZUR ONLINE-VERANSTALTUNG IM SEPTEMBER UND OKTOBER AB SOFORT. 
-Im Rahmen der Deutschen Aktionstage Nachhaltigkeit und passend zum Fokusthema Wasser nehmen wir teil und bieten Ihnen kostenlos seltene Einblicke!  
+Im Rahmen der Deutschen Aktionstage Nachhaltigkeit und passend zum Fokusthema Wasser nehmen wir teil und bieten Ihnen kostenlos besondere Einblicke!  
 "Das lebt in meinem Wasser: Live-Mikroskopie mit einer Gewässerökologin".   
 ▶︎ [Hier geht's weiter zur Anmeldung](/anmeldung/).   
 <br> <br>
@@ -44,8 +44,8 @@ Das aktuelle Programm "Die Schätze unserer Erde verstehen und schützen" ist ab
 <br> <br> 
 ___
 
-#### Bildungsangebote mitentwickelt und mitgestaltet von uns.
-Ab sofort sind spannende Formate bei verschiedenen Kooperationspartnern zum Mitmachen und neue Perspektiven erobern buchbar.  
+#### Von uns mitentwickelte und mitgestalete Bildungsangebote.
+Ab sofort sind spannende Formate bei verschiedenen Kooperationspartnern buchbar, bei denen Sie mitmachen und neue Perspektiven erobern können.  
 ▶︎ ["**Faszination Fledermäuse**": Führung & Workshop für die 3.-4. Klasse Grundschule im Museum Mensch und Natur.](https://mmn-muenchen.snsb.de/angebote-fuer-die-1-bis-4-jahrgangsstufe/)  
 ▶︎ ["**Saubere Sache – Herstellung einer Duftseife mit Pflanzen aus dem Kräutergarten**": Führung & Workshop für die Realschule im BIOTOPIA Lab - inklusiv gestaltet für Menschen mit Sehbehinderung.](https://biotopialab.snsb.de/realschule/) 
 
