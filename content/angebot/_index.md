@@ -22,7 +22,7 @@ In dieser spannenden Mitmach-Doppelstunde gehen wir gemeinsam auf Schatzsuche. W
 
 **Paketversion 1: Bildungs-/Sozialeinrichtung.**   
 Paketpreis: 150-185€ (inkl. 19% MwSt.) 
-* idealerweise für 1-2 Schulklassen (max. 9 Gruppen à 4 Kinder, Absprache möglich).   
+* idealerweise für 1-2 Schulklassen (max. 9 Gruppen je 4 Kinder, Absprache möglich).   
 * inkl. Anfahrt im Raum München, 20 min Vorlauf zum Aufbau & Material.
 * Vorbehaltlich der steuerrechtlichen Prüfung kann die Leistung als dem Schul- und Bildungszweck dienende Unterrichtsleistung nach § 4 Nr. 21 UStG umsatzsteuerbefreit sein (Endpreis ca. 150€).
 
