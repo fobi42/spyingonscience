@@ -19,11 +19,13 @@
 
     <div>
 
-        <h8 style="margin-top: 0;">
-            Auf der Suche nach einem zuverlässigen Projektpartner? <br>
-            Am liebsten wissenschaftlich fundiert, unabhängig und mit direktem Expertenkontakt?
-        </h8>
-        <p>Herzlich willkommen auf unserer Webseite.
+        <h6 style="margin-top: 0;">
+            Auf der Suche nach einem zuverlässigen Projektpartner?<br>
+        </h6>
+        <h6 style="margin-top: 0;">
+            Am liebsten wissenschaftlich fundiert, unabhängig und mit direktem Expertenkontakt?<br>
+        </h6>
+        <p><br>Herzlich willkommen auf unserer Webseite.
         </p>
         <p>
             Wir bieten als unabhängiges Fachinstitut Dienstleistungen im Bereich Hydrobiologie und Gewässerökologie an. Zudem engagieren wir uns mit unserem Projekt „#SpyingOnScience“ für naturwissenschaftliche Bildung.
@@ -76,16 +78,14 @@
   margin: 2rem auto;         /* spacing between sections */
   width:70%;
   box-shadow: 0 2px 8px rgba(0,0,0,0.05); /* soft shadow */
-  transition: transform 0.2s ease, box-shadow 0.2s ease;">
-    <a href="{{ (site.GetPage "bildungsprojekte").RelPermalink }}" class="section-link">
-        <h2>Bildungsprojekt #SpyingOnScience.</h2>
-        <p> Umweltbildung · Wissenschaftskommunikation · Events · BNE-Akteur </p>
-        <div ><img style="  max-width: 50%; border-radius: 8px; height: auto;" src="/images/scicomm.png" alt="Profile Picture" style="max-width:60%; border-radius:8px;">
-        <p style="font-size: 10px;">Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus!#SpyingOnScience</p>
+  transition: transform 0.2s ease, box-shadow 0.2s ease;"
+   onMouseOut="this.style.color='#00F'">
+    <a href="{{ (site.GetPage "profil").RelPermalink }}" class="section-link">
+        <h2>Über.</h2>
+        <p> Unternehmen · Qualifikation · Referenzen · Philosophie </p>
+        <div ><img style="  max-width: 50%; border-radius: 8px; height: auto; "  src="/images/logo-375.png" alt="Profile Picture" style="max-width:60%; border-radius:8px;">
     </a>
   </section>
-
-
 
   <section style="background-color: #f9f9f9;  background: #d7dcd8;       /* white background */
   border: 1px solid #ddd;    /* subtle border */
@@ -94,12 +94,12 @@
   margin: 2rem auto;         /* spacing between sections */
   width:70%;
   box-shadow: 0 2px 8px rgba(0,0,0,0.05); /* soft shadow */
-  transition: transform 0.2s ease, box-shadow 0.2s ease;"
-   onMouseOut="this.style.color='#00F'">
-    <a href="{{ (site.GetPage "profil").RelPermalink }}" class="section-link">
-        <h2>Über.</h2>
-        <p> Unternehmen · Qualifikation · Referenzen · Philosophie </p>
-        <div ><img style="  max-width: 50%; border-radius: 8px; height: auto; "  src="/images/logo-375.png" alt="Profile Picture" style="max-width:60%; border-radius:8px;">
+  transition: transform 0.2s ease, box-shadow 0.2s ease;">
+    <a href="{{ (site.GetPage "bildungsprojekte").RelPermalink }}" class="section-link">
+        <h2>Bildungsprojekt #SpyingOnScience.</h2>
+        <p> Umweltbildung · Wissenschaftskommunikation · Events · BNE-Akteur </p>
+        <div ><img style="  max-width: 50%; border-radius: 8px; height: auto;" src="/images/scicomm.png" alt="Profile Picture" style="max-width:60%; border-radius:8px;">
+        <p style="font-size: 10px;">Unsere Welt hat so viele Wunder zu bieten. Spionieren wir sie gemeinsam bis ins kleinste Detail aus!#SpyingOnScience</p>
     </a>
   </section>
 
