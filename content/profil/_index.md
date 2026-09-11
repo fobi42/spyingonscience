@@ -7,7 +7,7 @@ image: "scicomm.png"
 
 ![spyingonscience.com.](/images/wasser-welt-wissen.png "Wir freuen uns sehr über das Interesse und auf die zukünftige Zusammenarbeit!") 
 
-# **Unsere Passion und Mission.** 
+# **Unsere Institution, Passion und Mission.** 
 ___ 
 
 #### Profil.  
@@ -17,7 +17,7 @@ Wir setzen uns als unabhängiges Fachinstitut durch unsere Arbeit in der Limnolo
 ____ 
 
 #### Unternehmensstruktur. 
-Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie und Limnologie mit Spezialisierung in der Diatomeen des Süßwasserbenthos an. 
+Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie und Limnologie mit Spezialisierung in den Diatomeen des Süßwasserbenthos an. 
 Zudem engagieren wir uns in unserem Umfeld für naturwissenschaftliche Bildung für alle Zielgruppen durch unser Umweltbildungsprojekt „#SpyingOnScience“.   
 
 <br> <br> 
@@ -29,9 +29,8 @@ Andrea Koplitz-Weißgerber, M. Sc. Biologie
 * Umweltbildung (Bildungsakteurin für BNE)  
 
 *„Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme, denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.“*    
-
 ▶︎ [Details und Vita sind hier auf LinkedIn einsehbar](https://www.linkedin.com/in/andrea-koplitz-weissgerber/).   
-▶︎ [Wissenschaftliche Beiträge können auf researchgate gelesen werden](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber?ev=hdr_xprf). 
+▶︎ [Wissenschaftliche Beiträge können hier auf researchgate gelesen werden](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber?ev=hdr_xprf). 
 
 <br> <br> 
 
@@ -39,11 +38,12 @@ Andrea Koplitz-Weißgerber, M. Sc. Biologie
 Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Kooperationen in den Bereichen:   
 * Diatomeentaxonomie 
 * Fachgutachten 
+* FFH Studien
 * Feldarbeit 
 * Gewässerkartierung 
-* Museumspädagogik
 * Labordienstleistungen 
 * Makrophyten-Taxonomie (inkl. Moose) 
+* Museumspädagogik
 * PoD-Taxonomie    
 
 ▶︎ [Weitere Informationen zu unseren Netzwerkpartnern finden Sie hier](/hydrobiologie/). 
@@ -51,6 +51,7 @@ Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Koo
 <br> <br> 
 
 **Mitgliedschaften.**   
+Wir sind Teil einiger aktiver Gesellschaften und beruflicher Fachverbände. 
 * [Deutsche Gesellschaft für Limnologie e. V.](https://dgl-ev.de/)
 * [VBIO: Verband Biologie, Biowissenschaften und Biomedizin in Deutschland e.V.](https://www.vbio.de/) 
 * [Deutscher Museumsbund e. V.](https://www.museumsbund.de/)
@@ -70,7 +71,7 @@ Unsere Expertise in der Gewässerökologie wenden wir erfolgreich seit 2022 an. 
 * Landesamt für Umwelt Rheinland-Pfalz (2026, Gewässermonitoring gemäß WRRL Feldansprache Qualitätskomponenten Makrophyten, PoD, Diatomeen und Taxonomie Diatomeen)
 * Wasserwirtschaftsamt Ansbach, Bayern (2026, Gewässermonitoring gemäß WRRL Taxonomie Qualitätskomponente Diatomeen)   
 
-▶︎ [Eine Übersicht vergangener Projekte finden Sie hier](/referenzen/). 
+▶︎ [Eine detailierte Übersicht vergangener Projekte finden Sie hier](/referenzen/). 
 
 ___ 
 

@@ -11,12 +11,12 @@ ___
 #### Fachlich fundierte Bewertung von Süßgewässern: Von der Probenahme und biologischen Untersuchung bis zur fachgutachterlichen Einordnung.  
 
 Fließgewässer und Seen sind komplexe Ökosysteme. Die besiedelnde biologische Gemeinschaft erzählt viel über den Gewässerzustand, informiert über Belastungen und skizziert Entwicklungen.   
-Das KOPLITZ INSTITUT FÜR LIMNOLOGIE & HYDROBIOLOGIE untersucht diese Zusammenhänge mit etablierter und moderner Technik und übersetzt messbare biologische Daten in belastbare fachliche Aussagen.   
+Das KOPLITZ INSTITUT FÜR LIMNOLOGIE UND HYDROBIOLOGIE untersucht diese Zusammenhänge mit etablierter und moderner Technik und übersetzt messbare biologische Daten in belastbare fachliche Aussagen.   
 Unser Workflow in drei Sätzen: Wir führen entsprechend der europa- und landesweiten Standards professionelle Gewässerkartierungen mit moderner Technik vor Ort durch. Wissenschaftlich fundiert werden die Diatomeengesellschaften morphologisch analysiert. Die taxonomischen Ergebnisse werden mit gängigen Bewertungstools, abgerundet durch gutachterliche Expertise, in einem prägnanten Bericht zusammengefasst.  
 
 ___
 #### Leistungskatalog.  
-Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie & Gewässerökologie an.  
+Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie und Gewässerökologie an.  
 <br> <br>   
 
 Wir ...  
@@ -32,8 +32,8 @@ Wir ...
 **... BEPROBEN nach Verfahrensanleitung und mit modernster Ausrüstung.**   
 * Biologische Qualitätskomponenten: Diatomeen, Phytobenthos ohne Diatomeen (PoD) und Makrophyten inkl. Moose
 * Kartierungsprotokollierung entsprechend des gewünschten Formulars
-* Hydrophysiologische Messungen mit moderner Ausrüstung (Multiparametermessgerät HANNA Instruments HI98494)
-* Fotodokumentation von emers und submers siedelnden Organismen (OM SYSTEM Tough TG-7)
+* Hydrophysiologische Messungen mit moderner Ausrüstung 
+* Fotodokumentation von emers und submers siedelnden Organismen 
 * Probenahme im Gelände und Probenbearbeitung im Feldlabor
 * Mobilität: Führerscheine B/BE und SBF-Binnen/-See, eigener PKW  
 
@@ -100,7 +100,7 @@ ___
 
 #### Umwelt verstehen. Wissenschaft sichtbar machen. Zukunft gestalten.
 Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer Lebensräume bis hin zur verständlichen Kommunikation von Umweltthemen und Wissenschaft. Einzigartig verbinden wir limnologische, ökologische und biologische Expertise zuweilen auch mit langjähriger Erfahrung in praxisnaher Wissensvermittlung. Informieren Sie sich gerne auch über dieses weitere Tätigkeitsfeld.  
-▶︎ [Das Portfolio inkl. Leistungen, Erfahrungen und Qualifikationen rund um unser Umweltbildungsprojekt „SpyingOnScience“ finden Sie hier](/bildungsprojekte). 
+▶︎ [Das Portfolio rund um unser Umweltbildungsprojekt „SpyingOnScience“ finden Sie hier](/bildungsprojekte). 
 
 <br> <br> 
 

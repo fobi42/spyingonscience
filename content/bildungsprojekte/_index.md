@@ -76,7 +76,7 @@ ___
 
 #### Gewässer verstehen. Ressourcen schützen. Zukunft gestalten.
 Einzigartig verbinden wir limnologische, ökologische und biologische Expertise zuweilen auch mit der langjährigen Erfahrung in praxisnaher Wissensvermittlung. Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer Lebensräume bis hin zur fachgutachterlichen Berichterstattung gewässerökologischer Forschung. Informieren Sie sich gerne auch über dieses weitere Tätigkeitsfeld.  
-▶︎ [Das Portfolio inkl. Leistungen, Erfahrungen und Qualifikationen rund um Hydrobiologie und Gewässerfachgutachten  finden Sie hier](/hydrobiologie/). 
+▶︎ [Das Portfolio rund um Hydrobiologie und Gewässerfachgutachten  finden Sie hier](/hydrobiologie/). 
 
 <br> <br> 
 
