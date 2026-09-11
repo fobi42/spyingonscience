@@ -24,10 +24,12 @@ Zudem engagieren wir uns in unserem Umfeld für naturwissenschaftliche Bildung f
 
 **Institutsleitung.**  
 Andrea Koplitz-Weißgerber, M. Sc. Biologie   
-*„Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme, denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.“*   
 * Diatomeentaxonomie
 * Gewässergutachten
 * Umweltbildung (Bildungsakteurin für BNE)  
+
+*„Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme, denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.“*    
+
 ▶︎ [Details und Vita sind hier auf LinkedIn einsehbar](https://www.linkedin.com/in/andrea-koplitz-weissgerber/).   
 ▶︎ [Wissenschaftliche Beiträge können auf researchgate gelesen werden](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber?ev=hdr_xprf). 
 
@@ -43,13 +45,14 @@ Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Koo
 * Labordienstleistungen 
 * Makrophyten-Taxonomie (inkl. Moose) 
 * PoD-Taxonomie    
+
 ▶︎ [Weitere Informationen zu unseren Netzwerkpartnern finden Sie hier](/hydrobiologie/). 
 
 <br> <br> 
 
 **Mitgliedschaften.**   
 * [Deutsche Gesellschaft für Limnologie e. V.](https://dgl-ev.de/)
-* [VBIO: Verband Biologie, Biowissenschaften und Biomedizin in Deutschland](https://www.vbio.de/) 
+* [VBIO: Verband Biologie, Biowissenschaften und Biomedizin in Deutschland e.V.](https://www.vbio.de/) 
 * [Deutscher Museumsbund e. V.](https://www.museumsbund.de/)
 
 ___ 
@@ -65,7 +68,8 @@ Unsere Expertise in der Gewässerökologie wenden wir erfolgreich seit 2022 an. 
 * Technische Universität München (Forschung)
 * Landesamt für Natur, Umwelt und Klima NRW, LANUK (Gewässermonitoring gemäß WRRL Taxonomie Qualitätskomponente Diatomeen)
 * Landesamt für Umwelt Rheinland-Pfalz (2026, Gewässermonitoring gemäß WRRL Feldansprache Qualitätskomponenten Makrophyten, PoD, Diatomeen und Taxonomie Diatomeen)
-* Wasserwirtschaftsamt Ansbach, Bayern (2026, Gewässermonitoring gemäß WRRL Taxonomie Qualitätskomponente Diatomeen)    
+* Wasserwirtschaftsamt Ansbach, Bayern (2026, Gewässermonitoring gemäß WRRL Taxonomie Qualitätskomponente Diatomeen)   
+
 ▶︎ [Eine Übersicht vergangener Projekte finden Sie hier](/referenzen/). 
 
 ___ 
