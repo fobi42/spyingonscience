@@ -17,7 +17,7 @@ Wir setzen uns als unabhängiges Fachinstitut durch unsere Arbeit in der Limnolo
 ____ 
 
 #### Unternehmensstruktur. 
-Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie & Limnologie an. 
+Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie und Limnologie mit Spezialisierung in der Diatomeen des Süßwasserbenthos an. 
 Zudem engagieren wir uns in unserem Umfeld für naturwissenschaftliche Bildung für alle Zielgruppen durch unser Umweltbildungsprojekt „#SpyingOnScience“.   
 
 <br> <br> 
@@ -27,8 +27,8 @@ Andrea Koplitz-Weißgerber, M. Sc. Biologie
 *„Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme, denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.“*   
 * Diatomeentaxonomie
 * Gewässergutachten
-* Umweltbildung (Bildungsakteurin für BNE)
-▶︎ [Details und Vita sind hier auf LinkedIn einsehbar](https://www.linkedin.com/in/andrea-koplitz-weissgerber/). 
+* Umweltbildung (Bildungsakteurin für BNE)  
+▶︎ [Details und Vita sind hier auf LinkedIn einsehbar](https://www.linkedin.com/in/andrea-koplitz-weissgerber/).   
 ▶︎ [Wissenschaftliche Beiträge können auf researchgate gelesen werden](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber?ev=hdr_xprf). 
 
 <br> <br> 
@@ -45,22 +45,35 @@ Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Koo
 * PoD-Taxonomie    
 ▶︎ [Weitere Informationen zu unseren Netzwerkpartnern finden Sie hier](/hydrobiologie/). 
 
+<br> <br> 
+
+**Mitgliedschaften.**   
+* [Deutsche Gesellschaft für Limnologie e. V.](https://dgl-ev.de/)
+* [VBIO: Verband Biologie, Biowissenschaften und Biomedizin in Deutschland](https://www.vbio.de/) 
+* [Deutscher Museumsbund e. V.](https://www.museumsbund.de/)
+
 ___ 
 
 #### Qualifikation.  
 Mit großer Begeisterung sind wir im Bereich der Gewässeruntersuchung tätig, mit besonderem Augenmerk auf Gewässerbotanik inkl. Phykologie mit Expertise in der Diatomeentaxonomie. Die Mitarbeitenden werden kontinuierlich fortgebildet. Wir überzeugen durch unsere über fünf Jahre Erfahrung in der Umweltbildungsarbeit mit diversen Gruppen und kontinuierliche Fortbildungen.   
-▶︎ [Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF).](/images/HYDROBIOLOGIE-KOPLITZ-Info.pdf).   
+▶︎ [Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF)](/images/HYDROBIOLOGIE-KOPLITZ-Info.pdf).   
 
 ___ 
 
 #### Referenzen. 
-Unsere Expertise wenden wir erfolgreich seit 2022 an. Somit waren wir neben unseren aktuellen Netzwerkkooperationen bereits tätig für:
+Unsere Expertise in der Gewässerökologie wenden wir erfolgreich seit 2022 an. Somit waren wir neben unseren aktuellen Netzwerkkooperationen bereits tätig für:
 * Technische Universität München (Forschung)
 * Landesamt für Natur, Umwelt und Klima NRW, LANUK (Gewässermonitoring gemäß WRRL Taxonomie Qualitätskomponente Diatomeen)
-* Landesamt für Umwelt Rheinland-Pfalz (Gewässermonitoring gemäß WRRL Feldansprache Qualitätskomponenten Makrophyten, PoD, Diatomeen und Taxonomie Diatomeen)
-* Wasserwirtschaftsamt Ansbach, Bayern (Gewässermonitoring gemäß WRRL Taxonomie Qualitätskomponente Diatomeen)    
-▶︎ [Eine Übersicht ausgewählter vergangener Projekte finden Sie hier (PDF)](/images/HYDROBIOLOGIE-KOPLITZ-Referenzen.pdf). 
+* Landesamt für Umwelt Rheinland-Pfalz (2026, Gewässermonitoring gemäß WRRL Feldansprache Qualitätskomponenten Makrophyten, PoD, Diatomeen und Taxonomie Diatomeen)
+* Wasserwirtschaftsamt Ansbach, Bayern (2026, Gewässermonitoring gemäß WRRL Taxonomie Qualitätskomponente Diatomeen)    
+▶︎ [Eine Übersicht vergangener Projekte finden Sie hier](/referenzen/). 
 
+___ 
+
+#### Leistungsportfolio. 
+Einzigartig verbinden wir limnologische, ökologische und biologische Expertise zuweilen auch mit der langjährigen Erfahrung in praxisnaher Wissensvermittlung. Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer Lebensräume bis hin zur fachgutachterlichen Berichterstattung gewässerökologischer Forschung.  
+▶︎ [Hydrobiologie und Gewässerfachgutachten](/hydrobiologie/).   
+▶︎ [Umweltbildungsprojekt „SpyingOnScience“](/bildungsprojekte).  
 ___
 
 #### Präzise biologische Gewässeruntersuchung und kontinuierliche -bewertung sind (über)lebenswichtig. 
@@ -97,14 +110,7 @@ Weiterführende Links:
 ▶︎ [Flugdaten des "OAG: Flight Database & Statistics".](https://www.oag.com/airline-frequency-and-capacity-statistics#:~:text=SCHEDULED%20FLIGHT%20COUNTER&text=With%2014%2C098%2C739%20flights%20in%20total,flights%20per%20day%20is%20100%2C705.)  
 ▶︎ [Bildung für nachhaltige Entwicklung bis 2030.](https://www.bne-portal.de/bne/de/nationaler-aktionsplan/bildung-fuer-nachhaltige-entwicklung-bis-2030/bildung-fuer-nachhaltige-entwicklung-bis-2030.html)
 
-___ 
 
-
-
-#### Leistungsportfolio. 
-Einzigartig verbinden wir limnologische, ökologische und biologische Expertise zuweilen auch mit der langjährigen Erfahrung in praxisnaher Wissensvermittlung. Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer Lebensräume bis hin zur fachgutachterlichen Berichterstattung gewässerökologischer Forschung.  
-▶︎ [Hydrobiologie und Gewässerfachgutachten](/hydrobiologie/).   
-▶︎ [Umweltbildungsprojekt „SpyingOnScience“](/bildungsprojekte).  
 
 <br> <br> 
 
