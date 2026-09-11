@@ -8,12 +8,12 @@ image: "diatoms.png"
 ![spyingonscience.com.](/images/scicomm.png "Wir freuen uns über Ihr Interesse an wissenschaftlicher, faktengestützter Umweltbildung!")
 
 
-# **Umweltbildungsprojekt "SpyingOnScience".** 
+# **Umweltbildungsprojekte "#SpyingOnScience".** 
 ___
 #### Motivierende Vermittlung von Umwelt- und Naturthemen: Von der didaktischen Konzeption und zielgruppengerechten Aufbereitung bis zur praxisnahen Bildungsveranstaltung oder Ausstellung. 
 
 Es ist uns ein besonderes Anliegen, naturwissenschaftliche Inhalte direkt zu den Menschen zu bringen und dadurch Umweltkompetenz nachhaltig zu vermitteln und zu stärken. Wir betreiben nicht "einfach nur ein bisschen Wissenschaftskommunikation nebenher". Wir erarbeiten Bildungskonzepte und bieten personalisierte Bildungs- und Umwelt-Spaß-Veranstaltungen an.   
-HYDROBIOLOGIE KOPLITZ hat 2021 das unabhängige Umweltbildungsprojekt "#SpyingOnScience" ins Leben gerufen und gestaltet seitdem erfolgreich unter diesem Slogan diverse Bildungsräume in und um München aktiv mit. 
+Das KOPLITZ INSTITUT hat 2021 das unabhängige Umweltbildungsprojekt "#SpyingOnScience" ins Leben gerufen und gestaltet seitdem erfolgreich unter diesem Slogan diverse Bildungsräume in und um München aktiv mit. 
 
 ___
 #### Leistungskatalog.  
@@ -50,7 +50,7 @@ Beispiele für Gruppen, die wir bereits erfolgreich betreut haben, sind:
 * Privatgruppen, Freiziteinrichtungen, Kindergeburtstage
 * Betriebsausflüge, Seniorengruppen 
 * Inklusionsgruppen, beispielsweise sehbehinderte oder rollstuhlfahrende Menschen 
-* Fremdsprachengruppen (präsentationssicheres Englisch; auf Französisch, Italienisch & Dänisch kann ich zusätzlich kommunizieren)
+* Fremdsprachengruppen (präsentationssicheres Englisch;Alltagskommunikation auf Französisch, Italienisch & Dänisch zusätzlich mögich)
 * Gruppen mit Deutsch als Fremdsprache
 * uva.  
 ___ 
@@ -58,7 +58,7 @@ ___
 #### Preise. 
 Die Preisgestaltung orientiert sich grundsätzlich an der Honorarermittlung für freie Limnologen zzgl. laufende Kosten, Material & Anfahrt/Logis. Weiterhin lehnen wir unsere Preise für Führungen und Workshops an den Preiskatalog unserer vermittelnden Kooperationspartner an.   
 ▶︎ [Leistungsverzeichnis für Limnologie (LVLIM) - Gewässerökologische Untersuchungen (2012)](https://limnologen.com/honorarermittlung/).   
-▶︎ [Das aktuelle Angebot für die Grundschule (3./4. Klasse, 1,5 Std.) finden Sie hier](/angebot/).  
+▶︎ [Das aktuelle vorgefertigte Angebot für die Grundschule (3./4. Klasse, 1,5 Std.) finden Sie hier](/angebot/).  
 
 ___ 
 
@@ -73,14 +73,6 @@ Wir arbeiten mit privaten und öffentlichen Institutionen, Trägern und Auftragg
 * Deutsches Museum (Museumsinsel)
 u.v.a. 
 ___ 
-
-#### Qualifikation.  
-Wir überzeugen durch unsere über fünf Jahre Erfahrung in der Umweltbildungsarbeit mit diversen Gruppen und kontinuierliche Fortbildungen.   
-▶︎ [Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF).](/images/HYDROBIOLOGIE-KOPLITZ-Info.pdf).    
-▶︎ [Eine Übersicht ausgewählter vergangener Projekte finden Sie hier im chaotischen Veranstaltungsarchiv](/archive/). 
-
-
-___
 
 #### Gewässer verstehen. Ressourcen schützen. Zukunft gestalten.
 Einzigartig verbinden wir limnologische, ökologische und biologische Expertise zuweilen auch mit der langjährigen Erfahrung in praxisnaher Wissensvermittlung. Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer Lebensräume bis hin zur fachgutachterlichen Berichterstattung gewässerökologischer Forschung. Informieren Sie sich gerne auch über dieses weitere Tätigkeitsfeld.  

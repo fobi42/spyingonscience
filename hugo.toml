@@ -1,5 +1,5 @@
 baseURL = 'spyingonscience.com'
-title = 'HYDROBIOLOGIE KOPLITZ'
+title = 'KOPLITZ INSTITUT'
 
 languageCode = "en"
 theme = "lightbi"
@@ -77,7 +77,7 @@ pagerSize = 9
 
 
 [[menu.main]]
-    name = "  Über  "
+    name = "  Profil  "
     url = "/profil/"
     weight = 5
 

@@ -10,12 +10,9 @@ image: "diatoms.png"
 ___
 #### Fachlich fundierte Bewertung von Süßgewässern: Von der Probenahme und biologischen Untersuchung bis zur fachgutachterlichen Einordnung.  
 
-Fließgewässer und Seen sind komplexe Ökosysteme. Die besiedelnde biologische Gemeinschaft erzählt viel über den Gewässerzustand, informiert über Belastungen und skizziert Entwicklungen.  
-
-HYDROBIOLOGIE KOPLITZ untersucht diese Zusammenhänge mit etablierter und modernster Technik und übersetzt messbare biologische Daten in belastbare fachliche Aussagen.  
-
-Unser Workflow in drei Sätzen:  
-Wir führen entsprechend der europa- und landesweiten Standards professionelle Gewässerkartierungen mit moderner Technik vor Ort durch. Wissenschaftlich fundiert werden die Diatomeengesellschaften morphologisch analysiert. Die taxonomischen Ergebnisse werden mit gängigen Bewertungstools, abgerundet durch gutachterliche Expertise, in einem prägnanten Bericht zusammengefasst.  
+Fließgewässer und Seen sind komplexe Ökosysteme. Die besiedelnde biologische Gemeinschaft erzählt viel über den Gewässerzustand, informiert über Belastungen und skizziert Entwicklungen.   
+Das KOPLITZ INSTITUT FÜR LIMNOLOGIE & HYDROBIOLOGIE untersucht diese Zusammenhänge mit etablierter und moderner Technik und übersetzt messbare biologische Daten in belastbare fachliche Aussagen.   
+Unser Workflow in drei Sätzen: Wir führen entsprechend der europa- und landesweiten Standards professionelle Gewässerkartierungen mit moderner Technik vor Ort durch. Wissenschaftlich fundiert werden die Diatomeengesellschaften morphologisch analysiert. Die taxonomischen Ergebnisse werden mit gängigen Bewertungstools, abgerundet durch gutachterliche Expertise, in einem prägnanten Bericht zusammengefasst.  
 
 ___
 #### Leistungskatalog.  
@@ -45,10 +42,9 @@ Wir ...
 **... BEWERTEN Diatomeengesellschaften wissenschaftlich fundiert.**   
 * Vorgehen gemäß Angaben der WRRL 
 * Analyse der Diatomeenzusammensetzung eines fixierten Diatomeenpräparats
-    * Zeiss Axiolab 5 (mobil, auch vor Ort): aplan.-achrom. Kondensor, Objektiv EC Plan-Neofluar 100x/1,3 Oil Ph3 M27 mit Zeiss Immersol 518 N. 
-    * Zeiss Axioscope 5 (Standort München): aplan.-achrom. Kondensor, Objektiv Plan-Apochromat 100x/1,4 Oil DIC M27 (a=0,17mm) mit Zeiss Immersol 518 F. 
-* Fotodokumentation: Euromex Ultra HD/ 4k Stand Alone Kamera (VC.3042)
-* Software: ImageFocusAlpha (Euromex)
+    * Zeiss Axiolab 5 (mobil, auch vor Ort)
+    * Zeiss Axioscope 5 (Standort München)
+* Fotodokumentation (Euromex)
 * Aufbereitung der Taxalisten in Microsoft Excel und RStudio entsprechend den aktuellen Bundestaxalisten bzw. Zieleingabeprogrammen (BOG, PERLA, Phylib)
 * Eingabe in Zieleingabeprogramme (BOG, PERLA, Phylib)  
 
@@ -101,23 +97,6 @@ Kartierung, Feldansprache von PoD und Makrophyten (inkl. Moose), Makrophyten-Tax
 * Umweltplanung A. Hofmann (Dr. Andrea Hofmann):  
 Diatomeentaxonomie
 ___ 
-
-#### Qualifikation.  
-Mit großer Begeisterung sind wir im Bereich der Gewässeruntersuchung tätig, mit besonderem Augenmerk auf Gewässerbotanik inkl. Phykologie mit Expertise in der Diatomeentaxonomie. Die Mitarbeitenden werden kontinuierlich fortgebildet.  
-▶︎ [Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF)](/images/HYDROBIOLOGIE-KOPLITZ-Info.pdf). 
-
-___ 
-
-#### Referenzen. 
-Unsere Expertise wenden wir erfolgreich seit 2022 an. Somit waren wir neben unseren aktuellen Netzwerkkooperationen bereits tätig für:
-* Technische Universität München
-* Landesamt für Natur, Umwelt und Klima NRW (LANUK)
-* Landesamt für Umwelt Rheinland-Pfalz 
-* Wasserwirtschaftsamt Ansbach (Bayern).   
-
-▶︎ [Eine Übersicht ausgewählter vergangener Projekte finden Sie hier (PDF)](/images/HYDROBIOLOGIE-KOPLITZ-Referenzen.pdf). 
-
-___
 
 #### Umwelt verstehen. Wissenschaft sichtbar machen. Zukunft gestalten.
 Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer Lebensräume bis hin zur verständlichen Kommunikation von Umweltthemen und Wissenschaft. Einzigartig verbinden wir limnologische, ökologische und biologische Expertise zuweilen auch mit langjähriger Erfahrung in praxisnaher Wissensvermittlung. Informieren Sie sich gerne auch über dieses weitere Tätigkeitsfeld.  

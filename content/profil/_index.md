@@ -16,6 +16,53 @@ Wir setzen uns als unabhängiges Fachinstitut durch unsere Arbeit in der Limnolo
 
 ____ 
 
+#### Unternehmensstruktur. 
+Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie & Limnologie an. 
+Zudem engagieren wir uns in unserem Umfeld für naturwissenschaftliche Bildung für alle Zielgruppen durch unser Umweltbildungsprojekt „#SpyingOnScience“.   
+
+<br> <br> 
+
+**Institutsleitung.**  
+Andrea Koplitz-Weißgerber, M. Sc. Biologie   
+*„Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme, denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.“*   
+* Diatomeentaxonomie
+* Gewässergutachten
+* Umweltbildung (Bildungsakteurin für BNE)
+▶︎ [Details und Vita sind hier auf LinkedIn einsehbar](https://www.linkedin.com/in/andrea-koplitz-weissgerber/). 
+▶︎ [Wissenschaftliche Beiträge können auf researchgate gelesen werden](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber?ev=hdr_xprf). 
+
+<br> <br> 
+
+**Fachbereiche.**   
+Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Kooperationen in den Bereichen:   
+* Diatomeentaxonomie 
+* Fachgutachten 
+* Feldarbeit 
+* Gewässerkartierung 
+* Museumspädagogik
+* Labordienstleistungen 
+* Makrophyten-Taxonomie (inkl. Moose) 
+* PoD-Taxonomie    
+▶︎ [Weitere Informationen zu unseren Netzwerkpartnern finden Sie hier](/hydrobiologie/). 
+
+___ 
+
+#### Qualifikation.  
+Mit großer Begeisterung sind wir im Bereich der Gewässeruntersuchung tätig, mit besonderem Augenmerk auf Gewässerbotanik inkl. Phykologie mit Expertise in der Diatomeentaxonomie. Die Mitarbeitenden werden kontinuierlich fortgebildet. Wir überzeugen durch unsere über fünf Jahre Erfahrung in der Umweltbildungsarbeit mit diversen Gruppen und kontinuierliche Fortbildungen.   
+▶︎ [Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF).](/images/HYDROBIOLOGIE-KOPLITZ-Info.pdf).   
+
+___ 
+
+#### Referenzen. 
+Unsere Expertise wenden wir erfolgreich seit 2022 an. Somit waren wir neben unseren aktuellen Netzwerkkooperationen bereits tätig für:
+* Technische Universität München (Forschung)
+* Landesamt für Natur, Umwelt und Klima NRW, LANUK (Gewässermonitoring gemäß WRRL Taxonomie Qualitätskomponente Diatomeen)
+* Landesamt für Umwelt Rheinland-Pfalz (Gewässermonitoring gemäß WRRL Feldansprache Qualitätskomponenten Makrophyten, PoD, Diatomeen und Taxonomie Diatomeen)
+* Wasserwirtschaftsamt Ansbach, Bayern (Gewässermonitoring gemäß WRRL Taxonomie Qualitätskomponente Diatomeen)    
+▶︎ [Eine Übersicht ausgewählter vergangener Projekte finden Sie hier (PDF)](/images/HYDROBIOLOGIE-KOPLITZ-Referenzen.pdf). 
+
+___
+
 #### Präzise biologische Gewässeruntersuchung und kontinuierliche -bewertung sind (über)lebenswichtig. 
 
 Aquatische Lebensräume werden nicht nur von verschiedensten – auch bedrohten und besonders sensiblen – Tier- und Pflanzenarten besiedelt, sondern sie sind auch Teil eines unentbehrlichen Netzwerks, das die (menschliche) Lebensgrundlage schafft. Etwa zwei Drittel der Körpermasse eines Menschen bestehen aus Wasser. Doch nicht nur das: Unser gesamtes Weltverständnis – um nur einige Beispiele zu nennen: Kreisläufe, Entstehungs- und Zersetzungsprozesse sowie technische oder medizinische Errungenschaften – basiert auf den biologischen, chemischen und physikalischen Eigenschaften des Moleküls Dihydrogenmonoxid.  
@@ -52,32 +99,7 @@ Weiterführende Links:
 
 ___ 
 
-#### Unternehmensstruktur. 
-Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie & Limnologie an. 
-Zudem engagieren wir uns in unserem Umfeld für naturwissenschaftliche Bildung für alle Zielgruppen durch unser Umweltbildungsprojekt „SpyingOnScience“.   
 
-<br> <br> 
-
-**Institutsleitung.**  
-Andrea Koplitz-Weißgerber, M. Sc. Biologie   
-*„Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme, denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.“*   
-▶︎ [Details und Vita sind hier auf LinkedIn einsehbar](https://www.linkedin.com/in/andrea-koplitz-weissgerber/).
-
-<br> <br> 
-
-**Fachbereiche.**   
-Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Kooperationen in den Bereichen:   
-* Diatomeentaxonomie 
-* Fachgutachten 
-* Feldarbeit 
-* Gewässerkartierung 
-* Museumspädagogik
-* Labordienstleistungen 
-* Makrophyten-Taxonomie (inkl. Moose) 
-* PoD-Taxonomie    
-▶︎ [Weitere Informationen zu unseren Netzwerkpartnern finden Sie hier](/hydrobiologie/). 
-
-___ 
 
 #### Leistungsportfolio. 
 Einzigartig verbinden wir limnologische, ökologische und biologische Expertise zuweilen auch mit der langjährigen Erfahrung in praxisnaher Wissensvermittlung. Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer Lebensräume bis hin zur fachgutachterlichen Berichterstattung gewässerökologischer Forschung.  
