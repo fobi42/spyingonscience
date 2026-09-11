@@ -67,7 +67,7 @@ pagerSize = 9
 [[menu.main]]
     name = "  Umweltbildung  "
     url = "/bildungsprojekte/"
-    weight = 4
+    weight = 5
 
 
 [[menu.main]]
@@ -79,7 +79,7 @@ pagerSize = 9
 [[menu.main]]
     name = "  Profil  "
     url = "/profil/"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     name = "  Impressum/Datenschutz  "
