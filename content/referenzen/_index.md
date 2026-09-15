@@ -9,7 +9,14 @@ image: "scicomm.png"
 ___ 
 
 #### 2026. 
+Unvollständig.  
 Derzeit sind alle Projekte in Bearbeitung.   
+* "Fließgewässer-Monitoring RP gemäß OGewV: Makrophyten/Phytobenthos 2026" (Landesamt für Umwelt Rheinland-Pfalz, ca. 90 Mst.)
+* "Kartierung an Fließgewässer des eigenen Monitorings - Zählen und Bestimmen von 4 benthischen Diatomeen aus 2026 an Fließgewässer" (Wasserwirtschaftsamt Ansbach, 4 Mst.). 
+* “Aufbereitung, Bestimmung sowie Aus- und Bewertung von benthischen Diatomeenproben aus nordrhein-westfälischen Fließgewässern der Jahre 2025-2028” (Landesamt für Natur, Umwelt und Klima NRW, LANUK, ca. 50 Mst.).
+* "Erhebung, Bestimmung und Bewertung von Makrophyten und/oder Phytobenthos (Diatomeen
+& PoD) -Proben an berichtspflichtigen Gewässern gemäß WRRL (Richtlinie 2000/60/EG) in den Zuständigkeitsbereichen der NLWKN-Betriebsstellen." (WATERWORLD-CONSULT, ca. 80 Mst.)  
+
 ___ 
 
 #### 2025. 
