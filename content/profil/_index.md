@@ -25,7 +25,7 @@ Zudem engagieren wir uns in unserem Umfeld für naturwissenschaftliche Bildung f
 **Institutsleitung.**  
 Andrea Koplitz-Weißgerber, M. Sc. Biologie   
 * Diatomeentaxonomie
-* Gewässergutachten
+* Gewässerökologie
 * Umweltbildung (Bildungsakteurin für BNE)  
 
 *„Mich fasziniert die interdisziplinäre Betrachtung ökologischer Systeme, denn sie verbindet wissenschaftliche Erkenntnisse mit gesellschaftlicher Verantwortung.“*    
@@ -53,8 +53,10 @@ Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Koo
 **Mitgliedschaften.**   
 Wir sind Teil einiger aktiver Gesellschaften und beruflicher Fachverbände. 
 * [Deutsche Gesellschaft für Limnologie e. V.](https://dgl-ev.de/)
+* [International Society for Diatom Research](https://isdr.org/)
 * [VBIO: Verband Biologie, Biowissenschaften und Biomedizin in Deutschland e.V.](https://www.vbio.de/) 
 * [Deutscher Museumsbund e. V.](https://www.museumsbund.de/)
+
 
 ___ 
 
@@ -65,7 +67,7 @@ Mit großer Begeisterung sind wir im Bereich der Gewässeruntersuchung tätig, m
 ___ 
 
 #### Referenzen. 
-Unsere Expertise in der Gewässerökologie wenden wir erfolgreich seit 2022 an. Somit waren wir neben unseren aktuellen Netzwerkkooperationen bereits tätig für:
+Unsere Expertise in der Gewässerökologie wenden wir erfolgreich seit 2024 an. Somit waren wir neben unseren aktuellen Netzwerkkooperationen bereits tätig für:
 * Technische Universität München (Forschung)
 * Landesamt für Natur, Umwelt und Klima NRW, LANUK (Gewässermonitoring gemäß WRRL Taxonomie Qualitätskomponente Diatomeen)
 * Landesamt für Umwelt Rheinland-Pfalz (2026, Gewässermonitoring gemäß WRRL Feldansprache Qualitätskomponenten Makrophyten, PoD, Diatomeen und Taxonomie Diatomeen)
