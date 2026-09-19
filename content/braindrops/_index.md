@@ -14,7 +14,7 @@ ___
 #### Was sind BRAIN DROPS?
 💧 Der Regentropfen heißt auf englisch "rain drop" und das Gehirn auf englisch "brain". Dieses Wortspiel zusammen bedeutet also "Gehirn-Tropfen". Diese Seite enthält Antworten auf all die Fragen, die mir während meiner Bildungsveranstaltungen gestellt wurden. Ich sammle diese Fragen und deren Antworten wie kleine Regentropfen in einer Regentonne - und wenn man irgendwann ganz viele davon hat, ist die Tonne voll und wir gemeinsam durch eure Fragen und meine Suche nach Antworten ein kleines Stückchen schlauer. 
 
-🧠 Man könnte auch weiter gehen und sagen, "brain drops" sind kleine Happen an Wissen, die man immer mal wieder Lutschen kann und ein bisschen schlauer wird.   
+🧠 Man könnte auch weiter gehen und sagen, "brain drops" sind kleine Happen an Wissen, die man immer mal wieder lutschen kann und ein bisschen schlauer wird.   
 
 🤯 Und für die, die bei den Fragen live dabei waren: Ich weiß viel, aber sicher nicht alles. Und wenn mir so gute Fragen gestellt werden, dass ich sie nicht sicher beantworten kann, dann schaue ich nach. Im ersten Moment bin ich aber erstaunt und überrascht und da ist mir dann wahrscheinlich nicht "das Herz in die Hose gerutscht" (engl. "my heart drops"), sondern mein Gehrin. Denn dieses Organ ist für uns Mensch der Inbergiff von Wissen und Lernen.     
 
@@ -33,7 +33,7 @@ Bitte beachte das geltende [Urheberrecht](/contact/) auf die Dateien und das Bil
 
 <br> <br> 
 
-**Wie nennt man die Mitte von unserer Michstraße? (1./2. Klasse Grundschule)**
+**Wie nennt man die Mitte von unserer Milchstraße? (1./2. Klasse Grundschule)**
 <audio controls preload="metadata" style="width: 100%;">
   <source src="/audio/galaktisches-zentrum.mp3" type="audio/mpeg">
   Dein Browser unterstützt das Audio-Element nicht.
@@ -45,7 +45,7 @@ Bitte beachte das geltende [Urheberrecht](/contact/) auf die Dateien und das Bil
 
 <br> <br> 
 
-**Intro! (09/2026)**
+**Intro!**
 <audio controls preload="metadata" style="width: 100%;">
   <source src="/audio/intro-braindrops.mp3" type="audio/mpeg">
   Dein Browser unterstützt das Audio-Element nicht.
@@ -65,13 +65,13 @@ Unser Format macht daraus einen konkreten Prozess. Denn  Kinder fragen, wir rech
 
 ▶︎ [Überblick zur Entwicklung von Fragen als Informations- und Lernstrategie bei Kindern (Chouinard, M. M. (2018): Question-asking in childhood: A review of the literature and a framework for understanding its development. Developmental Review, 49, 101–120)](https://www.sciencedirect.com/science/article/abs/pii/S0273229717301508?via%3Dihub).   
 
-▶︎ [Fragenstellen erhöht die Bewertung neuer wissenschaftlicher Informationen und zeigt Vorteile für Neugier und Lernen, insbesondere bei Kindern mit weniger Vorwissen (Park et al. (2026): Question asking practice fosters aspects of curiosity in science content in young children. npj Science of Learning)](https://www.nature.com/articles/s41539-025-00384-5).  
-
-▶︎ [Epistemische Neugier steht mit wissenschaftlichem Denken und späterem naturwissenschaftlichem Wissen in Zusammenhang (Koerber, S. & Osterhaus, C. (2026): Faces and phases of epistemic curiosity in science learning: A longitudinal study. British Journal of Developmental Psychology, 44(3), 657–670)](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.70041).  
-
 ▶︎ [Kindliche Neugier und wissenschaftliche Informationen (Jirout, J.J., Evans, N.S. & Son, L.K. (2024): Curiosity in children across ages and contexts. Nat Rev Psychol 3, 622–635)](https://www.nature.com/articles/s44159-024-00346-5).  
 
-▶︎ [Fragenstellen als zentraler Bestandteil von Wissenssuche (Raz T, Kenett YN. The Psychology of Question Asking: A Comprehensive Review. Annu Rev Psychol. 2026 Aug 7. doi: 10.1146/annurev-psych-090925-111730)](https://pubmed.ncbi.nlm.nih.gov/42566691/).    
+▶︎ [Fragenstellen erhöht die Bewertung neuer wissenschaftlicher Informationen und zeigt Vorteile für Neugier und Lernen, insbesondere bei Kindern mit weniger Vorwissen (Park et al. (2026): Question asking practice fosters aspects of curiosity in science content in young children. npj Science of Learning)](https://www.nature.com/articles/s41539-025-00384-5).   
+
+▶︎ [Epistemische Neugier steht mit wissenschaftlichem Denken und späterem naturwissenschaftlichem Wissen in Zusammenhang (Koerber, S. & Osterhaus, C. (2026): Faces and phases of epistemic curiosity in science learning: A longitudinal study. British Journal of Developmental Psychology, 44(3), 657–670)](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.70041).    
+
+▶︎ [Fragenstellen als zentraler Bestandteil von Wissenssuche (Raz T, Kenett YN. (2026): The Psychology of Question Asking: A Comprehensive Review. Annu Rev Psychol. doi: 10.1146/annurev-psych-090925-111730)](https://pubmed.ncbi.nlm.nih.gov/42566691/).    
 
 ___
 
