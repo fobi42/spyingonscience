@@ -16,42 +16,36 @@ ___
 
 🧠 Man könnte auch weiter gehen und sagen, "brain drops" sind kleine Happen an Wissen, die man immer mal wieder Lutschen kann und ein bisschen schlauer wird.   
 
-🤯 Und für die, die bei den Fragen live dabei waren: Ich weiß viel, aber sicher nicht alles. Und wenn mir so gute Fragen gestellt werden, dass ich sie nicht sicherbeantworten kann, dann schaue ich nach. Im ersten Moment bin ich aber erstaunt und überrascht und da ist mir dann wahrscheinlich nicht "das Herz in die Hose gerutscht" (engl. "my heart drops"), sondern mein Gehrin. Denn dieses Organ ist für uns Mensch der inberiff von Wissen und Lernen.     
+🤯 Und für die, die bei den Fragen live dabei waren: Ich weiß viel, aber sicher nicht alles. Und wenn mir so gute Fragen gestellt werden, dass ich sie nicht sicher beantworten kann, dann schaue ich nach. Im ersten Moment bin ich aber erstaunt und überrascht und da ist mir dann wahrscheinlich nicht "das Herz in die Hose gerutscht" (engl. "my heart drops"), sondern mein Gehrin. Denn dieses Organ ist für uns Mensch der Inbergiff von Wissen und Lernen.     
 
 ___
 #### Warum gibt es die BRAIN DROPS?  
-Mitdenken beim Museumsbesuch und beim Ausflug lohnt sich: Denn Erwachsene habe nicht immer recht und Wissen muss mit nachvollziehbaren Quellen belegbar sein!     
+Mitdenken beim Museumsbesuch und beim Ausflug lohnt sich: Denn Erwachsene haben nicht immer recht und Wissen muss mit nachvollziehbaren Quellen belegbar sein!     
 
-Die Audios schaffen einen niedrigschwelligen, persönlichen und empathischen Zugang zu wissenschaftlichen Erkenntnissen.   
-Denn die Botschaft ist nicht nur der Wissensgewinn, sondern Selbstermächtigung und Zugehörigkeit zur wissenschaftlichen Gemeinschaft: „Ich habe eine Frage gestellt und jemand hat sie ernst genommen, sie für mich recherchiert und mir eine wissenschaftlich fundierte Antwort gegeben". Das Format schafft Erfahrungen von Selbstwirksamkeit und epistemischer Handlungskompetenz: Kinder erleben, dass sie durch eigene Fragen einen Erkenntnisprozess anstoßen können.  
-Weitere Infos: Wissenschaftliche Einordnung am Ende der Seite. 
+Die Audios schaffen einen niedrigschwelligen, persönlichen und empathischen Zugang zu wissenschaftlichen Erkenntnissen. Denn die Botschaft ist nicht nur der Wissensgewinn, sondern Selbstermächtigung und Zugehörigkeit zur wissenschaftlichen Gemeinschaft: „Ich habe eine Frage gestellt und jemand hat sie ernst genommen, sie für mich recherchiert und mir eine wissenschaftlich fundierte Antwort gegeben". Das Format schafft Erfahrungen von Selbstwirksamkeit und epistemischer Handlungskompetenz: Kinder erleben, dass sie durch eigene Fragen einen Erkenntnisprozess anstoßen können.  Weitere Infos und wissenschaftliche Einordnung am Ende der Seite. 
 
 ___ 
 
 #### Die Audio-Antworten. 
 Hier findet ihr die Antworten auf eure Fragen mit Angaben, woher ich mein Wissen habe.   
-Danke für die tolle Frage, auch ich habe wieder etwas gelernt! 
-Bitte beachte das geltende [Urheberrecht](/contact/) auf die Dateien und das Bildungsformat.
-
-
-<br> <br> 
-Testaudio (09/2026)
-<audio controls preload="metadata" style="width: 100%;">
-  <source src="/audio/meine-audiodatei.mp3" type="audio/mpeg">
-  Dein Browser unterstützt das Audio-Element nicht.
-</audio>  
+Danke für die tolle Frage, auch ich habe wieder etwas gelernt!  
+Bitte beachte das geltende [Urheberrecht](/contact/) auf die Dateien und das Bildungsformat.  
 
 <br> <br> 
 
-Wie nennt man die Mitte von unserer Michstraße? (09/2026)
+**Wie nennt man die Mitte von unserer Michstraße? (09/2026)**
 <audio controls preload="metadata" style="width: 100%;">
   <source src="/audio/galaktisches-zentrum.mp3" type="audio/mpeg">
   Dein Browser unterstützt das Audio-Element nicht.
-</audio>  
-<p style="font-size: 10px;">Transkript: Ich habe die Frage bekommen bei einer (0:15) Führung, da ging es um unsere Sonnensystem und um unsere Galaxis, in (0:21) der unser Sonnensystem sich befindet und zwar die Milchstraße und da war die (0:24) Frage, was befindet sich denn in der Mitte von unserer Galaxie und die (0:30) Antwort darauf ist das sogenannte galaktische Zentrum. In diesem Zentrum (0:36) ist ein schwarzes Loch und dieses Zentrum ist von uns aus gesehen 27.000 (0:44) Lichtjahre entfernt. Vielen Dank fürs Mitdenken, bis bald.</p>
-<p style="font-size: 10px;">Quellen: https://www.mpifr-bonn.mpg.de/338554/zentrum, https://www.astro.physik.uni-potsdam.de/\~prichter/stelen/01_Milchstrasse.pdf . </p>  
+</audio> 
+<p style="font-size: 10px;">
+  Quellen: https://www.mpifr-bonn.mpg.de/338554/zentrum, https://www.astro.physik.uni-potsdam.de/\~prichter/stelen/01_Milchstrasse.pdf .    
+  Transkript: Ich habe die Frage bekommen bei einer (0:15) Führung, da ging es um unsere Sonnensystem und um unsere Galaxis, in (0:21) der unser Sonnensystem sich befindet und zwar die Milchstraße und da war die (0:24) Frage, was befindet sich denn in der Mitte von unserer Galaxie und die (0:30) Antwort darauf ist das sogenannte galaktische Zentrum. In diesem Zentrum (0:36) ist ein schwarzes Loch und dieses Zentrum ist von uns aus gesehen 27.000 (0:44) Lichtjahre entfernt. Vielen Dank fürs Mitdenken, bis bald.</p>    
 
-Intro! (09/2026)
+
+<br> <br> 
+
+**Intro! (09/2026)**
 <audio controls preload="metadata" style="width: 100%;">
   <source src="/audio/intro-braindrops.mp3" type="audio/mpeg">
   Dein Browser unterstützt das Audio-Element nicht.
@@ -62,8 +56,8 @@ Intro! (09/2026)
 ___
 #### Wissenschaftliche Einordnung von BRAIN DROPS. 
 
-Gute Fragen machen Kinder zu aktiven Gestalter ihres eigenen Lernens: Sie benennen Wissenslücken, suchen nach Antworten und stoßen Lernprozesse selbst an. Gerade in der Wissenschaftsbildung zeigt sich die Wirkung: Kinder, die zum Fragenstellen angeregt werden bewerteten neue naturwissenschaftliche Informationen höher und zeigen mehr Neugier und Lernzuwachs.
-Unser Format macht daraus einen konkreten Prozess: Kinder fragen – wir recherchieren – Kinder bekommen eine wissenschaftlich fundierte Antwort. So erfahren sie: Meine Frage ist wichtig. Ich kann Wissen anstoßen. Wissenschaft hilft mir, Antworten zu finden. Dieses Format ist erstmalig nicht nur ein „Wir fragen die Wissenschaft antwortet"-Konzept, sondern schließt eine bestehende Lücke: „Mine Frage kann etwas in Bewegung setzen. Meine Frage wird recherchiert – und ich  bekomme die Antwort zurück. Mitdenken und Hinterfragen lohnt sich!“.    
+Gute Fragen machen Kinder zu aktiven Gestaltenden ihres eigenen Lernens: Sie benennen Wissenslücken, suchen nach Antworten und stoßen Lernprozesse selbst an. Gerade in der Wissenschaftsbildung zeigt sich die Wirkung: Kinder, die zum Fragenstellen angeregt werden bewerteten neue naturwissenschaftliche Informationen höher und zeigen mehr Neugier und Lernzuwachs.
+Unser Format macht daraus einen konkreten Prozess. Denn  Kinder fragen, wir recherchieren, Kinder bekommen eine wissenschaftlich fundierte Antwort. So erfahren sie "Meine Frage ist wichtig. Ich kann Wissen anstoßen. Wissenschaft hilft mir, Antworten zu finden". Dieses Format ist erstmalig nicht nur ein „Wir fragen, die Wissenschaft antwortet"-Konzept, sondern schließt die bestehende Lücke proaktiver Erlebnisse: „Meine Frage kann etwas in Bewegung setzen. Meine Frage wird recherchiert – und ich  bekomme die Antwort zurück. Mitdenken und Hinterfragen lohnt sich!“.    
 
 
 ▶︎ [Überblick zur Entwicklung von Fragen als Informations- und Lernstrategie bei Kindern (Chouinard, M. M. (2018): Question-asking in childhood: A review of the literature and a framework for understanding its development. Developmental Review, 49, 101–120)](https://www.sciencedirect.com/science/article/abs/pii/S0273229717301508?via%3Dihub).   
@@ -78,7 +72,7 @@ Unser Format macht daraus einen konkreten Prozess: Kinder fragen – wir recherc
 
 ___
 
-Die Musik wurde freundlicher weise von <a href="https://pixabay.com/de/users/lineshjose-42408875/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=283799">LineshJose</a> auf <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=283799">Pixabay</a> zur Verfügung gestellt. 
+Die Musik "raindrops" im Intro wurde freundlicher Weise von <a href="https://pixabay.com/de/users/lineshjose-42408875/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=283799">LineshJose</a> auf <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=283799">Pixabay</a> zur Verfügung gestellt. 
 
 ___
 
