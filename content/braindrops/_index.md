@@ -33,13 +33,13 @@ Bitte beachte das geltende [Urheberrecht](/contact/) auf die Dateien und das Bil
 
 <br> <br> 
 
-**Wie nennt man die Mitte von unserer Michstraße? (09/2026)**
+**Wie nennt man die Mitte von unserer Michstraße? (1./2. Klasse Grundschule)**
 <audio controls preload="metadata" style="width: 100%;">
   <source src="/audio/galaktisches-zentrum.mp3" type="audio/mpeg">
   Dein Browser unterstützt das Audio-Element nicht.
 </audio> 
-<p style="font-size: 10px;">
-  Quellen: https://www.mpifr-bonn.mpg.de/338554/zentrum, https://www.astro.physik.uni-potsdam.de/\~prichter/stelen/01_Milchstrasse.pdf .    
+<p style="font-size: 12px;">
+  September 2026. Quellen: https://www.mpifr-bonn.mpg.de/338554/zentrum, https://www.astro.physik.uni-potsdam.de/\~prichter/stelen/01_Milchstrasse.pdf .    
   Transkript: Ich habe die Frage bekommen bei einer (0:15) Führung, da ging es um unsere Sonnensystem und um unsere Galaxis, in (0:21) der unser Sonnensystem sich befindet und zwar die Milchstraße und da war die (0:24) Frage, was befindet sich denn in der Mitte von unserer Galaxie und die (0:30) Antwort darauf ist das sogenannte galaktische Zentrum. In diesem Zentrum (0:36) ist ein schwarzes Loch und dieses Zentrum ist von uns aus gesehen 27.000 (0:44) Lichtjahre entfernt. Vielen Dank fürs Mitdenken, bis bald.</p>    
 
 
@@ -50,7 +50,10 @@ Bitte beachte das geltende [Urheberrecht](/contact/) auf die Dateien und das Bil
   <source src="/audio/intro-braindrops.mp3" type="audio/mpeg">
   Dein Browser unterstützt das Audio-Element nicht.
 </audio>  
-<p style="font-size: 10px;">Transkript: Braindrops. Ihr bekommt Antworten auf Fragen, die sogar die Erwachsenen nicht wussten.</p>
+<p style="font-size: 12px;">Transkript: Braindrops. Ihr bekommt Antworten auf Fragen, die sogar die Erwachsenen nicht wussten.</p>
+
+
+<br> <br> 
 
 
 ___
