@@ -62,7 +62,7 @@ ___
 
 #### Qualifikation.  
 Mit großer Begeisterung sind wir im Bereich der Gewässeruntersuchung tätig, mit besonderem Augenmerk auf Gewässerbotanik inkl. Phykologie mit Expertise in der Diatomeentaxonomie. Die Mitarbeitenden werden kontinuierlich fortgebildet. Wir überzeugen durch unsere über fünf Jahre Erfahrung in der Umweltbildungsarbeit mit diversen Gruppen und kontinuierliche Fortbildungen.   
-▶︎ [Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF)](/images/HYDROBIOLOGIE-KOPLITZ-Info.pdf).   
+▶︎ [Eine Übersicht über fachliche Qualifikationen und Fortbildungen finden Sie hier (PDF)](/images/Infodokumente KOPLITZ.pdf).   
 
 ___ 
 
