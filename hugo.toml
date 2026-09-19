@@ -16,6 +16,10 @@ enableRobotsTXT = true
 enableGitInfo = false
 ignoreLogs = ['warning-goldmark-raw-html']
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [Params]
 selfHosted = true
