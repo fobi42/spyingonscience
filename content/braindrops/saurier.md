@@ -1,5 +1,5 @@
 ---
-#title: "Was ist der Unterschied zwischen Dinosauriern und Sauriern? (4. Klasse Grundschule)""
+title: "Was ist der Unterschied zwischen Dinosauriern und Sauriern? (4. Klasse Grundschule)""
 date: 20256-09-20T22:52:58+02:00
 draft: false
 image: "braindrops.png"
