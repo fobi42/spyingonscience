@@ -34,7 +34,7 @@ Bitte beachte das geltende [Urheberrecht](/contact/) auf die Dateien und das Bil
 
 **Die Kakaofrucht: Schote, Bohnen, Beere, Hülle? (7. Klasse weiterführende Schule)**
 <audio controls preload="metadata" style="width: 100%;">
-  <source src="/audio/kakao-beere.mp3" type="audio/mpeg">
+  <source src="/audio/kakaobeere.mp3" type="audio/mpeg">
   Dein Browser unterstützt das Audio-Element nicht.
 </audio> 
 <p style="font-size: 12px;">
