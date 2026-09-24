@@ -21,7 +21,7 @@ Wir können leider nur eine begrenzte Anzahl an Proben in der Zeit mit euch mikr
 Wir freuen uns und sind schon ganz aufgeregt!    
 
 <br> <br>
-✍︎  [25.9.26 um 17:00-18:00 Uhr zur Anmeldung per E-Mail hier klicken.](mailto:spyingonscience@posteo.com?subject=Anmeldung%20zu%20den%20Aktionstagen%20Nachhaltigkeit%20am%2025.9.26)    
+✍︎  25.9.26 um 17:00-18:00 Uhr Anmeldung NICHT MEHR MÖGLICH.  
 
 <br> <br>
 ✍︎  [2.10.26 um 17:00-18:00 Uhr zur Anmeldung per E-Mail hier klicken.](mailto:spyingonscience@posteo.com?subject=Anmeldung%20zu%20den%20Aktionstagen%20Nachhaltigkeit%20am%202.10.26)    
