@@ -53,6 +53,8 @@ Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Koo
 **Mitgliedschaften.**   
 Wir sind Teil einiger aktiver Gesellschaften und beruflicher Fachverbände. 
 * [Deutsche Gesellschaft für Limnologie e. V.](https://dgl-ev.de/)
+    * ▶︎[Reisekommentar zur 41. DGL-Jahrestagung und 16. WRHC](https://dgl-ev.de/foerderungen/reisestipendium/reiseberichte-2026). 
+    * Mitglied im Arbeitskreis Praxis & Qualität seit 2026. 
 * [International Society for Diatom Research](https://isdr.org/)
 * [VBIO: Verband Biologie, Biowissenschaften und Biomedizin in Deutschland e.V.](https://www.vbio.de/) 
 * [Deutscher Museumsbund e. V.](https://www.museumsbund.de/)
