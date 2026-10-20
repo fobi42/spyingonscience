@@ -13,12 +13,6 @@ Nutzen Sie die Gelegenheit, uns persönlich kennenzulernen!
 Viele Veranstaltungen können dank unserer Partnerinstitutionen oft für einen **geringen Beitrag oder sogar kostenlos** besucht werden!    
 ___
 
-#### 📣📣📣 ANMELDUNG ZUR ONLINE-VERANSTALTUNG IM SEPTEMBER UND OKTOBER AB SOFORT. 
-Im Rahmen der Deutschen Aktionstage Nachhaltigkeit und passend zum Fokusthema Wasser nehmen wir teil und bieten Ihnen kostenlos seltene Einblicke!  
-"Das lebt in meinem Wasser: Live-Mikroskopie mit einer Gewässerökologin".   
-▶︎ [Hier geht's weiter zur Anmeldung](/anmeldung/).   
-
-___ 
 #### Formate öffentlicher Veranstaltungen.   
 
 Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB).  

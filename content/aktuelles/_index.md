@@ -20,13 +20,6 @@ Offene Mit-mach-Aktionen, Museumsevents und vieles mehr bieten die Gelegenheit, 
 <br> <br>
 ___
 
-#### 📣📣📣 ANMELDUNG ZUR ONLINE-VERANSTALTUNG IM SEPTEMBER UND OKTOBER AB SOFORT. 
-Im Rahmen der Deutschen Aktionstage Nachhaltigkeit und passend zum Fokusthema Wasser nehmen wir teil und bieten Ihnen kostenlos besondere Einblicke!  
-"Das lebt in meinem Wasser: Live-Mikroskopie mit einer Gewässerökologin".   
-▶︎ [Hier geht's weiter zur Anmeldung](/anmeldung/).   
-<br> <br>
-___
-
 #### Diatomeen direkt ins Ohr: Wir waren in einem Podcast zu Gast.
 * Doktopus - Der Wissenspodcast mit Dora und Dominic.  
 * Episode: "Wichtige Winzlinge: Kieselalgen sind überall!"  
