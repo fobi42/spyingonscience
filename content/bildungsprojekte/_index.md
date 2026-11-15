@@ -74,6 +74,12 @@ Wir arbeiten mit privaten und öffentlichen Institutionen, Trägern und Auftragg
 u.v.a. 
 ___ 
 
+#### Braindrops. 
+Kinder stellen fast immer die spannendsten Fragen. Und nicht immer wissen Erwachsene alles - auch nicht eine Museumspädagogin und Wissenschaftskommunikatorin. Wir liefern in diesem Format die Antworten auf Fragen, die nicht sofort beantwortet werden konnten! In kurzen Audio-Beiträgen machen die BRAIN DROPS Wissenschaft verständlich, unterhaltsam und laden zum Mit-und Weiterdenken ein. 
+▶︎ [Hier geht's zu den BRAINDROPS](/braindrops/)  
+
+___
+
 #### Gewässer verstehen. Ressourcen schützen. Zukunft gestalten.
 Einzigartig verbinden wir limnologische, ökologische und biologische Expertise zuweilen auch mit der langjährigen Erfahrung in praxisnaher Wissensvermittlung. Wir bieten Ihnen ein breites Leistungsspektrum von der Erforschung aquatischer Lebensräume bis hin zur fachgutachterlichen Berichterstattung gewässerökologischer Forschung. Informieren Sie sich gerne auch über dieses weitere Tätigkeitsfeld.  
 ▶︎ [Das Portfolio rund um Hydrobiologie und Gewässerfachgutachten  finden Sie hier](/hydrobiologie/). 

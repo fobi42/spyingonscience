@@ -20,6 +20,13 @@ Offene Mit-mach-Aktionen, Museumsevents und vieles mehr bieten die Gelegenheit, 
 <br> <br>
 ___
 
+#### Braindrops. 
+Kinder stellen fast immer die spannendsten Fragen. Und nicht immer wissen Erwachsene alles - auch nicht eine Museumspädagogin und Wissenschaftskommunikatorin. Wir liefern in diesem Format die Antworten auf Fragen, die nicht sofort beantwortet werden konnten! In kurzen Audio-Beiträgen machen die BRAIN DROPS Wissenschaft verständlich, unterhaltsam und laden zum Mit-und Weiterdenken ein. 
+▶︎ [Hier geht's zu den BRAINDROPS](/braindrops/)  
+<br> <br>
+___
+
+
 #### Diatomeen direkt ins Ohr: Wir waren in einem Podcast zu Gast.
 * Doktopus - Der Wissenspodcast mit Dora und Dominic.  
 * Episode: "Wichtige Winzlinge: Kieselalgen sind überall!"  
