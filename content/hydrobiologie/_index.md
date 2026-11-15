@@ -17,17 +17,18 @@ Unser Workflow in drei Sätzen: Wir führen entsprechend der europa- und landesw
 ___
 #### Leistungskatalog.  
 Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie und Gewässerökologie an.  
-<br> <br>   
+<br>    
 
 Wir ...  
 
-<br> <br> 
+<br> 
 
 **... BEGUTACHTEN die Gewässerstruktur vor Ort systematisch und methodisiert.**  
 * Kartierungsprotokollierung entsprechend des gewünschten Formulars
-* Kartierung von Substraten, Gewässerstruktur, Schüttung und Wasserkörper, Vegetation, Zugänglichkeit uvm. 
+* Kartierung von Substraten, Gewässerstruktur, Schüttung und Wasserkörper, Vegetation, Zugänglichkeit uvm.
+* Umweltbaubegleitung bei kleinen Bauunternehmungen 
 
-<br> <br> 
+<br>  
 
 **... BEPROBEN nach Verfahrensanleitung und mit modernster Ausrüstung.**   
 * Biologische Qualitätskomponenten: Diatomeen, Phytobenthos ohne Diatomeen (PoD) und Makrophyten inkl. Moose
@@ -37,7 +38,7 @@ Wir ...
 * Probenahme im Gelände und Probenbearbeitung im Feldlabor
 * Mobilität: Führerscheine B/BE und SBF-Binnen/-See, eigener PKW  
 
-<br> <br> 
+<br>  
 
 **... BEWERTEN Diatomeengesellschaften wissenschaftlich fundiert.**   
 * Vorgehen gemäß Angaben der WRRL 
@@ -48,7 +49,7 @@ Wir ...
 * Aufbereitung der Taxalisten in Microsoft Excel und RStudio entsprechend den aktuellen Bundestaxalisten bzw. Zieleingabeprogrammen (BOG, PERLA, Phylib)
 * Eingabe in Zieleingabeprogramme (BOG, PERLA, Phylib)  
 
-<br> <br> 
+<br>  
 
 **... BERICHTEN prägnant und mit hydrobiologischer Expertise.**  
 * Erstellung von Gutachten auf Grundlage erhobener biologischer und gewässerökologischer Daten
@@ -57,7 +58,7 @@ Wir ...
 * fachliche Stellungnahmen 
 * gewässerökologische Fachbeiträge  
 
-<br> <br> 
+<br>  
 
 **... BERATEN persönlich bei individuellen Fragestellungen.** 
 * allgemeine Fragestellungen in der Gewässerökologie 
@@ -65,6 +66,7 @@ Wir ...
 * Innovatives, angepasstes und bewährtes Untersuchungsdesign 
 * Unterstützung in der Dateninterpretation 
 * Mitwirken bei Monitoringprojekten
+* Umweltbaubegleitung bei kleinen Bauunternehmungen
 
 ___ 
 

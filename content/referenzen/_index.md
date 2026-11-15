@@ -21,21 +21,21 @@ ___
 
 #### 2025. 
 Im diesem Untersuchungsjahr wurden 174 Messstellen hinsichtlich der Qualitätskomponenten kartiert und die Diatomeengesellschaften in 211 Messtellen taxonomisch ausgewertet. 
-<br> <br> 
+<br>  
 
 **Qualitätskomponente: Diatomeentaxonomie.**  
 * „Untersuchung und Auswertung von Diatomeenproben entsprechend EG-WRRL" (Arbeitstitel, Dr. Marcus Werum, Unterauftrag der HBICON, 55  Mst).
 * “Kraftwerk Irsching der Uniper Kraftwerke GmbH. Errichtung und Betrieb der neuen GuDKraftwerksblöcke 4 und 5. Gewässerökologisches Monitoring nach Inbetriebnahme von Block 4 und 5” (Dr. Manuel M. Striegel, Unterauftrag des BNGF, 23 Mst.).
 * “Aufbereitung, Bestimmung sowie Aus- und Bewertung von benthischen Diatomeenproben aus nordrhein-westfälischen Fließgewässern der Jahre 2025-2028” (Landesamt für Natur, Umwelt und Klima NRW, LANUK, 50 Mst.).
 
-<br> <br> 
+<br>   
 
 **Qualitätskomponenten: Diatomeentaxonomie und Gewässerkartierung inkl. Feldansprache und Probenahme PoD/Makrophyten/Moose.**  
 * “Untersuchung von Makrophyten (inkl. Moose), Diatomeen und Phytobenthos ohne Diatomeen (PoD) im Bereich der Betriebsstelle Hannover-Hildesheim des NLWKN in 2025” (Bernd Humberg und Dr. Marcus Werum, Unterauftrag des NLWKN, Los 12 (40 Mst.) und 13(46 Mst.)).
 * “EG-WRRL 2024 Monitoring Phytobenthos (PoD) gemäß PHYLIB an 55 Messstellen des NLWKN / BtSt Braunschweig.” (Bernd Humberg und Dr. Marcus Werum, Unterauftrag des NLWKN).
 * “Fließgewässer-Monitoring RheinlandPfalz gemäß OGewV: Makrophyten und Phytobenthos 2025” (Dr. Manuel M. Striegel, Unterauftrag des Landesamtes für Umwelt Rheinland-Pfalz (LfU), 33 Mst.).
 
-<br> <br> 
+<br>  
 
 **Wissenschaftliche Tätigkeit** 
 * Forschungsprojekt „Mikroklima im Klimawandel – Refugien und Hotspots in den Bayerischen Nationalparks (MiKRoNP 2022/25): Teilprojekt (3) Quellen“. Projektübergabe inkl. Projektkoordination, Diatomeentaxonomie, Kursbetreuung, Datenmanagement & Berichterstattung (Ansprechpartnerin: Dr. Uta Raeder, Alumna der Limnologischen Forschungsstation Iffeldorf).
@@ -52,13 +52,13 @@ Im diesem Untersuchungsjahr wurden über 81 Messstellen hinsichtlich der Qualit�
 * "Bewertung von Fließgewässern Hessens (Los 4) anhand der Diatomeen nach Phylib Bewertungsverfahren“ (Dr. Marcus Werum, 20 Mst.).
 
 
-<br> <br> 
+<br>   
 
 **Qualitätskomponenten: Gewässerkartierung inkl. Feldansprache und Probenahme PoD/Makrophyten/Moose.**  
 * Projekte in Badenwürttemberg (Auftraggeber: Ökologische Gutachten Matthias Beck).
 * "Fließgewässer-Monitoring Rheinland-Pfalz gemäß OGewV: Makrophyten und Phytobenthos 2024, LOS 1 (40 Messstellen) und LOS 2 (41 Messstellen)" (Dr. Manuel M. Striegel, Unterauftrag des Landesamtes für Umwelt Rheinland-Pfalz (LfU)).
 
-<br> <br> 
+<br>    
 
 **Wissenschaftliche Tätigkeit** 
 * Masterarbeit im Rahmen des Projektes „Mikroklima im Klimawandel – Refugien und Hotspots in den Bayerischen Nationalparks (MiKRoNP 2022/25): Teilprojekt (3) Quellen“, inkl. Projektplanung, Diatomeenaufschluss & Präparatherstellung, Diatomeentaxonomie von 27 Messstellen (Ansprechpartnerin: Dr. Uta Raeder, Alumna der Limnologischen Forschungsstation Iffeldorf).

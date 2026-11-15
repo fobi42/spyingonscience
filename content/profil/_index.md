@@ -20,7 +20,7 @@ ____
 Wir bieten Dienstleistungen im Fachgebiet Hydrobiologie und Limnologie mit Spezialisierung in den Diatomeen des Süßwasserbenthos an. 
 Zudem engagieren wir uns in unserem Umfeld für naturwissenschaftliche Bildung für alle Zielgruppen durch unser Umweltbildungsprojekt „#SpyingOnScience“.   
 
-<br> <br> 
+<br> 
 
 **Institutsleitung.**  
 Andrea Koplitz-Weißgerber, M. Sc. Biologie   
@@ -32,10 +32,10 @@ Andrea Koplitz-Weißgerber, M. Sc. Biologie
 ▶︎ [Details und Vita sind hier auf LinkedIn einsehbar](https://www.linkedin.com/in/andrea-koplitz-weissgerber/).   
 ▶︎ [Wissenschaftliche Beiträge können hier auf researchgate gelesen werden](https://www.researchgate.net/profile/Andrea-Koplitz-Weissgerber?ev=hdr_xprf). 
 
-<br> <br> 
+<br> 
 
 **Fachbereiche.**   
-Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Kooperationen in den Bereichen:   
+Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Netzwerk-Kooperationen in den Bereichen:   
 * Diatomeentaxonomie 
 * Fachgutachten 
 * FFH Studien
@@ -48,7 +48,7 @@ Unsere institutionelle Kompetenz wird gestärkt und ergänzt durch fachliche Koo
 
 ▶︎ [Weitere Informationen zu unseren Netzwerkpartnern finden Sie hier](/hydrobiologie/). 
 
-<br> <br> 
+<br> 
 
 **Mitgliedschaften.**   
 Wir sind Teil einiger aktiver Gesellschaften und beruflicher Fachverbände. 
